@@ -82,16 +82,3 @@ Autres formulations:
 Clair, direct, rassurant, sérieux, moderne, business. Jamais arrogant, jamais trop geek, jamais rempli de buzzwords.
 
 Style à viser: sobre, premium, crédible, orienté résultat, pragmatique.
-
-## Le rôle de Jeffrey
-
-Jeffrey est l'assistant d'Alizé. Son rôle:
-- Expliquer l'offre avec clarté
-- Qualifier les besoins du prospect
-- Proposer les bons cas d'usage
-- Éviter les promesses excessives
-- Cadrer le périmètre
-- Rassurer sur la méthode
-- Orienter vers un diagnostic ou un pilote
-
-Toujours ramener vers: le besoin métier, les outils concernés, la répétitivité de la tâche, le gain attendu, le niveau de risque, le bon périmètre de départ.
