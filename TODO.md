@@ -884,3 +884,17 @@
 - [ ] **Remove MCP from differentiator claims:** MCP is infrastructure detail (D8 confirmed). Do not claim MCP capability as competitive differentiator in any external document. The only defensible MCP element: multi-tenant security implementation + accumulated config templates.
 - [ ] **Invest in multi-tenant MCP security:** The only defensible MCP advantage is the multi-tenant security implementation — document it specifically for IT/procurement buyers as a trust signal, not a marketing claim.
 - [ ] **Refine Copilot buyer question:** D140 "buyer frustrated with Copilot" is correct signal but wrong question. Frustrated Copilot users ask "how do I get more out of Copilot?" — Alizé must answer that question before presenting itself as an alternative.
+
+### NEW (from 2026-03-30 Pulse 48 — Execution Blockers, Commercial Viability, Evidence Loops)
+
+- [ ] **Validate D84 experimentally:** Louis sends 5 cold outbound messages this week to TEST his credibility ceiling — not to close, to measure response quality and conversation viability
+- [ ] **Define Path A failure criteria:** How long? How many conversations? What candidate profile? Write the threshold BEFORE starting co-founder recruitment
+- [ ] **Document SDR + Louis as Plan B:** Hired SDR handles follow-up/scheduling; Louis handles discovery and delivery. Executable in 30 days, zero cost until deal closes
+- [ ] **Kuroba capability metrics by April 3:** Deploy for Kuroba's back-office workflow. Measure: tasks automated, hours saved, error rate. Generates first commercial evidence without a client
+- [ ] **Free AI readiness diagnostic by April 7:** Offer to 3-5 warm contacts — 30-min call, written findings, warm testimonial. Non-paying but evidence-generating
+- [ ] **3-5 discovery calls week of April 7-11:** Not to close — to test problem framing, price sensitivity, and pilot candidate qualification
+- [ ] **Warm network testimonials by April 11:** Named person who saw Louis's AI work. Not a client reference, but commercial credibility
+- [ ] **Disable alize-5min-pulse cron job:** Louis runs `openclaw cron remove <jobId>` — U246, the process cannot stop itself
+- [ ] **Buy alize.studio:** Still not done after 48 pulses — U163, 5 minutes, €10
+- [ ] **Binary choice written and dated:** U91 — Louis writes "Alizé is a [startup/side-project]" and dates it
+- [ ] **Network map — 20 contacts:** U52 — Louis spends 2-3 hours on LinkedIn mapping warm contacts by ICP-fit, company size, relationship depth

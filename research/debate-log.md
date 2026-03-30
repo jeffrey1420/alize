@@ -1355,3 +1355,21 @@ All three agents agree: current research process produces zero execution. Resolu
 - Pulse process as currently scheduled
 
 *Last updated: 2026-03-30 by pulse cron (Pulse 48)*
+
+### NEW (from 2026-03-30 Pulse 48 — Execution Blockers, Commercial Viability, Evidence Loops)
+
+- [ ] **D84 reclassified:** Louis's credibility ceiling is an UNTESTED PREDICTION, not validated evidence. D247 confirms zero market data. D84 was reached by argument, not experiment. Needs validation before treating as hard constraint.
+- [ ] **Path A fallback missing:** Commercial co-founder (Path A) has no documented contingency if recruitment fails in 3/6/12 months. Plan has no fallback after D232 killed downmarket and D224 killed channel partners.
+- [ ] **D233 scope error:** Reference client is the BEST evidence, not the ONLY evidence. Capability demonstration, warm network testimony, diagnostic deliverables are all available without a paying client.
+- [ ] **U163/U91/U52/U238/U246 all reclassified as EXECUTION tasks:** All five are Louis-do tasks, not research tasks. None require more documents.
+- [ ] **U246 evidence of process failure:** Four separate "kill process" decisions (D165, D213, D240, D46), four subsequent pulses. Pulse 48 ran at 22:36 UTC despite D240 "permanently killed." Process cannot stop itself.
+- [ ] **Commercial co-founder contingency:** SDR + Louis model documented as Plan B (executable in 30 days, zero cost until deal closes).
+- [ ] **Non-client evidence available by April 15:** Self-generated capability metrics (Kuroba deployment), diagnostic deliverable, 3-5 discovery calls, warm network testimonials, published capability proof.
+
+### NEW (from 2026-03-30 Pulse 48 — Debate Log Summary)
+
+| Date | Debates | Key Outcomes |
+|------|---------|-------------|
+| 2026-03-30 late | Execution Blocker Audit, Commercial Viability Challenge, Evidence Loop Challenge | D84 untested prediction; D233 conflates best/only evidence; 5 U-items reclassified as execution; Path A needs documented fallback; cron still running after 4 kill attempts |
+
+*Last updated: 2026-03-30 by pulse cron (Pulse 48)*
