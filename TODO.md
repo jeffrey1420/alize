@@ -51,12 +51,24 @@
 - [ ] **DECISION NEEDED: Competitive framing** — reframe primary competitive set from Agentova to Microsoft/HubSpot
 - [ ] Consider inbound lead magnet ("AI Readiness Audit" free assessment) before cold outreach
 
+### NEW (from 2026-03-30 Pulse 2)
+- [ ] **DECISION NEEDED: Architecture simplification** — cut 4-layer self-improvement to Layer 1 only; simplify multi-tenancy to Docker Compose + single PG
+- [ ] **DECISION NEEDED: Vertical focus** — pick ONE vertical (professional services recommended) before 7-sector horizontal push
+- [ ] Remove MCP from marketing materials; make it infrastructure detail
+- [ ] Remove ETI multi-agent tier from public pricing; handle as direct conversation
+- [ ] Fix pilot price at €4,500 all-in (no range)
+- [ ] Adopt workflow-tier managed service (€1,200/€2,800/month — no per-agent billing)
+- [ ] Remove 3-month minimum commitment; go month-to-month after pilot
+- [ ] Lead every sales conversation with free-tool ceiling (what free can't do)
+- [ ] Build referral expectation into every pilot contract from day 1
+
 ---
 
 ## Debate Log Summary
 
 | Date | Debates | Key Outcomes |
 |------|---------|-------------|
-| 2026-03-30 | Pricing, Competitive, GTM (partial) | Diagnostic €490 questioned; per-agent pricing challenged; platform giants identified as primary threats; workflow-tier pricing proposed; free diagnostic entry proposed |
+| 2026-03-30 AM | Pricing, Competitive, GTM (partial) | Diagnostic €490 questioned; per-agent pricing challenged; platform giants as primary threats; workflow-tier proposed; free diagnostic proposed |
+| 2026-03-30 | Technical, Vertical, Revenue (full) | Architecture overengineered for launch; horizontal positioning resource-stretched; MCP demoted to infrastructure; ETI tier aspirational; pilot fee range too wide |
 
 *Last updated: 2026-03-30*
