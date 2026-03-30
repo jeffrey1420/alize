@@ -245,5 +245,28 @@
 | 2026-03-30 afternoon | Positioning, Pricing, Vertical | Sovereignty framing = weakness; tiered pricing; professional services over agencies (buy-vs-build problem) |
 | 2026-03-30 midday | GTM Readiness, Delivery Stack, Delivery Partner | Cold outbound needs 4 hard blockers; n8n MCP is beta-not-stable; Gabin-first delivery partner strategy; success-fee contracting model |
 | 2026-03-30 afternoon | Conversion, Lock-in, Website | Kill "no lock-in" externally; staged payment replaces 50% refund; website gates cold outbound not warm; commitment tier introduced |
+| 2026-03-30 afternoon | GTM Limits, Delivery Model, Pilot Pricing | Warm network = Month 1-3 only ceiling; Louis cannot solo-deliver; €4,500 pilot doesn't cover delivery costs; 12-month commitment unsellable Year 1 |
 
-*Last updated: 2026-03-30 by pulse cron (Pulse 13)*
+*Last updated: 2026-03-30 by pulse cron (Pulse 14)*
+
+### NEW (from 2026-03-30 Pulse 14 — GTM Limits, Delivery Risk, Pilot Pricing)
+- [x] **D59 — Louis GTM timeline:** Warm network is Month 1-3 ONLY (first 2-3 pilots). Not Year 1 primary channel. Explicit ceiling identified.
+- [x] **D60 — Network mapping gate:** ICP mapping of Louis's warm network must resolve before Month 1. If <30 ICP-fit warm contacts, restate Year 1 target to 3-4 pilots.
+- [x] **D61 — Kill D58 for Year 1:** 12-month commitment deferred to Year 2. Year 1 default: 3-month initial + month-to-month.
+- [x] **D62 — Bridge channel plan:** Define 2-3 alternative channels for Month 4-6 when warm network depletes.
+- [x] **D63 — Delivery partner in Month 1:** A delivery lead (business consultant) required from Day 1. Louis cannot solo-deliver first pilot.
+- [x] **D64 — Delivery milestones:** Day 7 process map signed off, Day 21 adoption check, Day 28 ROI document — non-technical milestones required.
+- [x] **D65 — Pilot fee restructure:** €4,500 for warm network first 5 pilots (case study investment). Cold outbound minimum €7,500.
+- [x] **D66 — Payment structure:** 70% at kickoff, 30% at client acceptance (Day 20-25), not Day 15.
+- [x] **D67 — Commitment structure:** 6-month initial + 30-day exit clause after Month 3, replacing D54/D58's 12-month commitment for Year 1.
+- [ ] **U52 — Louis network map:** How many warm contacts actually fit ICP? Must resolve before Month 1 outreach.
+- [ ] **U53 — Delivery partner candidate:** Who is the delivery specialist for Month 1? Gabin? External on Malt?
+- [ ] **U54 — Actual delivery day count:** Is 15 days realistic for a single-workflow pilot? 20+ days?
+- [ ] **U55 — Cold outbound pilot price:** At what price does cold outbound conversion drop significantly?
+- [ ] **U56 — Louis sales capability:** Does Louis need sales coaching before Month 1 outreach?
+- [ ] **U57 — Bridge channel definition:** What are the 2-3 alternative channels for Month 4-6?
+- [ ] Month 1: Louis maps warm network against ICP before any outreach (U52)
+- [ ] Month 1: Source and contract delivery partner for Month 1 pilot (U53)
+- [ ] Revise Year 1 target from 6-8 to 3-4 pilots if network mapping shows <30 ICP-fit contacts
+- [ ] Update commercial offer: 6-month + 30-day exit structure, 70/30 payment, channel-differentiated pilot pricing
+- [ ] Update external materials: remove all "12-month commitment" language from Year 1 pitch

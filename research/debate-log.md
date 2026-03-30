@@ -232,6 +232,14 @@ Central log of all debate outcomes across research pulses.
 | Lock-in Strategist | No lock-in, client controls, Agentova reference | Kill "no lock-in" externally; shift "client controls" to "Alizé accountability"; stop using Agentova as competitive reference; add formal commitment tier |
 | Website Strategist | Website as universal blocker | Kill website as universal first blocker; gates cold outbound NOT warm outreach; warm outreach starts Day 1 via LinkedIn + direct materials |
 
+## Pulse 14 (2026-03-30 — 13:18 UTC)
+
+| Agent | Topic | Key Findings |
+|-------|-------|-------------|
+| GTM Capacity Strategist | Louis-as-GTM assumptions | Warm network = Month 1-3 only ceiling; 75-160 discovery calls needed for 6-8 pilots; no sales skills identified in Louis; 12-month commitment unsellable Year 1 |
+| Delivery Model Strategist | Louis-delivers-Month-1 assumption | Louis cannot solo-deliver; needs delivery lead from Day 1; process mapping + change management are non-technical; "document everything" doesn't transfer tacit knowledge |
+| Pilot Pricing Strategist | €4,500 at-cost assumption | Below market at €300/day realistic rate is €450-600; selection bias attracts cost-conscious not committed buyers; Day 15 payment creates collection risk; 12-month commitment reduces conversion |
+
 ### New Decisions (Pulse 13)
 
 | ID | Topic | Decision | Source | Date |
