@@ -389,3 +389,13 @@
 - [ ] Month 1: Draft "vs. Copilot" objection handler for sales playbook before any pilot outreach
 - [ ] External materials: Remove all Agentova comparisons; define Alizé's category without naming competitors
 - [ ] BRIEF.md: Update competitive section — replace Agentova framing with cross-system workflow automation + governance framing; add Microsoft as named competitive consideration in internal planning docs
+
+### NEW (from 2026-03-30 Pulse 22 — Web Agency Conflict, Pricing, Delivery Credibility)
+- [ ] **U107 — Web agency conflict (U95):** Must resolve before delivery rehearsal proceeds. If web agency competes with Alizé for client AI deployments, disqualify as pilot target.
+- [ ] **U108 — Better internal pilot target:** Consider Grinto (Louis's internship company) as delivery rehearsal target — organizational complexity without competitive overlap.
+- [ ] **U109 — Pricing restructure:** Consider €1,500-2,000 pilot fee for first 2-3 clients in exchange for case study rights. Accept as CAC investment.
+- [ ] **U110 — Delivery credibility stack:** Define minimum credibility signals before cold pilot outreach (named reference, senior commercial presence, live demo).
+- [ ] **U111 — Louis delivery expertise:** Louis needs delivery education before Month 1 — enough to evaluate contractor quality.
+- [ ] Resolve U95 before touching D100 (web agency decision gates delivery rehearsal scope).
+- [ ] Do NOT treat first web agency deployment as a social-proof-ready case study — internal use only per D103.
+- [ ] External materials: remove all "professional services first" language until network ICP mapping (U52) is complete.

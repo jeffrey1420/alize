@@ -482,3 +482,36 @@ Central log of all debate outcomes across research pulses.
 | U105 | Internal pilot success criteria | What outcomes justify Month 2 external push? |
 | U106 | Social proof bridge | How to bridge from internal to external credibility? |
 
+
+---
+
+## Pulse 22 (2026-03-30 — 15:37 UTC)
+
+| Agent | Topic | Key Findings |
+|-------|-------|-------------|
+| Web Agency Conflict Strategist | D100 web agency as internal pilot | Scale mismatch; ICP overlap creates competitive knowledge transfer risk; web agency is not a valid proxy for 50-200 person PME |
+| Pricing Viability Strategist | €2,000-2,500/month pricing | Price point unsellable without credibility; 20x Agentova premium unexplained; conversion problem not just closing-person problem |
+| Delivery Credibility Strategist | Minimum credibility signals for DG | Malt contractor ≠ credibility; Louis can't evaluate quality he can't perform; named reference + senior commercial presence required |
+
+### New Decisions (Pulse 22)
+
+| ID | Topic | Decision | Source | Date |
+|----|-------|----------|--------|------|
+| D104 | Web agency conflict gate | U95 must be resolved BEFORE delivery rehearsal proceeds with web agency | Web agency agent | 2026-03-30 |
+| D105 | Web agency rehearsal = knowledge transfer risk | If web agency used, playbook must exclude transferable competitive knowledge | Web agency agent | 2026-03-30 |
+| D106 | Scale mismatch invalidates rehearsal proxy | 2-3 person agency ≠ 50-200 person PME deployment complexity | Web agency agent | 2026-03-30 |
+| D107 | Pricing conversion problem | Price point unsellable regardless of who closes; restructure pilot fee or accept first clients as CAC | Pricing agent | 2026-03-30 |
+| D108 | Delivery partner ≠ credibility partner | Malt contractor = execution capacity, not credibility; named reference + senior commercial required | Credibility agent | 2026-03-30 |
+| D109 | Louis delivery expertise blind spot | Louis cannot supervise delivery quality he cannot perform himself | Credibility agent | 2026-03-30 |
+
+### New Unresolved (Pulse 22)
+
+| ID | Topic | Blocker |
+|----|-------|---------|
+| U107 | Web agency conflict resolution | Does web agency compete with Alizé for client AI deployments? |
+| U108 | Better internal pilot target | If not web agency, what is Month 1 delivery rehearsal target? |
+| U109 | Pricing restructure | Reduce pilot fee to €1,500-2,000 for first 2-3 clients in exchange for case study rights? |
+| U110 | Delivery credibility stack | Minimum credibility signals before cold pilot outreach? |
+| U111 | Louis delivery expertise | How does Louis build enough delivery knowledge to supervise a contractor? |
+
+*Last updated: 2026-03-30 by pulse cron (Pulse 22)*
