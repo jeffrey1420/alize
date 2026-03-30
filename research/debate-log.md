@@ -787,3 +787,23 @@ Central log of all debate outcomes across research pulses.
 | U160 | Network ICP mapping | U52 30-pulse unresolved; gates all vertical/GTM decisions |
 
 *Last updated: 2026-03-30 by pulse cron (Pulse 30)*
+
+---
+
+## Pulse 31 (2026-03-30 — 17:52 UTC)
+
+| Agent | Topic | Key Findings |
+|-------|-------|-------------|
+| Process Critic | Debate loop vs indecision | 30 pulses, 160+ decisions, zero final. Process is documenting indecision. U91/U52 require Louis data, not agents. Kill decisions without replacement = resolution vacuum. |
+| Offer Critique | Pricing loop vs market signal | Pick €1,500/€3,500/€2,000, stop debating, go sell. Pricing without customer contact = feedback loop with no signal. €7,500 is a closing price, not opening price. |
+| GTM Reality | Window framing produced paralysis | Zero outreach in 82 days = window framing failed. Concrete this-week actions: buy domain, send 5 emails, map 10 warm contacts, book 1 call. Single most valuable: send the email. |
+
+### Decisions from Pulse 31
+
+| ID | Topic | Decision | Source | Date |
+|----|-------|----------|--------|------|
+| — | Process reform | Stop pulses until U91/U52 resolved; no decision can kill another without replacement | Process critic | 2026-03-30 |
+| — | Offer structure | €1,500 diagnostic / €3,500 pilot / €2,000/month — three numbers, no ranges | Offer critique | 2026-03-30 |
+| — | GTM gate | Send emails before debating GTM further; zero decisions required to start outreach | GTM reality | 2026-03-30 |
+
+*Last updated: 2026-03-30 by pulse cron (Pulse 31)*
