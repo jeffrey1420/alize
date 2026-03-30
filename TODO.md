@@ -542,6 +542,21 @@
 - [ ] Month 1 Week 1: Resolve U123/U129 expert-comptable network — validates or invalidates D145 vertical
 - [ ] Month 1: Louis begins domain research for expert-comptables OR identifies embedded domain expert for first pilot (U146/U147)
 - [ ] Kill D126/D135 as unconditional decisions — expert-comptable vertical is CONDITIONAL on D145
-- [ ] Kill D110/D123 CAC pilot model — replaced by D148/D149 (free diagnostic + €7,500+ pilot)
-- [ ] External materials: Update diagnostic offer — FREE 30-min call + €490 written deliverable credited toward pilot
-- [ ] Sales playbook: Update cold outbound window framing — "capacity window" not "market window"
+- [ ] Kill D110/D123 CAC pilot model — replaced by D148/D149 (free diagnostic + €7,500+ pilot) — NOTE: D148/D149 now challenged by D155/D156 (pricing inconsistency)
+- [ ] External materials: Update diagnostic offer — FREE 30-min call + €490 written deliverable credited toward pilot — REVISED: D155 suggests €1,500 diagnostic OR discovery form qualification; D158 kills credit mechanism
+
+### NEW (from 2026-03-30 Pulse 30 — Pricing, Category, Window Challenges)
+- [ ] **Kill D148/D149 as currently stated** — D155/D156/D157 identify: €490 credibility problem, D149 vs D110-112 internal contradiction, unit economics failure at -€4,500 per early-exit
+- [ ] **Kill D143 "regulated SMEs"** — D159 replaces with outcome/integration framing (no compliance claim); D160 removes "regulated" from TAM; D161 requires D97 validation before use as category rationale
+- [ ] **Kill D151 cold outbound timing** — D162 corrects to Month 3-4 (not Month 1-2); 4 D47 blockers are sequential, not parallel
+- [ ] **Kill "window" framing entirely** — D163 replaces with capacity milestones and execution checkpoints; D164 splits D76 (market window 6-18mo) from D82 (Louis capacity horizon 3-6mo) as independent constraints
+- [ ] **Kill D97 as category rationale** — unvalidated assumption; requires primary research (survey 20 warm contacts with governance/Copilot questions) before use
+- [ ] **U155 — Diagnostic price final:** €490 vs €1,500 vs discovery-form — Louis decision required; credibility ceiling analysis (D84/D107) strongly suggests €1,500
+- [ ] **U156 — Pilot pricing final:** €1,500 (pilot 1-3 CAC model, D110) vs €7,500 (D149 warm network) — cannot both be true; choose one model
+- [ ] **U157 — Category final:** "Regulated SMEs" (D143) vs "AI workflow automation for companies that use multiple business tools" vs "AI agents that connect to your tools" — Louis decision required
+- [ ] **U158 — Cold outbound start date:** Calculate actual date when 4 D47 blockers will clear — not assume Month 1-2 or Month 3-4; derive from current date
+- [ ] **Pricing section:** Revise to: €1,500 diagnostic (no credit) OR discovery form for qualification; pilot pricing either €2k (CAC model) or €7.5k (standard), not both; remove credit mechanism
+- [ ] **Category section:** Remove all "regulated" and "compliance" from identity/hero; lead with integration/outcome framing
+- [ ] **GTM timeline:** Move cold outbound from "Month 1-2" or "Month 2-3" to explicit "Month 3-4 minimum after D47 blockers clear"
+- [ ] **Window section:** Remove "window" language; add "capacity milestones" section with specific execution checkpoints
+- [ ] **FOUNDATIONAL GATE (U159/U160):** U91 and U52 remain unresolved after 30 consecutive pulses — these gates block ALL pricing, GTM, and vertical decisions from being treated as final. Priority this week: resolve or explicitly defer Alizé as side-project.

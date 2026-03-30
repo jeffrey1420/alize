@@ -752,4 +752,38 @@ Central log of all debate outcomes across research pulses.
 | 2026-03-30 | WTP vs Copilot, Louis Hours, Category Framing | "Copilot isn't enough" replaces "additive"; U91 is decision not data; "service firm" rejected for outside-in framing |
 | 2026-03-30 | Vertical Thesis, Pricing Architecture, GTM Velocity | Expert-comptable vertical CONDITIONAL on network validation; diagnostic becomes FREE + €490 credit; cold outbound window is 2-3 months not 3-6; "window" reframed as capacity constraint |
 
-*Last updated: 2026-03-30 by pulse cron (Pulse 29)*
+## Pulse 30 (2026-03-30 — 17:35 UTC)
+
+| Agent | Topic | Key Findings |
+|-------|-------|-------------|
+| Pricing Architecture | D148/D149/D150 | €490 deliverable creates credibility problem (intern-level pricing); D148/D149 inconsistent with D150's single-price philosophy; unit economics don't work (7.5-month recovery vs 3-month commitment); "credited toward pilot" mechanism undefined |
+| Category & Positioning | D143 "Regulated SMEs" | "Regulated" signals compliance assets Louis doesn't have (contradicts D42); narrows TAM unnecessarily (70% of ICP not governance-constrained per D127); D97 "governance-disqualifying" assumption unvalidated; compliance theater vs compliance substance |
+| First-Mover Window | D82/D151/D152 | Window closes before it opens (cold outbound starts Month 3-4, not Month 1-2); D82 contradicts D76 (3-6 vs 6-18 months); execution-dependent not timing-dependent; "capacity window" creates desperation narrative |
+
+### Decisions from Pulse 30
+
+| ID | Topic | Decision | Source | Date |
+|----|-------|----------|--------|------|
+| D155 | Diagnostic price | €490 creates credibility problem; €1,500 diagnostic recommended OR discovery form qualification | Pricing challenge | 2026-03-30 |
+| D156 | Pricing inconsistency | D148/D149 internally inconsistent with D150; must resolve before publishing | Pricing challenge | 2026-03-30 |
+| D157 | Unit economics gate | Pricing cannot finalize until pilot-to-retainer recovery math validated | Pricing challenge | 2026-03-30 |
+| D158 | Credit mechanism | Kill "credited toward pilot"; replace with "€490 off first month" or remove entirely | Pricing challenge | 2026-03-30 |
+| D159 | Category "regulated" | Kill D143 "regulated SMEs"; replace with outcome/integration framing | Category challenge | 2026-03-30 |
+| D160 | TAM correction | Remove "regulated" from TAM; 70% of ICP not governance-constrained | Category challenge | 2026-03-30 |
+| D161 | D97 validation | D97 requires primary research before use as category rationale | Category challenge | 2026-03-30 |
+| D162 | Cold outbound timeline | Cold outbound effectively Month 3-4, not Month 1-2 | Window challenge | 2026-03-30 |
+| D163 | Window framing | Kill "window" language; replace with capacity milestones | Window challenge | 2026-03-30 |
+| D164 | D76/D82 resolution | Both constraints exist independently: market window (D76, 6-18mo) vs Louis capacity horizon (D82, 3-6mo) | Window challenge | 2026-03-30 |
+
+### Unresolved from Pulse 30
+
+| ID | Topic | Blocker |
+|----|-------|---------|
+| U155 | Diagnostic price final | €490 vs €1,500 — Louis decision needed |
+| U156 | Pilot pricing final | €1,500 CAC vs €7,500 D149 — cannot both be true |
+| U157 | Category final | "Regulated SMEs" vs alternatives — Louis decision needed |
+| U158 | Cold outbound start date | Actual date when 4 D47 blockers clear — calculated not assumed |
+| U159 | Louis hours commitment | U91 30-pulse unresolved; binary choice pending |
+| U160 | Network ICP mapping | U52 30-pulse unresolved; gates all vertical/GTM decisions |
+
+*Last updated: 2026-03-30 by pulse cron (Pulse 30)*
