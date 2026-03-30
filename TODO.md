@@ -658,3 +658,18 @@
 - [ ] Month 1: Define U171 in one sentence — specific workflow, specific trigger, specific output
 - [ ] External materials: Remove all references to "web agencies as first vertical" — pending U52 completion and U173 resolution
 - [ ] Sales motion: Replace pitch-led warm outreach with demo-led prototype-first (D182)
+
+### NEW (from 2026-03-30 Pulse 37 — Demo Motion Scalability, Free Pilot Revenue, Louis Profile)
+- [x] **D189 — Demo motion limits:** Demo-led motion correct for first 2-3 pilots only; requires commercial layer by Month 3; "indefinitely scalable" claim is false
+- [x] **D190 — Free pilot model KILLED:** D183/D186 as currently structured has NO credible conversion path; no trigger defined; "gratuit = suspect" in French PME culture; wrong prospect selection
+- [x] **D191 — Louis credibility floor:** Louis's solo-close credibility ceiling (D84) applies at every price point, not just €7,500+; demo sidesteps pitch credibility but not operational credibility
+- [x] **D192 — Kuroba story:** "Co-founded Kuroba web agency" is Louis's strongest credential for "qui c'est" — completely absent from all external materials; add to BRIEF.md and all outreach materials
+- [x] **D193 — Proof priority:** Product credibility (working agent, real outputs) takes absolute priority over founder credibility; address Louis's profile gap after demonstrating delivery capability
+- [ ] **U191 — Demo → commercial transition:** What does Louis say when prospect asks "how much?" after the demo? No pricing script exists
+- [ ] **U192 — Free pilot conversion trigger:** At what exact moment does Louis ask for money? Day 1 of engagement must include explicit "Month 2 commercial conversation" trigger
+- [ ] **U193 — Louis credibility floor validation:** Has Louis ever closed any paid engagement at any price? What was the mechanism?
+- [ ] **U194 — Kuroba positioning:** Where does "co-founded Kuroba" appear in external materials? Not in BRIEF.md, not in any outreach template
+- [ ] Kill D183/D186 (free pilot model): Replace with explicit conversion-trigger structure or structured paid pilot (D190)
+- [ ] Month 1: Prepare pricing answer BEFORE first demo — even if the answer is "first month free, then €X/month"
+- [ ] External materials: Add "co-founded Kuroba web agency" to all "qui c'est" responses in pitch deck, LinkedIn outreach, and landing page
+- [ ] Sales motion: Demo-led for first contact, but commercial conversation on Day 1 — not deferred to "when the prospect decides"

@@ -971,6 +971,19 @@ Central log of all debate outcomes across research pulses.
 - [x] **D186 — First 1-2 pilots free:** Pilot 1-2 are free learning investments, not priced engagements — pilot 3+ is first €2,000 engagement
 - [x] **D187 — D181 KILLED:** Web agencies wrong as first vertical — conflict of interest (Louis co-founded one), category mismatch (web agencies build tools not buy them), navigation paradox (D135 = employer relationship exploitation)
 - [x] **D188 — U52 is forcing function:** Complete network map THIS WEEK — 20 names, company size, relationship depth, ICP fit — no more pulses until map exists
+- [x] **D189 — Demo motion limits:** Demo-led motion correct for first 2-3 pilots only; requires commercial layer by Month 3; "indefinitely scalable" claim is false
+- [x] **D190 — Free pilot model KILLED:** D183/D186 as currently structured has NO credible conversion path; no trigger defined; "gratuit = suspect" in French PME culture; wrong prospect selection
+- [x] **D191 — Louis credibility floor:** Louis's solo-close credibility ceiling (D84) applies at every price point, not just €7,500+; demo sidesteps pitch credibility but not operational credibility
+- [x] **D192 — Kuroba story:** "Co-founded Kuroba web agency" is Louis's strongest credential for "qui c'est" — completely absent from all external materials; add to BRIEF.md and all outreach materials
+- [x] **D193 — Proof priority:** Product credibility (working agent, real outputs) takes absolute priority over founder credibility; address Louis's profile gap after demonstrating delivery capability
+- [ ] **U191 — Demo → commercial transition:** What does Louis say when prospect asks "how much?" after the demo? No pricing script exists
+- [ ] **U192 — Free pilot conversion trigger:** At what exact moment does Louis ask for money? Day 1 of engagement must include explicit "Month 2 commercial conversation" trigger
+- [ ] **U193 — Louis credibility floor validation:** Has Louis ever closed any paid engagement at any price? What was the mechanism?
+- [ ] **U194 — Kuroba positioning:** Where does "co-founded Kuroba" appear in external materials? Not in BRIEF.md, not in any outreach template
+- [ ] **Kill D183/D186 (free pilot model):** Replace with explicit conversion-trigger structure or structured paid pilot (D190)
+- [ ] Month 1: Prepare pricing answer BEFORE first demo — even if the answer is "first month free, then €X/month"
+- [ ] External materials: Add "co-founded Kuroba web agency" to all "qui c'est" responses in pitch deck, LinkedIn outreach, and landing page
+- [ ] Sales motion: Demo-led for first contact, but commercial conversation on Day 1 — not deferred to "when the prospect decides"
 - [ ] **U170 — Louis solo delivery capability:** HARD BLOCKER — 3-day technical self-test required before committing to solo delivery (D185)
 - [ ] **U173 — Web agency conflict:** UNRESOLVED after 14+ pulses — is Louis's co-founded web agency still active? Does it compete with Alizé's targets? Gates ALL web agency decisions
 - [ ] **U52 — Louis warm network map:** Still not done after 36 pulses — 20 names, company, size, relationship depth, ICP fit required before any vertical, pricing, or GTM decision
@@ -1002,5 +1015,6 @@ Central log of all debate outcomes across research pulses.
 | 2026-03-30 afternoon | Conversion, Lock-in, Website | Kill "no lock-in" externally; staged payment replaces 50% refund; website gates cold outbound not warm; commitment tier introduced |
 | 2026-03-30 afternoon | GTM Limits, Delivery Risk, Pilot Pricing | Warm network = Month 1-3 only ceiling; Louis cannot solo-deliver; €4,500 pilot doesn't cover delivery costs; 12-month commitment unsellable Year 1 |
 | 2026-03-30 | Credibility, Delivery, Vertical (Pulse 36) | D84 implicit floor unvalidated; demo-led motion replaces pitch-led; D181 (web agencies) KILLED on conflict/category/navigation grounds; U52 is forcing function |
+| 2026-03-30 evening | Demo Motion, Free Pilot, Louis Profile (Pulse 37) | D182 demo motion NOT indefinitely scalable; D183/D186 free pilot has NO conversion path; Louis credibility floor is €0 at any price; Kuroba co-founding story unused in materials; product credibility > founder credibility |
 
-*Last updated: 2026-03-30 by pulse cron (Pulse 36)*
+*Last updated: 2026-03-30 by pulse cron (Pulse 37)*
