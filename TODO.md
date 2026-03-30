@@ -182,6 +182,24 @@
 - [ ] **Pricing page update:** Implement tiered managed service offer (starter + multi-workflow)
 - [ ] **Review D13/D14 conflict:** 20-30 person pilot target is incompatible with €2,500/month floor — tiered pricing resolves this but needs explicit decision
 
+### NEW (from 2026-03-30 Pulse 12 — Delivery/Infrastructure/Cold Outbound)
+- [x] **Month 1 delivery stack (D45):** Skip n8n for Month 1. Run first pilots on Mastra + direct API integrations. Existing stack sufficient.
+- [x] **n8n MCP stability (D46):** n8n MCP is NOT production-stable — open bugs in queue mode make it unsuitable for managed service delivery.
+- [x] **Cold outbound blockers (D47):** 4 hard blockers defined: (1) live website at alize.studio, (2) one completed pilot with documented results, (3) ICP confirmed and locked, (4) delivery capability confirmed. 5 required assets also defined.
+- [x] **Delivery partner sequencing (D48):** Check Gabin's consulting background first (Day 1-3). If he qualifies, Louis + Gabin deliver Month 1 together. If not, begin Malt outreach for external delivery partner.
+- [x] **Delivery partner contract (D49):** Success-fee: €350/day base + €1,500 conversion bonus. Total exposure capped at €3,250 if pilot doesn't convert.
+- [x] **Infrastructure decision timing (D50):** Defer all infrastructure decisions (OVHcloud, n8n, Docker vs K8s) to Month 3. Existing stack sufficient for Month 1 pilots.
+- [ ] **U41 — Gabin's consulting background:** Ask Gabin directly — does he have client-facing PME consulting experience?
+- [ ] **U42 — Domain purchase:** alize.studio still not bought. First cold outbound blocker.
+- [ ] **U43 — First pilot client:** Must be identified before delivery partner engagement
+- [ ] **U44 — Month 1 pilot scope:** Which workflow, which client, which tools — must be defined before delivery starts
+- [ ] **Month 1 cold outbound gate:** Do NOT start cold outbound until 4 blockers are cleared (website live, pilot completed, ICP locked, delivery confirmed)
+- [ ] **U45 — n8n vs Make.com:** Deferred to Month 3 (per D50)
+- [ ] **U46 — OVHcloud vs other EU VPS:** Deferred to Month 3 (per D50)
+- [ ] Month 1: Buy domain (alize.studio) — first blocker for everything
+- [ ] Month 1: Complete first pilot on Mastra stack only (no n8n) — validate delivery model before investing in tooling
+- [ ] Update D34 — n8n setup in Month 1 is REVERSED by D45. Do NOT spin up n8n in Month 1.
+
 ---
 
 ## Debate Log Summary
@@ -195,6 +213,7 @@
 | 2026-03-30 midday | Positioning, MVP scope, Diagnostic pricing | "AI employee" framing = French labor/political liability; runtime spike = backwards; diagnostic = free lead gen |
 | 2026-03-30 midday | Delivery, Tooling, Model identity | Louis can't solo-deliver; n8n over Make.com; productized consulting identity; €2,000-2,500/month minimum |
 | 2026-03-30 afternoon | Positioning, Pricing, Vertical | Sovereignty framing = weakness; tiered pricing; professional services over agencies (buy-vs-build problem) |
+| 2026-03-30 midday | GTM Readiness, Delivery Stack, Delivery Partner | Cold outbound needs 4 hard blockers; n8n MCP is beta-not-stable; Gabin-first delivery partner strategy; success-fee contracting model |
 
-*Last updated: 2026-03-30 by pulse cron (Pulse 11)*
+*Last updated: 2026-03-30 by pulse cron (Pulse 12)*
 

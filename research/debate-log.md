@@ -203,4 +203,23 @@ Central log of all debate outcomes across research pulses.
 | Digital agencies (D13) | Agencies can build their own agents | Professional services first (D44) |
 | Grinto network = Alizé strategy | Proximity ≠ market fit | Network-to-ICP mapping |
 
-*Last updated: 2026-03-30 by pulse cron (Pulse 11)*
+## Pulse 12 (2026-03-30 — 12:48 UTC)
+
+| Agent | Topic | Key Findings |
+|-------|-------|-------------|
+| GTM Readiness | Cold outbound blockers | 4 hard blockers defined (website, pilot, ICP, delivery) + 5 required assets; warm and cold run in parallel; Month 2 only after blockers clear |
+| Delivery Stack | n8n + OVHcloud assumptions | n8n MCP NOT production-stable (open queue mode bugs); self-hosted n8n creates 24/7 ops burden; existing Mastra stack sufficient for Month 1; defer all infrastructure decisions to Month 3 |
+| Delivery Partner | Sourcing strategy | Check Gabin first (Day 1-3); success-fee contract (€350/day + €1,500 conversion); budget validated against €4,500 pilot; 5-step sourcing plan with timeline |
+
+### New Decisions (Pulse 12)
+
+| ID | Topic | Decision | Source | Date |
+|----|-------|----------|--------|------|
+| D45 | Month 1 delivery stack | Skip n8n for Month 1. Run first pilots on Mastra + direct API integrations. Defer n8n/OVHcloud decision to Month 3. | Delivery stack agent | 2026-03-30 |
+| D46 | n8n MCP stability | n8n MCP NOT production-stable — open bugs in queue mode make it unsuitable for managed service delivery | Delivery stack agent | 2026-03-30 |
+| D47 | Cold outbound blockers | 4 hard blockers: live website + completed pilot + ICP locked + delivery confirmed. 5 required assets also defined. | GTM readiness agent | 2026-03-30 |
+| D48 | Delivery partner sequencing | Check Gabin's consulting background first. If he qualifies, Louis + Gabin deliver Month 1. If not, begin Malt outreach for external partner. | Delivery partner agent | 2026-03-30 |
+| D49 | Delivery partner contract | Success-fee: €350/day base + €1,500 conversion bonus. Exposure capped at €3,250 if pilot doesn't convert. | Delivery partner agent | 2026-03-30 |
+| D50 | Infrastructure decision timing | Defer all infrastructure decisions (OVHcloud, n8n, Docker vs K8s) to Month 3. Existing stack sufficient for Month 1 pilots. | Delivery stack agent | 2026-03-30 |
+
+*Last updated: 2026-03-30 by pulse cron (Pulse 12)*
