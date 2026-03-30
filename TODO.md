@@ -774,3 +774,23 @@
 - [ ] **U163 domain:** Still not done after 42 pulses. Buy alize.studio.
 - [ ] **U52 network map:** Still not done after 42 pulses. 20 names required.
 - [ ] **U91 behavioral binary:** Replace "Alizé is a [startup/side-project]" with weekly behavioral reporting. First report due Sunday March 30.
+
+### NEW (from 2026-03-30 Pulse 43 — Channel Partner + Positioning Clarity)
+- [x] **D224 — Channel partner DEAD END Year 1:** Accounting firms are clients not channels; software resellers are competitors; economics broken at 15-20% referral; channel build timeline 6-9 months minimum. All channel partner GTM items deferred to Year 2.
+- [x] **D225 — Expert-comptables reframed:** Sell TO expert-comptable firms as ICP clients (they have 10-50 employees, back-office admin problems, budget). Do NOT treat as referral channel.
+- [x] **D226 — Landing page hero sentence (confirmed):** "We take over your invoice processing, CRM updates, and client FAQ responses — the 15 hours a week of repetitive data work that your senior staff are doing manually — and run it so you never have to think about it again." Use as landing page hero template.
+- [x] **D227 — Positioning loop broken:** Stop positioning refinement until pilot evidence exists. One named client with specific metrics is worth 43 positioning debates.
+- [ ] **Kill channel partner GTM items:** GTM-031 (accounting firm partners), GTM-032 (FrenchTech partners), GTM-033 (partner portal), GTM-034 (partner onboarding) — all deferred to Year 2
+- [ ] **Expert-comptable outreach:** Target as ICP clients, not referral partners
+- [ ] **Rewrite landing page hero:** Use D226 sentence as template
+- [ ] **Stop positioning debates:** Next positioning pulse only after first pilot signed
+
+### NEW (from 2026-03-30 Pulse 42 — Positioning Clarity Auditor)
+- [x] **D228 — Positioning framing challenge:** "Back-office admin AI for service firms" (D77) is a product definition, not a positioning claim. It passes category-recognition but fails the "that's my problem" test. DG buyers recognize the category; they don't feel the urgency.
+- [x] **D229 — Positioning is symptom not cause:** The positioning keeps evolving because the product/market evidence hasn't been generated. No amount of hero-copy iteration produces differentiation when the core product (vertical, workflow, price, delivery) is still undefined.
+- [x] **D230 — ONE sentence delivered:** "We take over your invoice processing, CRM updates, and client FAQ responses — the 15 hours a week of repetitive data work that your senior staff are doing manually — and run it so you never have to think about it again." This is the test: if a DG buyer reads it and immediately thinks of the specific employee buried in this work, it converts.
+- [x] **D231 — "Back-office admin AI" demoted:** D77 is insufficient as a positioning claim. "Back-office admin" is a category description (Zapier says the same thing). The sentence must name the specific work, the specific pain, and the specific outcome.
+- [ ] **Landing page hero rewrite:** Replace "back-office admin AI for service firms" with specific task/outcome language — name the work (invoice processing, CRM updates, FAQ responses), name the time cost (15 hours/week), name the outcome (never think about it again). See D230 for the template.
+- [ ] **Kill positioning refinement until first pilot evidence:** Do not write another positioning document. Write a scope document for the first pilot. The positioning becomes clear once there is evidence of what actually works. Current positioning drift is a symptom of undefined product/market fit, not a solvable positioning problem.
+- [ ] **U77 addressed:** The positioning rewrite task is partially resolved — the ONE sentence exists (D230). The execution (Louis writing the actual hero) is still pending. The blocking issue is not writing skill; it's that no one knows if the underlying claim is true yet.
+- [ ] **D75 executed:** "Delegation with accountability" has been replaced with concrete task/outcome language in D230. The concrete alternative is now available for all external materials.

@@ -1164,3 +1164,35 @@ Central log of all debate outcomes across research pulses.
 
 *Last updated: 2026-03-30 by pulse cron (Pulse 42)*
 
+---
+
+## Pulse 43 (2026-03-30 — 21:00 UTC)
+
+| Agent | Topic | Key Findings |
+|-------|-------|-------------|
+| Channel Partner Auditor | D219 Path 3 viability | Channel partner is DEAD END Year 1. Accounting firms are clients not channels; software resellers are competitors (Cegid/Sage/Pennylane already own their AI roadmaps); economics broken at 15-20%; channel timeline 6-9 months minimum. Trusted advisor dynamic is the obstacle, not the vehicle. |
+| Positioning Clarity Auditor | 42-demotion positioning | No positive claim survives the demotions. "Back-office admin AI for service firms" is a product definition, not positioning. Every automation tool says the same thing. Positioning is a symptom of undefined product/market evidence. One sentence works: D226. |
+
+### New Decisions (Pulse 43)
+
+| ID | Topic | Decision | Source |
+|----|-------|----------|--------|
+| D224 | Channel partner Year 1 | DEAD END — all channel GTM items deferred to Year 2 | Channel partner auditor |
+| D225 | Expert-comptables reframed | Sell TO accounting firms as ICP clients, not through them as referral partners | Channel partner auditor |
+| D226 | Positioning hero sentence | "We take over your invoice processing, CRM updates, and client FAQ responses — the 15 hours a week of repetitive data work that your senior staff are doing manually — and run it so you never have to think about it again." | Positioning auditor |
+| D227 | Positioning loop | Stop positioning refinement until pilot evidence exists — one named client with specific metrics worth 43 positioning debates | Positioning auditor |
+
+### Pulse 43 Kill List
+- Channel partner as Year 1 GTM (D224)
+- Expert-comptable as referral channel (D225 — reframed as ICP client)
+- "Back-office admin AI for service firms" as hero positioning (D226 — replaced with D230)
+- Continued positioning research without pilot evidence (D227)
+
+### Suspension Status
+Pulse 42 suspension criteria STILL NOT MET:
+- U163 (domain): NOT DONE
+- U91 (binary choice): NOT DONE
+- U52 (network map): NOT DONE
+
+*Last updated: 2026-03-30 by pulse cron (Pulse 43)*
+
