@@ -32,6 +32,9 @@
 | U12 | First vertical selection | Professional services (consulting firms) vs. accounting firms vs. healthcare admin | Task density, ROI clarity, and decision-maker sophistication differ across each |
 | U13 | Service delivery model | Self-deliver (Louis = client success) vs. automated-light (heavy monitoring automation) vs. partner model | Biggest execution risk |
 | U14 | Product scope 90-day | What specifically gets built in the first 90 days? Need a hard list. | 2 devs cannot do everything |
+| U15 | Delivery model | Who is the client-facing layer in Month 1-3? Louis + contractor? Louis full-time sales? | Needs immediate decision |
+| U16 | First pilot vertical | Digital agencies/e-commerce confirmed — but which specific type? | Follow Grinto connections |
+| U17 | Pilot fee final | At-cost structure confirmed — what is the exact number? | Needs Louis decision |
 
 ## 📋 TODO (from research + debates)
 
@@ -86,6 +89,19 @@
 - [ ] Financial model: economics don't work at 5 clients; viable at 12-15 clients minimum
 - [ ] Client success role: must be defined by Month 3 — Louis transitions to client-facing or contractor hired
 - [ ] Product scope: contract to 90-day MVP — agent runtime + 1 MCP connector + basic monitoring + landing page only
+
+### NEW (from 2026-03-30 Pulse 6)
+- [x] First vertical: digital agencies/e-commerce, NOT professional services (D13)
+- [x] First pilot size: 20-30 person companies for first pilot; 50-200 for scale phase (D14)
+- [x] Pilot fee: at-cost with strict deliverables + case study rights, NOT discounted (D15)
+- [x] Delivery model: implementation contractor needed by Month 1-2, NOT "CS in Month 3" (D16)
+- [x] Financial viability threshold: 7-8 clients viable if below-market salaries; 12-15 is capacity threshold (D17)
+- [x] Self-service tier: Year 2, NOT Year 1 (D18)
+- [x] Year 1 realistic client target: 6-8 via outbound-only (D19)
+- [ ] Louis's network: follow Grinto connections to digital agencies/e-commerce, not professional services
+- [ ] Delivery contractor: needed by Month 1-2 (implementation specialist, not CS manager)
+- [ ] Financial model update: revise to 6-8 client Year 1 target, not 12-15
+- [ ] Pilot structure: at-cost with strict deliverables + written case study rights
 
 ---
 

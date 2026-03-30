@@ -63,16 +63,64 @@ Central log of all debate outcomes across research pulses.
 
 ---
 
+## Pulse 6 (2026-03-30 — Late Day, 11:27 UTC)
+
+| Agent | Topic | Key Findings |
+|-------|-------|-------------|
+| Financial Viability | 12-15 client threshold | OVERSTATED — 7-8 clients viable if below-market salaries; real constraint is capacity not revenue |
+| Financial Viability | Pricing architecture | Per-agent wrong structure → per-workflow confirmed correct direction |
+| Financial Viability | Self-service tier | YEAR 2, NOT YEAR 1 — opportunity cost is the real issue |
+| Financial Viability | Year 1 reach | 6-8 clients realistic via outbound-only (not 12-15) — no dedicated sales is the bottleneck |
+| Delivery Risk | 2-dev simultaneous delivery | WRONG — capacity collapses at 3+ clients |
+| Delivery Risk | Product vs. service framing | False dichotomy — question is delivery layer + minimum viable platform |
+| Delivery Risk | "Client success" framing | Wrong framing — implementation/delivery contractor needed by Month 1-2 |
+| Delivery Risk | Louis → client-facing Month 3 | TOO LATE — contractor needed by Month 1-2 |
+| Pilot Strategy | Professional services first | WRONG — digital agencies/e-commerce faster to close and deliver |
+| Pilot Strategy | 50-200 employee target | WRONG — 20-30 person companies better first pilot target |
+| Pilot Strategy | Discounted pilot | WRONG — at-cost with strict deliverables + case study rights |
+| Pilot Strategy | Louis's network | Network points to digital/e-commerce, not professional services |
+
+---
+
 ## Still Unresolved (Needs Louis Decisions)
 
 | ID | Topic | Options | Blockers |
 |----|-------|---------|----------|
 | U1 | Domain | alize.ai? algo.io? | Not bought yet |
-| U2 | First pilot client | Who is the first? What vertical? | Need to identify |
+| U2 | First pilot client | Who is the first? What vertical? | Needs to be digital agencies/e-commerce, not professional services |
 | U3 | Landing page rewrite | Who writes the new hero? | Needs Louis approval |
 | U4 | Diagnostic pricing final | €490 vs free? | Needs decision |
-| U5 | Pricing tiers final | €1,200/€3,000/€5,500 workflow-tier? | Needs client validation |
+| U5 | Pricing tiers final | €1,200/€3,000/€5,500 workflow-tier? | Needs client validation; per-agent structure confirmed wrong |
 | U6 | Competitive framing | Lead with Agentova contrast or Microsoft/HubSpot contrast? | Needs decision |
+| U15 | Delivery model | Who is the client-facing layer in Month 1-3? | Louis + delivery contractor? Louis full-time sales? |
+| U16 | First pilot size | 20-30 employees vs 50-200? | 20-30 recommended for first pilot; 50-200 for scale phase |
+| U17 | Pilot fee structure | Discounted vs at-cost with strict deliverables? | At-cost with case study rights recommended |
+
+---
+
+## Cumulative Resolved Decisions (as of Pulse 6)
+
+| ID | Topic | Decision | Source | Date |
+|----|-------|----------|--------|------|
+| D1 | Positioning | Operational IA, not chatbots | BRIEF.md | 2026-03-22 |
+| D2 | Target | French PME/ETI 20-200 employees | BRIEF.md | 2026-03-22 |
+| D3 | Offer | Diagnostic → Pilot → Monthly retainer | BRIEF.md | 2026-03-22 |
+| D4 | Competitor | Agentova (French/Swiss, 2000+ users) | Pulse research | 2026-03-30 |
+| D5 | Diagnostic price | **RECONSIDER** — free entry point may outperform €490 for unknown brand | Pricing agent | 2026-03-30 |
+| D6 | Pricing model | Workflow-tier over per-agent | Pricing agent | 2026-03-30 |
+| D7 | Landing page hero | Lead with problem/cost claim, not product statement | Landing page agent | 2026-03-30 |
+| D8 | MCP marketing | Remove from all external materials; infrastructure detail only | Tech stack agent (Pulse 4) | 2026-03-30 |
+| D9 | Self-improvement | Cut to Layer 1 for MVP; 4-layer is overengineered | Technical arch agent (Pulse 2) | 2026-03-30 |
+| D10 | Vertical focus | ONE vertical before 7-sector horizontal push | Vertical focus agent (Pulse 2) | 2026-03-30 |
+| D11 | "Managed service" | Move from headline to "how we work" section | Managed service agent (Pulse 4) | 2026-03-30 |
+| D12 | Mistral threat | 2027-2028 risk, not 2026; execution + client relationships now | Mistral threat agent (Pulse 4) | 2026-03-30 |
+| D13 | First vertical | Digital agencies/e-commerce, NOT professional services | Pilot strategy agent (Pulse 6) | 2026-03-30 |
+| D14 | First pilot size | 20-30 person companies for first pilot; 50-200 for scale | Pilot strategy agent (Pulse 6) | 2026-03-30 |
+| D15 | Pilot fee structure | At-cost with strict deliverables + case study rights; NOT discounted | Pilot strategy agent (Pulse 6) | 2026-03-30 |
+| D16 | Delivery model | Implementation contractor needed by Month 1-2; NOT "CS in Month 3" | Delivery risk agent (Pulse 6) | 2026-03-30 |
+| D17 | Financial viability threshold | 7-8 clients viable if below-market salaries accepted; 12-15 is capacity threshold | Financial viability agent (Pulse 6) | 2026-03-30 |
+| D18 | Self-service tier timing | Year 2, not Year 1; opportunity cost is the real issue | Financial viability agent (Pulse 6) | 2026-03-30 |
+| D19 | Year 1 client target | 6-8 realistic via outbound-only; 12-15 requires dedicated sales | Financial viability agent (Pulse 6) | 2026-03-30 |
 
 ---
 
