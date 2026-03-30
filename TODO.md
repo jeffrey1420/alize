@@ -560,3 +560,18 @@
 - [ ] **GTM timeline:** Move cold outbound from "Month 1-2" or "Month 2-3" to explicit "Month 3-4 minimum after D47 blockers clear"
 - [ ] **Window section:** Remove "window" language; add "capacity milestones" section with specific execution checkpoints
 - [ ] **FOUNDATIONAL GATE (U159/U160):** U91 and U52 remain unresolved after 30 consecutive pulses — these gates block ALL pricing, GTM, and vertical decisions from being treated as final. Priority this week: resolve or explicitly defer Alizé as side-project.
+
+### NEW (from 2026-03-30 Pulse 31 — Process Exit, Unit Economics, Execution Roadmap)
+- [x] **D165 — Pulse process SUSPENDED:** Stop pulses until U91/U52 cleared OR 5 discovery calls completed OR explicit side-project declaration. Pulse process has negative output rate — more decisions killed than held.
+- [x] **D166 — €1,500 pilot KILLED:** D110 charity model eliminated — €1,500 pilot with €5,000+ delivery cost is not CAC, it's paying clients to work with Alizé. Pilot needs €5,000-7,500 minimum.
+- [x] **D167 — €2,000/month retainer VIABILITY DOUBTED:** Cost-plus minimum is €7,963/month; €2,000 is 25% of cost-plus. Needs market validation or raise to €3,500-4,500.
+- [x] **D168 — Domain purchase is ONLY true Day 1 blocker:** Everything else (U91, U52, vertical, pricing) is Louis's decision or external dependency, not a technical/research gate. Buy alize.studio today.
+- [x] **D169 — Binary choice unblocks everything:** Louis writes "Alizé is a [startup/side-project]" and dates it. This is not a research question. U91 and U52 don't block outreach — Louis's binary choice does.
+- [ ] **U161 — Louis binary choice:** Write one sentence: "Alizé is a [startup/side-project]" and date it. This gates all other decisions.
+- [ ] **U162 — Track actual hours:** Timer + spreadsheet for 14 days. Not estimates. Gates the binary choice.
+- [ ] **U163 — Buy alize.studio:** €10, 5 minutes. No research required. Gates email and website.
+- [ ] **U164 — Send 5 outreach messages:** Warm LinkedIn messages this week. Not perfect. ICP is mapped through outreach, not before it.
+- [ ] **U165 — Define ONE workflow in one sentence:** "The agent [verb] [object] for [company type]." Gates scope document and delivery partner contract.
+- [ ] **D157 DOUBTED:** Pricing consistency — D110 (€1,500 pilot) and D72 (€7,500 warm) cannot both be true. Pilot fee needs €5,000-7,500 minimum based on unit economics.
+- [ ] Month 1 Week 1: Buy domain (U163), track hours (U162), make binary choice (U161), send 5 outreach messages (U164), define one-sentence workflow (U165)
+- [ ] Month 1: Do NOT run any more research pulses until at least one of the three exit conditions is met (U91+U52 cleared, 5 discovery calls, or side-project declaration)

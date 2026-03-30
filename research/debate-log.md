@@ -798,12 +798,62 @@ Central log of all debate outcomes across research pulses.
 | Offer Critique | Pricing loop vs market signal | Pick €1,500/€3,500/€2,000, stop debating, go sell. Pricing without customer contact = feedback loop with no signal. €7,500 is a closing price, not opening price. |
 | GTM Reality | Window framing produced paralysis | Zero outreach in 82 days = window framing failed. Concrete this-week actions: buy domain, send 5 emails, map 10 warm contacts, book 1 call. Single most valuable: send the email. |
 
-### Decisions from Pulse 31
+### Decisions from Pulse 31 (Round 1)
 
 | ID | Topic | Decision | Source | Date |
 |----|-------|----------|--------|------|
 | — | Process reform | Stop pulses until U91/U52 resolved; no decision can kill another without replacement | Process critic | 2026-03-30 |
 | — | Offer structure | €1,500 diagnostic / €3,500 pilot / €2,000/month — three numbers, no ranges | Offer critique | 2026-03-30 |
 | — | GTM gate | Send emails before debating GTM further; zero decisions required to start outreach | GTM reality | 2026-03-30 |
+
+## Pulse 31 (2026-03-30 — Round 2, 18:07 UTC)
+
+| Agent | Topic | Key Findings |
+|-------|-------|-------------|
+| Process Critic | Process exit debate | Pulse process has negative output rate — more decisions killed than held; U91/U52 are Louis's personal data problems, not research problems; zero external validation in 31 pulses; exit condition: U91+U52 cleared OR 5 discovery calls OR explicit side-project declaration |
+| Unit Economics Agent | €2,000/month viability | Month 1 loses €4,413 per client; €2,000 retainer is 25% of cost-plus minimum (€7,963); D110 (€1,500 pilot) is charity model; D72 and D110 directly contradictory; pilot fee needs €5,000-7,500 to break even |
+| Execution Roadmap Agent | 7-day sprint | U91 and U52 don't block outreach — Louis's binary choice does; alize.studio is the only real Day 1 blocker; outreach IS the ICP mapping; 5 concrete actions: track hours, buy domain, send 5 emails, make binary choice, define one workflow |
+
+### Decisions from Pulse 31 (Round 2)
+
+| ID | Topic | Decision | Source | Date |
+|----|-------|----------|--------|------|
+| D165 | Pulse process | SUSPENDED — fails all exit conditions (U91+U52 unresolved, 0 discovery calls, no commercial delegate) | Process Critic | 2026-03-30 |
+| D166 | Unit economics | €1,500 pilot (D110) KILLED — charity model, not CAC; pilot needs €5,000-7,500 to break even | Unit Economics | 2026-03-30 |
+| D167 | Unit economics | €2,000/month retainer VIABILITY DOUBTED — cost-plus minimum is €7,963/month; needs market validation | Unit Economics | 2026-03-30 |
+| D168 | Execution priority | Buy alize.studio today — only true Day 1 technical blocker; everything else is a Louis decision | Execution Roadmap | 2026-03-30 |
+| D169 | Execution priority | Louis's binary choice (startup vs side-project) unblocks all other actions; U91/U52 don't | Execution Roadmap | 2026-03-30 |
+
+### Unresolved from Pulse 31 (Round 2)
+
+| ID | Topic | Blocker |
+|----|-------|---------|
+| U161 | Louis binary choice | Startup vs side-project — Louis must write it down and date it |
+| U162 | Louis hours tracking | Track 2 weeks actual hours — timer, not estimates |
+| U163 | Domain purchase | alize.studio — €10, 5 minutes, no research required |
+| U164 | First outreach | Send 5 messages this week — warm, not perfect |
+| U165 | One-sentence workflow | Define first pilot scope in one sentence |
+
+### Debate Log Summary
+
+| Date | Debates | Key Outcomes |
+|------|---------|-------------|
+| 2026-03-30 AM | Pricing, Competitive, GTM (partial) | Diagnostic €490 questioned; per-agent pricing challenged; platform giants as primary threats; workflow-tier proposed |
+| 2026-03-30 | Technical, Vertical, Revenue (full) | Architecture overengineered; horizontal stretched; MCP demoted; ETI aspirational |
+| 2026-03-30 midday | Landing page, GTM scalability, Differentiation | Hero wrong; network math unrealistic; vertical depth = moat |
+| 2026-03-30 late | Managed service, Tech stack, Mistral threat | "Managed service" = liability headline; MCP = infrastructure; Mistral is 2027-2028 |
+| 2026-03-30 midday | Positioning, MVP scope, Diagnostic pricing | "AI employee" framing = French labor/political liability; runtime spike = backwards; diagnostic = free lead gen |
+| 2026-03-30 midday | Delivery, Tooling, Model identity | Louis can't solo-deliver; n8n over Make.com; productized consulting identity; €2,000-2,500/month minimum |
+| 2026-03-30 afternoon | Positioning, Pricing, Vertical | Sovereignty framing = weakness; tiered pricing; professional services over agencies (buy-vs-build problem) |
+| 2026-03-30 midday | GTM Readiness, Delivery Stack, Delivery Partner | Cold outbound needs 4 hard blockers; n8n MCP is beta-not-stable; Gabin-first delivery partner strategy; success-fee contracting model |
+| 2026-03-30 afternoon | Conversion, Lock-in, Website | Kill "no lock-in" externally; staged payment replaces 50% refund; website gates cold outbound not warm; commitment tier introduced |
+| 2026-03-30 afternoon | GTM Limits, Delivery Risk, Pilot Pricing | Warm network = Month 1-3 only ceiling; Louis cannot solo-deliver; €4,500 pilot doesn't cover delivery costs; 12-month commitment unsellable Year 1 |
+| 2026-03-30 late | Pilot Pricing, Vertical Wedge, Delivery Readiness | €1,500/2-week diagnostic; expert-comptables as first vertical; simulated delivery rehearsal |
+| 2026-03-30 late | Copilot, GTM Paradox, Identity | D96 reversed; warm network demoted; "AI operations company" identity rejected |
+| 2026-03-30 | Expert-Comptables Vertical, Malt Channel, Commercial Layer | D126 modified; Malt deprioritized as primary; U86 reframed with tiered commercial capability |
+| 2026-03-30 | WTP vs Copilot, Louis Hours, Category Framing | "Copilot isn't enough" replaces "additive"; U91 is decision not data; "service firm" rejected for outside-in framing |
+| 2026-03-30 | Vertical Thesis, Pricing Architecture, GTM Velocity | Expert-comptable vertical CONDITIONAL on network validation; diagnostic becomes FREE + €490 credit; cold outbound window is 2-3 months not 3-6; "window" reframed as capacity constraint |
+| 2026-03-30 | Pricing, Category, Window Challenges | D148/D149/D149/D150 all challenged; "regulated SMEs" killed; cold outbound timeline corrected; "window" language killed |
+| 2026-03-30 | Process Exit, Unit Economics, Execution Roadmap | Pulse process SUSPENDED; €2,000/month VIABILITY DOUBTED; binary choice (startup vs side-project) unblocks everything; domain purchase is only true Day 1 blocker |
 
 *Last updated: 2026-03-30 by pulse cron (Pulse 31)*
