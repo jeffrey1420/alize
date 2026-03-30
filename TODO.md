@@ -291,12 +291,26 @@
 - [ ] Month 3: Define Month 4-6 bridge channels based on what the first pilot actually taught
 
 ### NEW (from 2026-03-30 Pulse 17 — Louis Role, Delivery Economics, Positioning)
-- [ ] **D74 — Louis sales role:** Louis should NOT solo-close warm network deals — Grinto conflict of interest + no sales skills + LinkedIn DM wrong format. Needs sales partner or scope reduction.
-- [ ] **D75 — Positioning language:** Replace "delegation with accountability" with concrete task/outcome language — current framing is buzzword soup that means nothing to DG buyers.
-- [ ] **U75 — Louis actual role:** Is Louis a technical co-founder only, or does he also do sales? Explicit decision before outreach starts.
-- [ ] **U76 — Pilot price:** €7,500 too tight at 12 delivery days. Consider €10-12,500 or accept first 2 pilots as pure CAC.
-- [ ] **U77 — Positioning rewrite:** Who rewrites Alizé's external messaging? Needs someone who can translate "delegation with accountability" into concrete task/outcome language.
-- [ ] **U78 — Sales partner:** Is there a sales-focused person to involve in Month 1 outreach alongside Louis?
+- [x] **D74 — Louis sales role:** Louis should NOT solo-close warm network deals — Grinto conflict of interest + no sales skills + LinkedIn DM wrong format. Needs sales partner or scope reduction.
+- [x] **D75 — Positioning language:** Replace "delegation with accountability" with concrete task/outcome language — current framing is buzzword soup that means nothing to DG buyers.
+- [x] **U75 — Louis actual role:** Is Louis a technical co-founder only, or does he also do sales? Explicit decision before outreach starts.
+- [x] **U76 — Pilot price:** €7,500 too tight at 12 delivery days. Consider €10-12,500 or accept first 2 pilots as pure CAC.
+- [x] **U77 — Positioning rewrite:** Who rewrites Alizé's external messaging? Needs someone who can translate "delegation with accountability" into concrete task/outcome language.
+- [x] **U78 — Sales partner:** Is there a sales-focused person to involve in Month 1 outreach alongside Louis?
+
+### NEW (from 2026-03-30 Pulse 18 — Window, Positioning Trap, Identity)
+- [ ] **D76 — First-mover window:** 6-18 months realistic; operational depth converts timing to moat, not timing alone
+- [ ] **D77 — Workflow-first framing:** REJECTED — replace with "back-office admin AI for service firms" capability+constraint frame
+- [ ] **D78 — Client depth over count:** Prioritize 5 operationally critical agents over 20 nice-to-have; only depth creates moat
+- [ ] **D79 — Productized consulting identity:** ABANDON — replace with "AI operations company, temporarily in consulting mode"
+- [ ] **D80 — Company vs consulting framing:** Alizé = company that happens to do consulting in Years 1-2; platform builder in Years 2-3
+- [ ] **U79 — Back-office admin constraint:** Which specific workflow type within "back-office admin"? Invoice processing? FAQ answering? CRM updates?
+- [ ] **U80 — Competitive monitoring cadence:** When does Alizé formally reassess Wonderful/Microsoft threat?
+- [ ] **U81 — Louis technical moat building:** If Louis is solo technical AND sales AND delivery, when does he build technical depth/IP?
+- [ ] External materials: Replace all "workflow-first", "productized consulting", "delegation with accountability" language
+- [ ] Internal identity: Adopt "AI operations company, temporarily in consulting mode" framing
+- [ ] Month 1: Set 6-month competitive threat review calendar
+- [ ] Month 1: Prioritize deepest operational integration, not fastest deployment
 
 ### NEW (from 2026-03-30 Pulse 16 — Governance, Economics, Vertical Frame)
 - [ ] **D72 — Warm network pilot fee:** €7,500 recommended. At 10 delivery days, margin ~€1,500. At 12 days, break-even. Above 12 days, Alizé loses money.

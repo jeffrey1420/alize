@@ -348,6 +348,32 @@ Central log of all debate outcomes across research pulses.
 | U77 | Positioning rewrite | Who rewrites Alizé's external messaging with concrete task/outcome language? |
 | U78 | Sales partner | Is there a sales-focused person to involve in Month 1 outreach? |
 
-*Last updated: 2026-03-30 by pulse cron (Pulse 17)*
+*Last updated: 2026-03-30 by pulse cron (Pulse 18)*
+
+## Pulse 18 (2026-03-30 — 14:29 UTC)
+
+| Agent | Topic | Key Findings |
+|-------|-------|-------------|
+| Competitive Window | First-mover assumption | Window is 6-18 months, not indefinite; Microsoft is the near-term risk, not Mistral; first-mover advantage only converts to moat via operational depth |
+| Positioning Clarity | "Workflow-first" strategy | Positioning trap — indistinguishable from Zapier; buyers think in problems not workflows; scattered case studies produce no coherent story |
+| Business Identity | "Productized consulting" label | Hiring trap (repels engineers), fundraising trap (0x valuation premium), operational trap (drives consulting behaviors); replace with "AI operations" framing |
+
+### New Decisions (Pulse 18)
+
+| ID | Topic | Decision | Source | Date |
+|----|-------|----------|--------|------|
+| D76 | First-mover window | 6-18 months realistic; operational depth converts timing to moat, not timing alone | Window agent | 2026-03-30 |
+| D77 | Workflow-first framing | REJECTED — replace with "back-office admin AI for service firms" capability+constraint frame | Positioning agent | 2026-03-30 |
+| D78 | Client depth over count | Prioritize 5 operationally critical agents over 20 nice-to-have; only depth creates moat | Window agent | 2026-03-30 |
+| D79 | Productized consulting identity | ABANDON — replace with "AI operations company, temporarily in consulting mode" | Identity agent | 2026-03-30 |
+| D80 | Company vs consulting framing | Alizé = company that happens to do consulting in Years 1-2; platform builder in Years 2-3 | Identity agent | 2026-03-30 |
+
+### New Unresolved (Pulse 18)
+
+| ID | Topic | Blocker |
+|----|-------|---------|
+| U79 | Back-office admin constraint | Which specific workflow type within "back-office admin"? Invoice processing? FAQ answering? CRM updates? Needs a narrower pick. |
+| U80 | Competitive monitoring cadence | When does Alizé formally reassess Wonderful/Microsoft threat? Set 6-month review or continuous monitoring? |
+| U81 | Louis technical moat building | If Louis is the only engineer AND sales person AND delivery lead, when does he actually build technical depth/IP? |
 
 | U52 | Louis warm network ICP map | Still unresolved — gates all outreach strategy; must happen Month 1 |
