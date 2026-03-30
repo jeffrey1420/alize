@@ -399,3 +399,33 @@
 - [ ] Resolve U95 before touching D100 (web agency decision gates delivery rehearsal scope).
 - [ ] Do NOT treat first web agency deployment as a social-proof-ready case study — internal use only per D103.
 - [ ] External materials: remove all "professional services first" language until network ICP mapping (U52) is complete.
+
+### NEW (from 2026-03-30 Pulse 23 — Pricing, Delivery Sequencing, GTM Prerequisites)
+- [x] **D110 — First pilot pricing:** €1,500–2,000 for pilots 1–3 (CAC model), not €7,500 — first 3 pilots are marketing investments, not margin plays
+- [x] **D111 — Case study rights:** Explicit commercial term in exchange for reduced price — what exactly does "case study rights" mean contractually?
+- [x] **D112 — €7,500 unlock:** Only after 3+ reference clients exist; €7,500 is Phase 2 pricing
+- [x] **D113 — Louis delivers pilot 1:** Louis solo delivery IS the delivery education; first pilot scoped to single workflow + integration
+- [x] **D114 — Delivery partner timing:** Found AFTER pilot 1 complete, using Louis's first-hand evaluation criteria
+- [x] **D115 — Month 1 scope:** Single workflow, single integration — learnable and survivable, not a grand slam
+- [x] **D116 — Delivery partner = Month 2+:** Not a prerequisite to starting; contractor phase begins after Louis has a baseline
+- [x] **D117 — Effective window timing:** 3–6 month window (D82) starts when warm outreach produces qualified pipeline — not when planning begins
+- [x] **D118 — Month 1 relabel:** "Prerequisite Resolution + Warm-Up" — honest framing of what Month 1 actually contains
+- [x] **D119 — Grinto ring-fencing:** Explore in Week 1; if contract permits, removes 1–3 month delay from timeline
+- [x] **D120 — Warm outreach:** Narrow ICP (top 10–15 warmest accounts), honest framing ("I'm working on something new"), Month 1–2
+- [x] **D121 — Hours threshold:** D91's 25 hrs/week aspirational until U91 provides actual data
+- [ ] **U112 — Louis solo delivery capability:** Can Louis actually deliver pilot 1 solo? What technical + client-facing skills does he need?
+- [ ] **U113 — CAC pilot contract terms:** Define "case study rights + testimonial" legally: usage restrictions, timeline, approval rights, anonymity options
+- [ ] **U114 — Narrow warm ICP criteria:** What qualifies a warm contact for Month 1–2 honest framing outreach? Relationship depth, company size, decision-maker access?
+- [ ] **U115 — Co-founder parallelization:** Can co-founder recruiting happen simultaneously with Grinto ring-fencing review? What is the right sequence?
+- [ ] **U116 — Grinto ring-fencing feasibility:** Does Grinto contract allow side venture? What are actual contractual constraints? Legal review Week 1.
+- [ ] Week 1: Grinto contract legal review — can Louis do Alizé on the side? What are the actual constraints?
+- [ ] Week 1: Louis tracks actual hours across all commitments (U91) — not estimates, actual tracking for 2 weeks
+- [ ] Week 1–2: Louis defines single-workflow pilot scope for Month 1 solo delivery
+- [ ] Month 1: Louis delivers pilot 1 solo (D113/D115) — this IS the delivery education and Month 1 output
+- [ ] Month 2: Louis evaluates and contracts delivery partner using his own delivery experience as criteria (D114)
+- [ ] Month 2: First co-founder conversations begin (parallel with delivery work)
+- [ ] Month 1–2: 10–15 warm conversations with top warmest accounts under honest framing (D120)
+- [ ] Update commercial offer: Phase 1 pilots (€1,500–2,000, case study rights) + Phase 2 pilots (€3,500–5,000, "early partner rate") + Phase 3 (€7,500 standard)
+- [ ] Update BRIEF.md: First 3 pilots are CAC investments, not revenue plays — reflect in financial model
+- [ ] Kill D48 (find delivery partner before first pilot) — D113/D114/D116 supersede it
+- [ ] Kill D99-D103 (internal delivery rehearsal framing) — D113/D115 supersede it; first pilot IS delivery

@@ -514,4 +514,41 @@ Central log of all debate outcomes across research pulses.
 | U110 | Delivery credibility stack | Minimum credibility signals before cold pilot outreach? |
 | U111 | Louis delivery expertise | How does Louis build enough delivery knowledge to supervise a contractor? |
 
-*Last updated: 2026-03-30 by pulse cron (Pulse 22)*
+---
+
+## Pulse 23 (2026-03-30 — 15:50 UTC)
+
+| Agent | Topic | Key Findings |
+|-------|-------|-------------|
+| Pricing Strategist | D65/D72 warm pilot pricing | €7,500 unsellable without references; warm contacts ≠ committed buyers; first 3 pilots = CAC investment at €1,500–2,000; €7,500 unlocked only after 3+ references |
+| Delivery Strategist | D48/D99 sequencing | Louis delivers pilot 1 solo first; contractor found after using Louis's first-hand evaluation criteria; "delivery rehearsal" framing eliminated |
+| GTM Strategist | D82/D90 prerequisites | Clock hasn't started; effective window begins Month 3–4; Month 1 = prerequisite resolution + warm-up; Grinto ring-fencing removes months of delay |
+
+### New Decisions (Pulse 23)
+
+| ID | Topic | Decision | Source | Date |
+|----|-------|----------|--------|------|
+| D110 | First pilot pricing | €1,500–2,000 for pilots 1–3 (CAC model) | Pricing agent | 2026-03-30 |
+| D111 | Case study rights | Explicit commercial term in exchange for reduced price | Pricing agent | 2026-03-30 |
+| D112 | €7,500 unlock | Only after 3+ reference clients exist | Pricing agent | 2026-03-30 |
+| D113 | Louis delivers pilot 1 | Louis solo delivery IS delivery education, not prelude | Delivery agent | 2026-03-30 |
+| D114 | Delivery partner timing | After pilot 1, not before | Delivery agent | 2026-03-30 |
+| D115 | Month 1 scope | Single workflow, single integration | Delivery agent | 2026-03-30 |
+| D116 | Delivery partner = Month 2+ | Not a prerequisite to starting | Delivery agent | 2026-03-30 |
+| D117 | Effective window timing | Clock starts when pipeline exists, not on planning date | GTM agent | 2026-03-30 |
+| D118 | Month 1 relabel | "Prerequisite Resolution + Warm-Up" | GTM agent | 2026-03-30 |
+| D119 | Grinto ring-fencing | Explore in Week 1; if viable, removes delay | GTM agent | 2026-03-30 |
+| D120 | Warm outreach | Narrow ICP (top 10–15), honest framing, Month 1–2 | GTM agent | 2026-03-30 |
+| D121 | Hours threshold | D91's 25 hrs aspirational until U91 provides data | GTM agent | 2026-03-30 |
+
+### New Unresolved (Pulse 23)
+
+| ID | Topic | Blocker |
+|----|-------|---------|
+| U112 | Louis solo delivery capability | Can Louis actually deliver pilot 1 solo? Technical + client-facing skills? |
+| U113 | CAC pilot contract terms | What exactly does "case study rights + testimonial" mean? Usage restrictions? Timeline? |
+| U114 | Narrow warm ICP criteria | What qualifies a warm contact for Month 1–2 honest framing outreach? |
+| U115 | Co-founder parallelization | Can co-founder recruiting happen simultaneously with Grinto ring-fencing review? |
+| U116 | Grinto ring-fencing feasibility | Does Grinto contract allow side venture? Actual contractual constraints? |
+
+*Last updated: 2026-03-30 by pulse cron (Pulse 23)*
