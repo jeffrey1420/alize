@@ -21,6 +21,9 @@
 | D20 | "AI employee" framing | REMOVE — French labor law + political narrative makes "employee" a liability; replace with "workflow automation" / "AI agent" | Positioning agent (Pulse 7) | 2026-03-30 |
 | D21 | 90-day MVP scope | Kill runtime spike; manual orchestration first; Louis manually runs first pilot before building platform | MVP scope agent (Pulse 7) | 2026-03-30 |
 | D22 | Diagnostic pricing | FREE — lead generation channel; 30-min call + written ROI estimate; no charge | Pricing agent (Pulse 7) | 2026-03-30 |
+| D23 | Delivery model | Month 1: Louis delivers pilot manually + documents; Month 2: contractor executes against playbook | Delivery model agent (Pulse 8) | 2026-03-30 |
+| D24 | Pilot fee | €4,500 fixed all-in; signed scope document; change triggers at €750/day; explicit exit criteria | Pilot fee agent (Pulse 8) | 2026-03-30 |
+| D25 | Competitive framing | Never name competitors in first outreach; problem-first framing; comparison only if prospect raises it | Competitive framing agent (Pulse 8) | 2026-03-30 |
 
 ## 🔄 Unresolved — Needs Louis Decision
 
@@ -31,13 +34,13 @@
 | U3 | Landing page rewrite | Who writes the new hero? | Needs Louis approval |
 | U4 | Diagnostic pricing final | €490 vs free? | Needs decision |
 | U5 | Pricing tiers final | €1,200/€3,000/€5,500 workflow-tier? | Needs client validation |
-| U6 | Competitive framing | Lead with Agentova contrast or Microsoft/HubSpot contrast? | Needs decision |
+| U6 | Competitive framing | **RESOLVED (D25)** — never name competitors in first outreach; problem-first framing; comparison only if prospect raises it | Needs Louis awareness |
 | U12 | First vertical selection | Professional services (consulting firms) vs. accounting firms vs. healthcare admin | Task density, ROI clarity, and decision-maker sophistication differ across each |
-| U13 | Service delivery model | Self-deliver (Louis = client success) vs. automated-light (heavy monitoring automation) vs. partner model | Biggest execution risk |
+| U13 | Service delivery model | **RESOLVED (D23)** — Louis delivers Month 1 manually + documents; Month 2 contractor executes against playbook; role definitions before contracting | Needs concrete role doc before Month 2 |
 | U14 | Product scope 90-day | What specifically gets built in the first 90 days? Need a hard list. | 2 devs cannot do everything |
 | U15 | Delivery model | Who is the client-facing layer in Month 1-3? Louis + contractor? Louis full-time sales? | Needs immediate decision |
 | U16 | First pilot vertical | Digital agencies/e-commerce confirmed — but which specific type? | Follow Grinto connections |
-| U17 | Pilot fee final | At-cost structure confirmed — what is the exact number? | Needs Louis decision |
+| U17 | Pilot fee final | **RESOLVED (D24)** — €4,500 fixed all-in; signed scope document; change triggers €750/day; exit criteria defined | Needs Louis sign-off |
 
 ## 📋 TODO (from research + debates)
 
@@ -113,6 +116,15 @@
 - [ ] Update external materials: remove all "hire/employee/employment" language; use "workflow automation" / "agent"
 - [ ] Week 1 build: basic Nuxt+Hono app with one LLM call + one stored result; no Mastra, no MCP
 - [ ] Update BRIEF.md: remove "AI employee" references; add "workflow automation" framing
+
+### NEW (from 2026-03-30 Pulse 8)
+- [ ] Month 1: Louis delivers first pilot manually, documents every delivery step (becomes the delivery playbook)
+- [ ] Before Month 2 contractor hire: draft explicit role definitions (Louis owns what, contractor owns what, escalation path)
+- [ ] Pilot fee: quote €4,500 fixed (not "at-cost"); signed scope document with inclusion/exclusion lists before any work begins
+- [ ] Change triggers: €750/day pro-rated for out-of-scope requests or client-caused delays >5 business days
+- [ ] Exit criteria: written into scope document day one — >80% accuracy on test cases, client team can execute without Alizé, measurable efficiency gain
+- [ ] Cold outreach: remove all competitor names from first-touch templates; lead with problem ("gap between having AI and AI that works")
+- [ ] Competitive framing rule: competitor comparison only if prospect raises it first; never proactively name Agentova or others
 
 ---
 

@@ -134,4 +134,20 @@ Central log of all debate outcomes across research pulses.
 
 ---
 
-*Last updated: 2026-03-30 by alize-pulse cron*
+## Pulse 8 (2026-03-30 — 11:53 UTC)
+
+| Agent | Topic | Key Findings |
+|-------|-------|-------------|
+| Delivery Model Strategist | Louis + contractor model | Month 1: Louis delivers manually + documents; Month 2: contractor executes against playbook — not figuring out delivery from scratch |
+| Pilot Fee Strategist | "At-cost" vagueness | €4,500 fixed all-in; signed scope document; change triggers at €750/day; explicit exit criteria; drop "at-cost" language |
+| Competitive Framing Strategist | Naming competitors in outreach | Never name competitors in first outreach; problem-first framing; competitor comparison only if prospect raises it first |
+
+### New Decisions (Pulse 8)
+
+| ID | Topic | Decision | Source | Date |
+|----|-------|----------|--------|------|
+| D23 | Delivery model | Louis delivers Month 1 pilot manually + documents; Month 2 delivery specialist executes against playbook | Delivery model agent | 2026-03-30 |
+| D24 | Pilot fee | €4,500 fixed all-in, signed scope document, change triggers at €750/day, explicit exit criteria | Pilot fee agent | 2026-03-30 |
+| D25 | Competitive framing | Never name competitors in first outreach; problem-first framing; comparison only if prospect raises it | Competitive framing agent | 2026-03-30 |
+
+*Last updated: 2026-03-30 by pulse cron (Pulse 8)*
