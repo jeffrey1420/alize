@@ -325,3 +325,14 @@
 - [ ] **U52 — Louis warm network ICP map:** Still unresolved. Must happen Month 1 before any vertical decision.
 - [ ] Month 1: Map Louis's warm network against ICP first. Do NOT pre-determine vertical until network is mapped.
 - [ ] External materials: Replace "delegation with accountability" with specific outcome statements. Keep governance features in technical section only.
+
+### NEW (from 2026-03-30 Pulse 19 — Workflow, Window, Moat)
+- [x] **D81 — First workflow beachhead:** Meeting report generation and distribution, NOT customer service/sales admin/HR Q&A. Explainable in one sentence, ROI in 30 days, no sensitive data categories.
+- [x] **D82 — Effective window:** 3-6 months effective (not 6-18) given Louis's capacity. Delivery partner is a hard stop, not a risk to mitigate.
+- [x] **D83 — Moat reframing:** Strip "repeatable deployment system" from BRIEF.md moat claims. Replace with switching-cost architecture + benchmark metrics + temporal French regulatory window.
+- [ ] **U82 — Meeting report validation:** Louis tests with 2-3 warm contacts before committing this as the first pilot workflow.
+- [ ] **U83 — Louis's Alizé hours:** Explicitly quantify a committed weekly hour number, not a range. This gates everything else.
+- [ ] **U84 — Contractor lock-in:** Define how Alizé keeps the playbook internal while still using contractors for delivery.
+- [ ] **U85 — Switching cost architecture:** Define what makes leaving Alizé painful for a client before scoping the first pilot.
+- [ ] BRIEF.md: Update moat section — remove "repeatable deployment system" as primary claim, add switching-cost architecture, performance benchmarks, contractor lock-in mechanism.
+- [ ] TODO.md: Add items for U82-U85 above.

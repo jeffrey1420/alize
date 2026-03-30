@@ -377,3 +377,30 @@ Central log of all debate outcomes across research pulses.
 | U81 | Louis technical moat building | If Louis is the only engineer AND sales person AND delivery lead, when does he actually build technical depth/IP? |
 
 | U52 | Louis warm network ICP map | Still unresolved — gates all outreach strategy; must happen Month 1 |
+
+## Pulse 19 (2026-03-30 — 14:46 UTC)
+
+| Agent | Topic | Key Findings |
+|-------|-------|-------------|
+| U79 Strategist | Workflow beachhead | Customer service, sales admin, HR Q&A are all wrong first pilots (sensitive data). Meeting report generation is the beachhead: explainable in one sentence, ROI in 30 days, no sensitive data, Trojan horse for deeper integration |
+| Bottleneck Analyst | Window realism | Effective window is 3-6 months, not 6-18. D76's moat logic is correct but assumes execution capacity Alizé doesn't have. Louis cannot play 3 roles simultaneously. Delivery partner is a hard stop, not a risk to mitigate. |
+| Théo Marchand | Moat validity | "Repeatable deployment system" is consulting efficiency, not a moat. Playbook copyable after one pilot. French integrations temporally fragile (2-3 quarters). Actual moats: client depth/lock-in, performance benchmarks, proprietary workflow code, contractor lock-in |
+
+### New Decisions (Pulse 19)
+
+| ID | Topic | Decision | Source | Date |
+|----|-------|----------|--------|------|
+| D81 | First workflow beachhead | Meeting report generation and distribution — not customer service, sales admin, or HR Q&A | Workflow agent | 2026-03-30 |
+| D82 | Effective window | 3-6 months (not 6-18) given Louis's capacity constraints | Window agent | 2026-03-30 |
+| D83 | Moat reframing | Abandon "repeatable deployment system" as primary moat. Replace with client depth + switching cost architecture + benchmark metrics + temporal regulatory window | Moat agent | 2026-03-30 |
+
+### New Unresolved (Pulse 19)
+
+| ID | Topic | Blocker |
+|----|-------|---------|
+| U82 | Meeting report workflow validation | Louis needs to test with 2-3 warm contacts before committing |
+| U83 | Louis's realistic Alizé hours | Must be explicitly quantified — committed weekly number, not a range |
+| U84 | Contractor lock-in mechanism | How to keep playbook internal if contractors are needed to deliver |
+| U85 | Switching cost architecture | What makes leaving Alizé painful for a client — must define before first pilot scope |
+
+*Last updated: 2026-03-30 by pulse cron (Pulse 19)*
