@@ -1089,3 +1089,43 @@ Central log of all debate outcomes across research pulses.
 | D212 | Execution sprint | Execute this week. The work reveals the answers. |
 
 *Last updated: 2026-03-30 by pulse cron (Pulse 40)*
+
+## Pulse 41 (2026-03-30, 20:28 UTC)
+
+| Agent | Topic | Key Findings |
+|-------|-------|-------------|
+| Execution Auditor | Research process net value | 40 pulses = NET NEGATIVE. U163/U91/U52 still undone. Research has become the obstacle. D212 sprint framing correct in content but continues documentation pattern. D204 ("work reveals answers") conflates data with interpretation. |
+| Delivery Auditor | Solo delivery gate | D185's 3-day technical test is wrong gate for wrong risk. Solo delivery risk is commercial, not technical. Client simulation (mock discovery + scope doc) replaces technical build gate. |
+| Vertical Auditor | E-commerce via Grinto validity | D206 = D135 recycled — same Grinto relationship mechanism, killed by D187. Louis's three simultaneous roles create category confusion. Kuroba tests web agency workflows, not e-commerce ops. |
+
+| New Decision | Topic | Decision | Source |
+|-------------|-------|----------|--------|
+| D213 | Pulse suspension | Suspend all research until U163 (domain), U91 (binary choice), U170 (first commit) confirmed | Execution auditor |
+| D214 | D212 reframed | Sprint begins when Louis acts, not when D212 is written | Execution auditor |
+| D215 | D204 reframed | "Execute and interpret" replaces "work reveals answers" — data requires interpretation | Execution auditor |
+| D216 | Delivery gate redefined | Replace technical build with client simulation — mock discovery + scope doc + price/timeline presentation | Delivery auditor |
+| D217 | D206 suspended | E-commerce via Grinto referrals cannot be treated as active — D187 conflict unresolved, Kuroba workflows mismatch | Vertical auditor |
+| D218 | U170 reclassified | "Hard blocker" renamed "capability check" — pilot proceeds regardless | Delivery auditor |
+
+### New Decisions (Pulse 41)
+
+### NEW (from 2026-03-30 Pulse 41)
+- [x] **D213 — Pulse process suspension:** Suspend all research pulses until U163 (domain receipt), U91 (dated binary choice), U170 (first commit on delivery self-test) confirmed
+- [x] **D214 — D212 sprint framing:** Sprint is correct in content, wrong as document-initiated action. Sprint begins when Louis buys domain, not when D212 is written.
+- [x] **D215 — D204 reframed:** "Execute and interpret" replaces "the work reveals answers" — execution produces data, not answers; interpretation is still required.
+- [x] **D216 — Delivery gate redefined:** Replace technical build test (3-day Slack→Notion agent) with client simulation — mock discovery call + scope doc + price/timeline presentation
+- [x] **D217 — D206 suspended:** E-commerce via Grinto referrals cannot be treated as active — D187 conflict unresolved (same Grinto relationship mechanism as D135), Kuroba internal deployment tests wrong workflows for claimed vertical
+- [x] **D218 — U170 reclassified:** "Hard blocker" renamed to "capability check" — pilot proceeds regardless; test is informational not gating
+
+### NEW (from 2026-03-30 Pulse 41 — Unresolved)
+- [ ] **U52 — Louis warm network ICP map:** STILL unresolved after 41 pulses. One afternoon task, 20 names. This is the only input that makes vertical selection evidence-based.
+- [ ] **U163 — Domain:** Still not bought after 41 pulses — €10, 5 minutes.
+- [ ] **U91 — Binary choice:** Still not declared — written and dated April 1 deadline.
+- [ ] **U170 — Delivery capability check:** Client simulation replaces 3-day technical build test.
+- [ ] **D187 conflict — Grinto relationship:** Must be explicitly resolved before any vertical that uses Grinto referral mechanism.
+- [ ] **Vertical question:** Cannot be answered until U52 is completed. Every vertical (expert-comptables, professional services, web agencies, e-commerce) was selected before the network map was done.
+
+### Pulse 41 Meta-Conclusion
+**After 41 pulses, the most important finding is meta-level:** The research process has been generating decisions faster than Louis can act on them. Three Day 1 blockers (domain, binary choice, network map) are still undone. The minimum sufficient decisions for outreach are already resolved. The gap is execution. The next meaningful pulse (if any) produces LinkedIn message templates Louis sends today — not another decision document.
+
+*Last updated: 2026-03-30 by pulse cron (Pulse 41)*

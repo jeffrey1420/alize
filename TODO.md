@@ -730,6 +730,19 @@
 - [ ] **Pricing script rehearsal:** D198's pricing-at-minute-5-8 must be rehearsed with a peer before first real demo — not improvised live
 - [ ] **Commercial trigger at Day 1:** Every engagement starts with an explicit commercial conversation date signed at kickoff — not deferred to a post-pilot conversation
 
+### NEW (from 2026-03-30 Pulse 41 — Meta-Level Audit)
+- [x] **D213 — Pulse suspension:** Suspend all research pulses until U163 (domain bought), U91 (binary choice dated), U170 (first commit on delivery self-test) confirmed. Research process has become the obstacle.
+- [x] **D214 — D212 reframed:** Sprint is correct in content, wrong as document-initiated action. Sprint begins when Louis buys domain, not when D212 is written.
+- [x] **D215 — D204 reframed:** "Execute and interpret" replaces "the work reveals answers" — execution produces data, not answers; interpretation is still required.
+- [x] **D216 — Delivery gate redefined:** Replace 3-day technical build test (Slack→Notion agent) with client simulation — mock discovery call + scope doc + price/timeline presentation. D185/U170 superseded.
+- [x] **D217 — D206 suspended:** E-commerce via Grinto referrals cannot be treated as active — D187 conflict unresolved (same mechanism as D135, killed by D187); Kuroba internal deployment tests wrong workflows.
+- [x] **D218 — U170 reclassified:** "Hard blocker" renamed "capability check" — pilot proceeds regardless; test is informational not gating.
+- [ ] **Kill D206 as currently structured:** E-commerce via Grinto referrals is not active. Vertical decision gated on U52 completion and D187 conflict resolution.
+- [ ] **Client simulation gate (U170):** Mock discovery call (30 min) + scope document + price/timeline presentation to peer — evaluates client-facing skills, not coding ability.
+- [ ] **Resolve D187 conflict:** Louis must explicitly resolve whether using Grinto relationships for Alizé's commercial gain is acceptable — written permission from Grinto, or commit to using only independent network.
+- [ ] **U52 completion — non-negotiable:** One afternoon, 20 names, company, size, relationship depth, ICP fit. 41 pulses have proven this cannot be research-resolved.
+- [ ] **Kill U170 as "hard blocker":** Rename to capability check. Pilot proceeds regardless.
+
 ### NEW (from 2026-03-30 Pulse 40 — Execution Sprint Auditor)
 - [x] **D212 — Execution sprint:** U91/U52/U163 are execution tasks, not research tasks. Execute this week. The work reveals the answers. More research produces more decisions but zero real-world data.
 - [ ] **TODAY (March 30):** Buy alize.studio — €10, 5 minutes, no research required
