@@ -857,3 +857,6 @@ Central log of all debate outcomes across research pulses.
 | 2026-03-30 | Process Exit, Unit Economics, Execution Roadmap | Pulse process SUSPENDED; €2,000/month VIABILITY DOUBTED; binary choice (startup vs side-project) unblocks everything; domain purchase is only true Day 1 blocker |
 
 *Last updated: 2026-03-30 by pulse cron (Pulse 31)*
+| 2026-03-30 evening | Post-Pulse-31 State Assessment | BRIEF.md pricing structurally below cost-plus across all tiers; 50+ U-items in TODO.md — 7 are Louis personal actions, 4 are genuine research, 39 are downstream of the 7; pulse process correctly suspended; single most important unresolved research question = U102 (WTP vs Copilot survey) |
+
+*Last updated: 2026-03-30 by pulse cron (Pulse 32)*

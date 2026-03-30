@@ -541,7 +541,8 @@
 - [ ] Month 1 Week 1: Resolve U91 binary choice (side-project OR startup at 25-30 hrs/week) — gates all capacity planning
 - [ ] Month 1 Week 1: Resolve U123/U129 expert-comptable network — validates or invalidates D145 vertical
 - [ ] Month 1: Louis begins domain research for expert-comptables OR identifies embedded domain expert for first pilot (U146/U147)
-- [ ] Kill D126/D135 as unconditional decisions — expert-comptable vertical is CONDITIONAL on D145
+- [x] Kill D126/D135 as unconditional decisions — expert-comptable vertical is CONDITIONAL on D145 (Louis's warm network must have 5+ expert-comptable contacts)
+- [x] Kill D148 (€490 diagnostic + credit) — D166/D167 supersede; unit economics analysis shows this doesn't cover cost of delivery
 - [ ] Kill D110/D123 CAC pilot model — replaced by D148/D149 (free diagnostic + €7,500+ pilot) — NOTE: D148/D149 now challenged by D155/D156 (pricing inconsistency)
 - [ ] External materials: Update diagnostic offer — FREE 30-min call + €490 written deliverable credited toward pilot — REVISED: D155 suggests €1,500 diagnostic OR discovery form qualification; D158 kills credit mechanism
 
@@ -561,9 +562,32 @@
 - [ ] **Window section:** Remove "window" language; add "capacity milestones" section with specific execution checkpoints
 - [ ] **FOUNDATIONAL GATE (U159/U160):** U91 and U52 remain unresolved after 30 consecutive pulses — these gates block ALL pricing, GTM, and vertical decisions from being treated as final. Priority this week: resolve or explicitly defer Alizé as side-project.
 
+### Updated (Pulse 32)
+
+**Personal Actions for Louis (not research — requires doing, not debating):**
+
+| Item | Action | Time | Blocks |
+|------|--------|------|--------|
+| U161 | Write "Alizé is a [startup/side-project]" + date | 2 min | Everything |
+| U162 | Track hours for 7+ days (timer + spreadsheet) | 7 days | Binary choice |
+| U163 | Buy alize.studio | 5 min | Email, website |
+| U164 | Send 5 LinkedIn messages to warm contacts | 2 hrs | ICP signal |
+| U165 | Define one workflow in one sentence | 30 min | Scoping |
+
+**Blocked until binary choice (U161) resolved:**
+- U155 (diagnostic price final) — blocked on U161
+- U156 (pilot pricing final) — blocked on U161  
+- U157 (category final) — blocked on U161
+
+**BRIEF.md pricing update required (Pulse 32):**
+- Pilot setup: €3,000-6,000 → €5,000-8,000 minimum
+- Monthly retainer: €800-1,500 → €3,500-5,000/month or explicitly model as loss-leader CAC
+- Diagnostic: €490 credited → €1,500 full day rate or remove credit mechanism
+
 ### NEW (from 2026-03-30 Pulse 31 — Process Exit, Unit Economics, Execution Roadmap)
 - [x] **D165 — Pulse process SUSPENDED:** Stop pulses until U91/U52 cleared OR 5 discovery calls completed OR explicit side-project declaration. Pulse process has negative output rate — more decisions killed than held.
 - [x] **D166 — €1,500 pilot KILLED:** D110 charity model eliminated — €1,500 pilot with €5,000+ delivery cost is not CAC, it's paying clients to work with Alizé. Pilot needs €5,000-7,500 minimum.
+- [x] **D167 — €2,000/month retainer VIABILITY DOUBTED:** Cost-plus minimum is €7,963/month; €2,000 is 25% of cost-plus. BRIEF.md pricing needs revision. Requires Louis decision on business model (loss-leader CAC vs. profitable pricing).
 - [x] **D167 — €2,000/month retainer VIABILITY DOUBTED:** Cost-plus minimum is €7,963/month; €2,000 is 25% of cost-plus. Needs market validation or raise to €3,500-4,500.
 - [x] **D168 — Domain purchase is ONLY true Day 1 blocker:** Everything else (U91, U52, vertical, pricing) is Louis's decision or external dependency, not a technical/research gate. Buy alize.studio today.
 - [x] **D169 — Binary choice unblocks everything:** Louis writes "Alizé is a [startup/side-project]" and dates it. This is not a research question. U91 and U52 don't block outreach — Louis's binary choice does.
