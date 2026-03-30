@@ -29,6 +29,9 @@
 | U4 | Diagnostic pricing final | €490 vs free? | Needs decision |
 | U5 | Pricing tiers final | €1,200/€3,000/€5,500 workflow-tier? | Needs client validation |
 | U6 | Competitive framing | Lead with Agentova contrast or Microsoft/HubSpot contrast? | Needs decision |
+| U12 | First vertical selection | Professional services (consulting firms) vs. accounting firms vs. healthcare admin | Task density, ROI clarity, and decision-maker sophistication differ across each |
+| U13 | Service delivery model | Self-deliver (Louis = client success) vs. automated-light (heavy monitoring automation) vs. partner model | Biggest execution risk |
+| U14 | Product scope 90-day | What specifically gets built in the first 90 days? Need a hard list. | 2 devs cannot do everything |
 
 ## 📋 TODO (from research + debates)
 
@@ -73,6 +76,17 @@
 - [ ] Remove 3-month minimum commitment; go month-to-month after pilot
 - [ ] Lead every sales conversation with free-tool ceiling framing
 
+### NEW (from 2026-03-30 Pulse 5)
+- [ ] Expert-comptable channel: NOT Year 1 viable — Month 9+ only. Treat any meetings as learning, not sales.
+- [ ] Content/SEO: NOT a Year 1 pipeline driver — Month 9+ before meaningful inbound. Year 1 engine = outbound + paid search.
+- [ ] 90-day sales target: 1-2 pilots signed is realistic, not 2-3. Apply ICP filters before outreach.
+- [ ] Vertical depth reframing: "operational expertise + integration depth" is more accurate than "vertical knowledge moat"
+- [ ] Pennylane risk: acknowledge in planning — if Pennylane launches native AI agents, accounting vertical integration moat collapses
+- [ ] Team delivery capacity: 2 devs cannot simultaneously build platform + deliver service to 5+ clients at quality
+- [ ] Financial model: economics don't work at 5 clients; viable at 12-15 clients minimum
+- [ ] Client success role: must be defined by Month 3 — Louis transitions to client-facing or contractor hired
+- [ ] Product scope: contract to 90-day MVP — agent runtime + 1 MCP connector + basic monitoring + landing page only
+
 ---
 
 ## Debate Log Summary
@@ -84,5 +98,5 @@
 | 2026-03-30 midday | Landing page, GTM scalability, Differentiation | Hero wrong; network math unrealistic; vertical depth = moat |
 | 2026-03-30 late | Managed service, Tech stack, Mistral threat | "Managed service" = liability headline; MCP = infrastructure; Mistral is 2027-2028 |
 
-*Last updated: 2026-03-30 by pulse cron*
+*Last updated: 2026-03-30 by pulse cron (Pulse 5)*
 
