@@ -263,4 +263,36 @@ Central log of all debate outcomes across research pulses.
 | U50 | Pre-payment model | Should Alize ask for 3 months pre-paid? Improves cash position but may increase friction. |
 | U51 | Warm outreach materials | Does Louis have pitch deck, scope template, pilot one-pager ready for warm outreach? This is the real first blocker. |
 
-*Last updated: 2026-03-30 by pulse cron (Pulse 13)*
+*Last updated: 2026-03-30 by pulse cron (Pulse 15)*
+
+## Pulse 15 (2026-03-30 — 13:32 UTC)
+
+| Agent | Topic | Key Findings |
+|-------|-------|-------------|
+| Vertical Strategist | Professional services first vertical | WRONG — buy-vs-build doesn't apply (consulting firms don't think in software platforms); workflows non-standardized; €1,500+/month exceeds their budget; accounting/legal may be better fit |
+| Bridge Channel Strategist | Month 4-6 channel plan | UNANSWERABLE without case studies; Malt viable but requires proof; LinkedIn cold outbound needs case study; define at Month 3, not before |
+| Delivery Partner Strategist | Case study production from pilot | FAILS — €3,250 cap assumes 5 days, realistic 10-15; success-fee misaligns incentives; Gabin still unqualified; case study needs name + metrics + testimonial |
+
+### New Decisions (Pulse 15)
+
+| ID | Topic | Decision | Source | Date |
+|----|-------|----------|--------|------|
+| D68 | Bridge channel timing | Cannot define Month 4-6 channels until case studies exist. Define at Month 3 based on pilot learnings. | Bridge channel agent | 2026-03-30 |
+| D69 | Malt channel | Valid but must wait until 1 pilot complete. Profile needs proof to differentiate. | Bridge channel agent | 2026-03-30 |
+| D70 | Delivery day count | 10-15 days realistic per pilot, not 5. Raise pilot fee to €6,500 or cut scope. | Delivery agent | 2026-03-30 |
+| D71 | Success-fee renegotiation | Current structure misaligns incentives at realistic delivery hours. Renegotiate. | Delivery agent | 2026-03-30 |
+
+### New Unresolved (Pulse 15)
+
+| ID | Topic | Blocker |
+|----|-------|---------|
+| U58 | D44 validity | Professional services thesis challenged — needs Louis decision |
+| U59 | Specific vertical | Accounting firms or legal practices may fit better than consulting |
+| U60 | Buy-vs-build applicability | Does this framing apply to 10-50 person firms? Evidence says no |
+| U61 | Month 4-6 bridge channels | Define at Month 3, not before |
+| U62 | Malt listing timing | Wait until 1 pilot complete with measurable results |
+| U63 | Cold outbound prerequisites | Website live + 1 case study (D47) |
+| U64 | Delivery day budget | 10-15 days, not 5 — revalidate pilot economics |
+| U65 | Success-fee renegotiation | Current model misaligns delivery partner incentives |
+| U66 | Gabin consulting background | U41 — Day 1-3 gate, still unresolved |
+| U67 | Case study minimum requirements | Must define: company name + specific metrics + client testimonial |

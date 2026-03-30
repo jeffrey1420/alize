@@ -270,3 +270,22 @@
 - [ ] Revise Year 1 target from 6-8 to 3-4 pilots if network mapping shows <30 ICP-fit contacts
 - [ ] Update commercial offer: 6-month + 30-day exit structure, 70/30 payment, channel-differentiated pilot pricing
 - [ ] Update external materials: remove all "12-month commitment" language from Year 1 pitch
+
+### NEW (from 2026-03-30 Pulse 15 — Vertical, Bridge Channels, Delivery)
+- [ ] **D68 — Bridge channel timing:** Cannot define Month 4-6 channels until case studies exist. Define at Month 3 based on pilot learnings.
+- [ ] **D69 — Malt channel:** Wait until 1 pilot complete with measurable results before listing. Profile needs proof to differentiate.
+- [ ] **D70 — Delivery day budget:** 10-15 days realistic per pilot, not 5. Raise pilot fee to €6,500 or cut delivery scope to match €4,500.
+- [ ] **D71 — Success-fee renegotiation:** Current structure (€350/day + €1,500 bonus, capped at €3,250) misaligns incentives. Renegotiate before contracting.
+- [ ] **U58 — D44 validity:** Professional services thesis challenged. Does "buy vs build" even apply to 10-50 person consulting firms? Needs Louis decision.
+- [ ] **U59 — Alternative vertical:** Accounting firms or legal practices may be better first vertical — more standardized workflows, compliance drivers, buy services not tools.
+- [ ] **U61 — Bridge channel definition:** Deferred to Month 3 — cannot answer without case studies.
+- [ ] **U62 — Malt listing:** Wait until 1 pilot complete. Do not list without proof to show.
+- [ ] **U63 — Cold outbound prerequisites:** Website live + 1 case study (D47 blockers).
+- [ ] **U64 — Delivery day count:** 10-15 days realistic. Revalidate €3,250 budget against 10-day reality.
+- [ ] **U65 — Success-fee renegotiation:** Renegotiate before signing any delivery partner contract.
+- [ ] **U66 — Gabin consulting background:** U41 — ask Gabin this week. Day 1-3 gate.
+- [ ] **U67 — Case study requirements:** Define minimum bar: company name (or identifiable profile) + specific metrics + client testimonial.
+- [ ] Month 1: Ask Gabin about PME consulting background (U41/U66) — this gates the entire delivery model
+- [ ] Month 1: If Gabin doesn't qualify, begin Malt outreach for external delivery partner
+- [ ] Revalidate pilot fee: €4,500 only works if delivery ≤5 days. 10-15 days realistic = €6,500 minimum
+- [ ] Month 3: Define Month 4-6 bridge channels based on what the first pilot actually taught
