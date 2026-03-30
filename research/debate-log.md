@@ -1018,3 +1018,34 @@ Central log of all debate outcomes across research pulses.
 | 2026-03-30 evening | Demo Motion, Free Pilot, Louis Profile (Pulse 37) | D182 demo motion NOT indefinitely scalable; D183/D186 free pilot has NO conversion path; Louis credibility floor is €0 at any price; Kuroba co-founding story unused in materials; product credibility > founder credibility |
 
 *Last updated: 2026-03-30 by pulse cron (Pulse 37)*
+
+## Pulse 38 (2026-03-30 — 19:47 UTC)
+
+| Agent | Topic | Key Findings |
+|-------|-------|-------------|
+| Kuroba-Alizé Auditor | Kuroba as internal deployment | D187 killed wrong thing — Kuroba IS the ideal first deployment target; zero credibility problem; "we ate our own cooking" = strongest social proof |
+| First-Euro Auditor | Research as procrastination | U91 is decision trap; U52 is a 2-hour task not a blocker; 38 pulses = noise not momentum; send 5 messages TODAY |
+| Demo-Pricing Auditor | Demo-to-pricing transition | Pricing must be embedded IN the demo, not after; "How much?" = 3 questions in disguise; "let me think about it" = pre-negotiated exit ramp with script |
+
+### Decisions from Pulse 38
+
+| ID | Topic | Decision | Source | Date |
+|----|-------|----------|--------|------|
+| D194 | Kuroba-as-internal-deployment | Kuroba = Month 1 internal deployment target. NOT a conflict — the ideal first proof point. | Kuroba-Alizé Auditor | 2026-03-30 |
+| D195 | Kuroba social proof | "We built it for ourselves first" (Kuroba, Maëli/Gabin named) is strongest available social proof > anonymized case studies | Kuroba-Alizé Auditor | 2026-03-30 |
+| D196 | U91 forced deadline | Louis decides (startup vs side-project) by 2026-04-01 — no more pulses until binary choice is written and dated | First-Euro Auditor | 2026-03-30 |
+| D197 | Send 5 messages today | Louis sends 5 LinkedIn messages to warm contacts today — no deck, no landing page, no map required | First-Euro Auditor | 2026-03-30 |
+| D198 | Demo pricing embedded | Pricing callout (value anchor + price) must appear at minute 5-8 of the demo, before "any questions?" | Demo-Pricing Auditor | 2026-03-30 |
+| D199 | "How much?" script | French pricing script: ROI calculation + price + immediate next-step ask embedded in demo (see pulse38-debate.md) | Demo-Pricing Auditor | 2026-03-30 |
+| D200 | "Let me think about it" script | Screen-share transfer tactic — send working agent link, set specific callback time, never leave without next step | Demo-Pricing Auditor | 2026-03-30 |
+
+### Unresolved from Pulse 38
+
+| ID | Topic | Blocker |
+|----|-------|---------|
+| U91 | Louis binary choice deadline | April 1 — if unresolved, Alizé defaults to side-project plan |
+| U170 | Louis solo delivery self-test | 3-day build (Slack → Notion agent) before committing to delivery |
+| U163 | Domain purchase | Still not done after 38 pulses |
+| U191 | Demo pricing script rehearsal | Louis must rehearse pricing script before first real demo |
+
+*Last updated: 2026-03-30 by pulse cron (Pulse 38)*

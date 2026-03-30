@@ -673,3 +673,21 @@
 - [ ] Month 1: Prepare pricing answer BEFORE first demo — even if the answer is "first month free, then €X/month"
 - [ ] External materials: Add "co-founded Kuroba web agency" to all "qui c'est" responses in pitch deck, LinkedIn outreach, and landing page
 - [ ] Sales motion: Demo-led for first contact, but commercial conversation on Day 1 — not deferred to "when the prospect decides"
+
+### NEW (from 2026-03-30 Pulse 38 — Kuroba, First-Euro, Demo-Pricing)
+- [x] **D194 — Kuroba-as-internal-deployment:** Kuroba = Month 1 internal deployment target. NOT a conflict — the ideal first proof point. Zero credibility problem, zero sales close needed. Resolve by defining scope with Maëli and Gabin.
+- [x] **D195 — Kuroba social proof:** "We built it for ourselves first" (Kuroba, Maëli/Gabin named) is the strongest available social proof — stronger than any anonymized case study or pitch deck.
+- [x] **D196 — U91 forced deadline:** Louis decides (startup vs side-project) by 2026-04-01. Written and dated. No more pulses until this exists.
+- [x] **D197 — Send 5 messages today:** Louis sends 5 LinkedIn messages to warm contacts TODAY. No deck, no landing page, no network map required. Template: "I'm working on AI agents for businesses, looking for 2-3 companies to do a short pilot with. Open to a 20-minute call?"
+- [x] **D198 — Demo pricing embedded:** Pricing callout (value anchor + price) must appear at minute 5-8 of the demo, before the "any questions?" moment — not in a follow-up call.
+- [x] **D199 — "How much?" script:** French pricing script: ROI calculation + price + immediate next-step ask. Embedded in demo at minute 5-8.
+- [x] **D200 — "Let me think about it" script:** Screen-share transfer tactic — send working agent link, set specific callback time. Never leave a prospect without a next step.
+- [ ] **U91 deadline April 1:** Louis writes "Alizé is a [startup/side-project]" and dates it. If unresolved, Alizé defaults to side-project plan.
+- [ ] **U170 — Louis solo delivery self-test:** 3-day build (Slack → Notion ticket triage agent) before committing to solo delivery.
+- [ ] **U163 — Buy alize.studio:** Still not done. €10, 5 minutes. Gates email and website.
+- [ ] Month 1 Week 1: Message Kuroba (Maëli/Gabin) — ask to deploy Alizé at Kuroba as first internal deployment.
+- [ ] Month 1: Send 5 LinkedIn messages to warm contacts — not as a research sprint, as an execution action.
+- [ ] Month 1: Rehearse pricing script (D199) before first real demo.
+- [ ] Kill U173 as "web agency conflict" — Kuroba-as-internal-deployment is the answer, not a question to resolve.
+- [ ] Kill D187 as applied to Kuroba — D187 correctly killed "web agencies as vertical to sell to"; it incorrectly killed "Kuroba as internal deployment." These are separate decisions.
+- [ ] External materials: Add Kuroba deployment as the first social proof reference — "we built it for ourselves first."
