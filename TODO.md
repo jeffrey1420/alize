@@ -924,3 +924,46 @@
 The alize-5min-pulse cron should not run until Louis completes U254 (first external action: domain purchase or discovery call). Gateway action required to disable.
 
 *Auto-added by Pulse 49 cron — 2026-03-30 23:14 UTC*
+
+---
+
+## Late Pulse 49 Additions (2026-03-30 Evening)
+
+### NEW Decisions (Late Pulse 49)
+
+| ID | Topic | Decision | Source | Date |
+|----|-------|----------|--------|------|
+| D253 | Evidence sequencing | Kill "proof before action" doctrine; adopt "minimum viable evidence" | Evidence vs Action Debate | 2026-03-30 |
+| D254 | Stack timing | Defer Mastra + pgvector + Redis to after 5+ paying clients | Stack Appropriateness Debate | 2026-03-30 |
+| D255 | Infrastructure gate | Only invest in platform when 5+ clients asking for self-service | Stack Appropriateness Debate | 2026-03-30 |
+| D256 | First delivery tools | Use Zapier/Make.com + OpenAI API for first pilots | Stack Appropriateness Debate | 2026-03-30 |
+
+### Kill from TODO (Late Pulse 49)
+
+The following are removed as preconditions — they are research tasks, not action gates:
+
+- ~~"Map network before outreach"~~ → replaced with "send 1 message today"
+- ~~"Resolve binary choice before outreach"~~ → replaced with "act first, decide from evidence"
+- ~~"Build Mastra infrastructure Month 1"~~ → deferred to after 5+ paying clients
+- ~~"Deploy pgvector on OVHcloud"~~ → deferred until RAG actually needed
+- ~~"Set up Redis for session management"~~ → manual tracking for 1-3 clients
+
+### Add to TODO (Late Pulse 49)
+
+**Immediate (today, March 30):**
+- [ ] Send 1 LinkedIn message to warm contact — not 5, one
+- [ ] Buy alize.studio domain — U163, still not done after 49 pulses
+
+**This week:**
+- [ ] Have 1 discovery call — not to close, to test framing
+- [ ] Use Zapier/Make.com for first 3 client deliveries (D256) — not Mastra
+- [ ] Evaluate whether first clients need RAG before building pgvector
+
+**Infrastructure Decision Gate (post-5 clients):**
+- [ ] Only deploy Mastra + pgvector + Redis when 5+ paying clients AND 2+ asking for self-service
+
+### Meta-Observation
+
+U91, U163, U52 remain unresolved after 49 pulses. These are not research questions. They require Louis to act, not to think. The evidence vs action debate today confirms: research cannot resolve what only action can.
+
+*Auto-added by Late Pulse 49 — 2026-03-30 23:23 UTC*

@@ -1426,3 +1426,41 @@ All three agents agree: current research process produces zero execution. Resolu
 **Cron Status:** Suspended by Pulse 49 decision (D258) — gateway action required to resume
 
 *Last updated: 2026-03-30 by pulse cron (Pulse 49)*
+
+---
+
+## Pulse 49 — Additions (2026-03-30 Late)
+
+> Second Pulse 49 run this evening. Two new debates spawned.
+
+### NEW (from Pulse 49 — Evidence vs Action, Stack Appropriateness)
+
+| ID | Topic | Finding | Source |
+|----|-------|---------|--------|
+| P49-5 | Research as procrastination | 48 pulses produced 80+ docs, zero commercial activity; evidence-first doctrine has become a deferral mechanism | Evidence vs Action Debate |
+| P49-6 | Stack timing | Consulting practice (D37/D79) doesn't need platform infrastructure; Zapier + OpenAI API sufficient for Months 1-6 | Stack Appropriateness Debate |
+
+**Decisions from Late Pulse 49:**
+
+| ID | Topic | Decision | Source | Date |
+|----|-------|----------|--------|------|
+| D253 | Evidence sequencing | Kill "proof before action" doctrine; adopt "minimum viable evidence" (one message, one call, one demo) | Evidence vs Action Debate | 2026-03-30 |
+| D254 | Stack timing | Defer Mastra + pgvector + Redis to after 5+ paying clients | Stack Appropriateness Debate | 2026-03-30 |
+| D255 | Infrastructure gate | Only invest in platform when clients ask for self-service | Stack Appropriateness Debate | 2026-03-30 |
+| D256 | First delivery tools | Use Zapier/Make.com + OpenAI API for first pilots | Stack Appropriateness Debate | 2026-03-30 |
+
+**Kill from TODO (Late Pulse 49):**
+- "Map network before outreach" → replaced with "send 1 message today"
+- "Resolve binary choice before outreach" → replaced with "act first, decide from evidence"
+- "Build Mastra infrastructure Month 1" → deferred to after 5+ paying clients
+- "Deploy pgvector on OVHcloud" → deferred until RAG actually needed
+- "Set up Redis for session management" → manual tracking for 1-3 clients
+
+**Add to TODO (Late Pulse 49):**
+- Send 1 LinkedIn message TODAY (not 5)
+- Have 1 discovery call THIS WEEK
+- Use Zapier/Make.com for first 3 client deliveries
+- Evaluate whether first clients need RAG before building pgvector
+- Infrastructure investment is a post-5-clients decision gate
+
+*Last updated: 2026-03-30 late evening by pulse cron (Late Pulse 49)*
