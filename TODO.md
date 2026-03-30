@@ -498,3 +498,24 @@
 - [ ] Month 1: Warm outreach begins with Louis + sales coach (D138) — not gated by commercial co-founder
 - [ ] Kill: U86 as currently stated (senior commercial co-founder prerequisite for Month 1) — replace with tiered commercial capability roadmap
 - [ ] External materials: Remove all "NOT digital agencies" language from D126; Alizé can pursue web agencies via Grinto connections
+
+### NEW (from 2026-03-30 Pulse 28 — WTP, Hours, Category)
+- [x] **D139 — Copilot positioning REVISED:** D129 "additive to Copilot" fails price math; replace with "agent layer for companies where Copilot isn't enough"
+- [x] **D140 — Sales playbook update:** "We have Copilot" = buying signal (buyer frustrated, not satisfied); discovery question: "what does Copilot NOT do for you?"
+- [x] **D141 — WTP research gate:** U102 must be answered with primary research within 30 days — survey 20 warm contacts with two specific questions
+- [x] **D142 — Louis hours binary choice:** U91 reframed as decision not data; Louis must choose: declared side-project OR formal startup commitment at 25-30 hrs/week
+- [x] **D143 — Alizé identity REVISED:** D133 "AI service firm" rejected; replace with "AI workflow automation for regulated SMEs"
+- [x] **D144 — GTM message restructure:** Lead with problem/solution, not vendor identity; outreach, website, demo all flip to outside-in framing
+- [ ] **U102 — WTP vs Copilot:** Survey 20 warm contacts within 30 days: (1) Do you have Copilot and does it solve your workflow problems? (2) If Alizé cost €1,500/mo and Copilot cost €1,500/mo for your team, which would you keep?
+- [ ] **U141 — Louis binary choice:** Alizé = declared side-project OR startup with 25-30 hrs/week formal commitment. This is a binary decision, not a research question.
+- [ ] **U142 — Track actual hours:** Louis tracks exact hours across all commitments for 2 weeks — not estimates. Required before Month 1 planning proceeds.
+- [ ] External materials update: Remove all "service firm" language from external materials; replace with "AI workflow automation for regulated SMEs"
+- [ ] External materials: Remove all D129 "additive to Copilot" framing; replace with "when Copilot isn't enough"
+- [ ] Sales playbook: Add "Copilot isn't enough" objection handler; add "what does Copilot NOT do for you?" as primary discovery question
+- [ ] BRIEF.md update: Replace D133 identity with "AI workflow automation for regulated SMEs"; update competitive section to reflect revised Copilot positioning (D139)
+- [ ] Update commercial offer: Pricing anchor = "replaces manual work, not adds to Microsoft stack" — not budget stacking with Copilot
+
+### NEW (from 2026-03-30 Pulse 28 — Hours Debate Pattern)
+- [ ] **CRITICAL:** U91 has been listed as "unresolved" for 27 consecutive pulses. This is not a data problem. Louis must make the binary choice THIS WEEK — not add it to a backlog. If U91 is still unresolved after Pulse 28, Alizé defaults to side-project plan.
+- [ ] Side-project plan: One internal delivery rehearsal, document what worked, publish on LinkedIn, wait for inbound. No external pilots Year 1.
+- [ ] Startup plan: Louis formally reduces at least one of {M1, Grinto, web agency} to create 25-30 hrs/week for Alizé. Explicit, written, dated.

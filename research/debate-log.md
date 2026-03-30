@@ -687,3 +687,13 @@ Central log of all debate outcomes across research pulses.
 | 2026-03-30 | Expert-Comptables Vertical, Malt Channel, Commercial Layer | D126 modified; Malt deprioritized as primary; U86 reframed with tiered commercial capability; D90 reframed for €1,500 closes |
 
 *Last updated: 2026-03-30 by pulse cron (Pulse 27)*
+
+## Pulse 28 (2026-03-30 — 17:07 UTC)
+
+| Agent | Topic | Key Findings |
+|-------|-------|-------------|
+| WTP vs Copilot | "Additive" framing | Fails price math — forces budget stacking the buyer can't approve; "additive" concedes Copilot is sufficient; replace with "agent layer where Copilot isn't enough" |
+| Louis Hours | Structural contradiction | U91 is a decision problem not data problem; 27 pulses without resolution = avoidance; binary choice: declared side-project OR formal startup commitment at 25-30 hrs/week |
+| Category Framing | "Service firm" identity | Not a buyer category — describes vendor not problem; "service firm" = SSII stigma in French B2B; flip to outside-in: "AI workflow automation for regulated SMEs" |
+
+*Last updated: 2026-03-30 by pulse cron (Pulse 28)*
