@@ -41,6 +41,7 @@
 | U15 | Delivery model | Who is the client-facing layer in Month 1-3? Louis + contractor? Louis full-time sales? | Needs immediate decision |
 | U16 | First pilot vertical | Digital agencies/e-commerce confirmed — but which specific type? | Follow Grinto connections |
 | U17 | Pilot fee final | **RESOLVED (D24)** — €4,500 fixed all-in; signed scope document; change triggers €750/day; exit criteria defined | Needs Louis sign-off |
+| U26 | GTM channel priority | **Network-first (warm outreach primary) + cold outbound supplement** vs. outbound-only | Month 1 resource allocation — does Louis lead warm outreach personally or delegate to SDR? |
 
 ## 📋 TODO (from research + debates)
 
@@ -117,14 +118,29 @@
 - [ ] Week 1 build: basic Nuxt+Hono app with one LLM call + one stored result; no Mastra, no MCP
 - [ ] Update BRIEF.md: remove "AI employee" references; add "workflow automation" framing
 
-### NEW (from 2026-03-30 Pulse 8)
+### NEW (from 2026-03-30 Pulse 9)
+- [x] **GTM priority (D26):** Network-first (warm outreach via Grinto's network) as primary Year 1 channel; cold outbound secondary, Month 2+. Warm outreach = 5-10x more efficient than cold for unknown brand.
+- [x] **Platform strategy (D27):** Kill parallel platform build. Pure-service-first for Months 1-12. Use n8n/Make.com for client automations. Platform decision at Month 12+ based on real revenue data.
+- [x] **Conversion mechanism (D28):** Hybrid outcome guarantee: €4,500 pilot + month 1 €1,200 retainer with 50% refund if unsatisfied + month-to-month after. No lock-in.
+- [x] **Pilot ROI framing (D29):** Remove "hours saved" framing. Use "operational ownership transfer" — client delegates the task entirely, never touches it again.
+- [x] **Pilot qualification (D30):** Workflow must be operationally critical. Reject "nice to have" workflows. Only accept operations client would genuinely notice losing.
+- [ ] Month 1: Map 50-75 warm contacts in Louis's network. Execute warm-first outreach personally. No cold outbound SDR yet.
+- [ ] Month 1: Evaluate n8n vs Make.com for interim service delivery tooling.
+- [ ] Define platform decision criteria at Month 12: what signals trigger build vs compose vs stay service-only?
+
+## NEW (from 2026-03-30 Pulse 8)
+- [x] **Delivery model (D23):** Louis delivers Month 1 pilot manually + documents; Month 2 contractor executes against playbook
+- [x] **Pilot fee (D24):** €4,500 fixed all-in; signed scope document; change triggers €750/day; exit criteria defined
+- [x] **Competitive framing (D25):** Never name competitors in first outreach; problem-first framing; comparison only if prospect raises it
 - [ ] Month 1: Louis delivers first pilot manually, documents every delivery step (becomes the delivery playbook)
 - [ ] Before Month 2 contractor hire: draft explicit role definitions (Louis owns what, contractor owns what, escalation path)
-- [ ] Pilot fee: quote €4,500 fixed (not "at-cost"); signed scope document with inclusion/exclusion lists before any work begins
-- [ ] Change triggers: €750/day pro-rated for out-of-scope requests or client-caused delays >5 business days
 - [ ] Exit criteria: written into scope document day one — >80% accuracy on test cases, client team can execute without Alizé, measurable efficiency gain
-- [ ] Cold outreach: remove all competitor names from first-touch templates; lead with problem ("gap between having AI and AI that works")
-- [ ] Competitive framing rule: competitor comparison only if prospect raises it first; never proactively name Agentova or others
+
+### NEW (from 2026-03-30 Pulse 9 — GTM Debate)
+- [ ] **GTM priority decision (U26):** Network-first (warm outreach via Grinto/Louis's network) as primary Year 1 channel, with cold outbound as secondary supplement. Warm outreach can generate 6–8 pilots in Months 1–6 vs. ~1–4 from cold outbound alone.
+- [ ] **Month 1 sales activity:** Louis leads warm outreach personally — map 50–75 warm contacts, execute personalized outreach, book 8–12 discovery calls. Do not hire SDR yet.
+- [ ] **Case study prioritization:** First 2–3 pilots MUST come from warm network to generate proof points. These are the prerequisite that makes cold outbound viable.
+- [ ] **SDR timing:** Do not hire cold outbound SDR until Month 3–4, after case studies and website exist.
 
 ---
 
@@ -138,5 +154,5 @@
 | 2026-03-30 late | Managed service, Tech stack, Mistral threat | "Managed service" = liability headline; MCP = infrastructure; Mistral is 2027-2028 |
 | 2026-03-30 midday | Positioning, MVP scope, Diagnostic pricing | "AI employee" framing = French labor/political liability; runtime spike = backwards; diagnostic = free lead gen |
 
-*Last updated: 2026-03-30 by pulse cron (Pulse 7)*
+*Last updated: 2026-03-30 by pulse cron (Pulse 9)*
 

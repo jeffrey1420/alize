@@ -104,7 +104,13 @@ Central log of all debate outcomes across research pulses.
 | U6 | Competitive framing | Lead with Agentova contrast or Microsoft/HubSpot contrast? | Needs decision |
 | U15 | Delivery model | Who is the client-facing layer in Month 1-3? | Louis + delivery contractor? Louis full-time sales? |
 | U16 | First pilot size | 20-30 employees vs 50-200? | 20-30 recommended for first pilot; 50-200 for scale phase |
-| U17 | Pilot fee structure | Discounted vs at-cost with strict deliverables? | At-cost with case study rights recommended |
+| U17 | Pilot fee structure | **RESOLVED (D24)** — €4,500 fixed all-in; signed scope document; change triggers €750/day; exit criteria defined | Needs Louis sign-off |
+| U26 | GTM channel priority | **RESOLVED (D26)** — Network-first warm outreach as primary; cold outbound Month 2+ | Needs Louis awareness |
+| U27 | Platform strategy | **RESOLVED (D27)** — Pure-service-first; no platform build in Year 1 | Needs Louis awareness |
+| U28 | Month 1 warm contact list | Who are the first 50-75 warm contacts? | Louis must map his network |
+| U29 | SDR timing | When to hire cold outbound support — Month 3-4 after case studies? | Budget decision |
+| U30 | n8n vs Make.com | Which tool for interim service delivery? | Technical evaluation |
+| U31 | Platform decision criteria | What signals at Month 12 trigger "build vs compose vs stay service"? | Need to define thresholds |
 
 ---
 
@@ -150,4 +156,24 @@ Central log of all debate outcomes across research pulses.
 | D24 | Pilot fee | €4,500 fixed all-in, signed scope document, change triggers at €750/day, explicit exit criteria | Pilot fee agent | 2026-03-30 |
 | D25 | Competitive framing | Never name competitors in first outreach; problem-first framing; comparison only if prospect raises it | Competitive framing agent | 2026-03-30 |
 
-*Last updated: 2026-03-30 by pulse cron (Pulse 8)*
+---
+
+## Pulse 9 (2026-03-30 — 12:06 UTC)
+
+| Agent | Topic | Key Findings |
+|-------|-------|-------------|
+| GTM Strategist | Outbound-only Year 1 assumption | COLD — 2-3% reply rate for unknown brand; warm outreach via Grinto's network is 5-10x more efficient; network-first should be primary |
+| Platform Strategist | Parallel platform build assumption | WRONG — pure-service-first for 6-12 months; use n8n/Make.com; platform decision deferred to Month 12+ |
+| Conversion Strategist | Natural 30-day pilot conversion assumption | WRONG — 35-50% realistic conversion rate; "hours saved" ROI math doesn't work; must architect for operational dependency; add hybrid guarantee |
+
+### New Decisions (Pulse 9)
+
+| ID | Topic | Decision | Source | Date |
+|----|-------|----------|--------|------|
+| D26 | GTM channel priority | Network-first (warm outreach) as primary Year 1 channel; cold outbound secondary, Month 2+ | GTM agent | 2026-03-30 |
+| D27 | Platform strategy | Kill parallel platform build; pure-service-first Months 1-12; compose with n8n/Make.com; platform decision at Month 12+ | Platform agent | 2026-03-30 |
+| D28 | Conversion mechanism | Hybrid outcome guarantee: €4,500 pilot + month 1 €1,200 retainer with 50% refund if unsatisfied + month-to-month after | Conversion agent | 2026-03-30 |
+| D29 | Pilot ROI framing | Reframe from "hours saved" to "operational ownership transfer" — client must feel they have delegated entirely | Conversion agent | 2026-03-30 |
+| D30 | Pilot qualification | Workflow must be operationally critical (not "nice to have"); reject nice-to-have workflow pilots | Conversion agent | 2026-03-30 |
+
+*Last updated: 2026-03-30 by pulse cron (Pulse 9)*
