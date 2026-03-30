@@ -480,3 +480,21 @@
 - [ ] Sales playbook: Build "Copilot comparison" one-pager (internal use, not marketing)
 - [ ] Update BRIEF.md: Expert-comptables as first vertical (D126), "French AI service firm for regulated industries" identity (D133), remove platform fiction (D134)
 - [ ] Update commercial offer: €1,500/2-week diagnostic (D125), problem-specific framing replaces "honest framing" (D131)
+
+### NEW (from 2026-03-30 Pulse 27 — Vertical, Channel, Commercial Layer)
+- [ ] **D135 — Expert-comptable vertical MODIFIED (D126):** Go where Grinto relationships exist first; expert-comptables validated through warm intros, not cold outreach
+- [ ] **D136 — Malt channel DEPRIORITIZED as primary:** Use as review-accumulation engine for warm network clients; primary channel remains direct warm outreach + association referrals
+- [ ] **D137 — Commercial layer for €1,500 closes:** Louis + sales coach (€500-1,500 flat) sufficient; senior co-founder gates €5,000+ deals, not €1,500 diagnostic
+- [ ] **D138 — D90 REFRAMED:** Warm outreach starts Month 1 with Louis + sales coach; commercial co-founder not a prerequisite at €1,500 diagnostic closes
+- [ ] **U136 — U52 ICP network mapping:** STILL CRITICAL — map Louis's warm contacts by ICP-fit, company size, decision-maker access before any outreach
+- [ ] **U137 — U91 Louis hours:** STILL UNRESOLVED — track actual hours for 2 weeks before Month 1 planning
+- [ ] **U138 — U123/U129 expert-comptable network:** Validates/invalidates modified D126; if Louis has 0 warm accounting firm contacts, expert-comptables become Month 4+ via association referrals
+- [ ] **U139 — Louis sales coach:** Find a sales coach or peer with PME closing experience to review Louis's outreach materials; €500-1,500 for 2-4 sessions
+- [ ] **U140 — First specific priced workflow:** Must be defined before any Malt listing; e.g., "automatisation réconciliation bancaire, 2500€ HT, 4 semaines" — specific, priced, understandable
+- [ ] Month 1 Week 1: Map Louis's warm network against ICP (U52/U136) — this is the prerequisite for all outreach decisions
+- [ ] Month 1 Week 1: Find a sales coach for Louis (U139) — €500-1,500 for 2-4 sessions
+- [ ] Month 1 Week 1: Define first specific priced workflow (U140) — before any channel decision
+- [ ] Month 1 Week 2: Louis does 2-3 roleplay discovery calls with sales coach before any live prospect calls
+- [ ] Month 1: Warm outreach begins with Louis + sales coach (D138) — not gated by commercial co-founder
+- [ ] Kill: U86 as currently stated (senior commercial co-founder prerequisite for Month 1) — replace with tiered commercial capability roadmap
+- [ ] External materials: Remove all "NOT digital agencies" language from D126; Alizé can pursue web agencies via Grinto connections

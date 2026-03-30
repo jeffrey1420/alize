@@ -638,3 +638,52 @@ Central log of all debate outcomes across research pulses.
 | 2026-03-30 late | Copilot, GTM Paradox, Identity | D96 reversed (name Microsoft externally); warm network demoted to parallel track; "AI operations company" identity rejected for "French AI service firm for regulated industries" |
 
 *Last updated: 2026-03-30 by pulse cron (Pulse 26)*
+
+## Pulse 27 (2026-03-30 — 16:47 UTC)
+
+| Agent | Topic | Key Findings |
+|-------|-------|-------------|
+| Vertical Strategist | Expert-comptables as first vertical | D126 should be MODIFIED not abandoned — network dependency unresolved (U123/U129), domain knowledge gap fatal (U124); go where Grinto relationships exist first |
+| Channel Strategist | Malt.fr viability | Cold-start impossible (zero reviews = invisible); "AI automation" doesn't convert without specific priced workflow; reverse Malt to review-accumulation engine, not primary channel |
+| Business Strategist | Commercial layer prerequisite | U86/D84/D90 built on €7,500+ framing; D125 sets €1,500 diagnostic; Louis + sales coach sufficient for €1,500 closes; senior co-founder belongs at Month 3-4 not Month 1 |
+
+### New Decisions (Pulse 27)
+
+| ID | Topic | Decision | Source | Date |
+|----|-------|----------|--------|------|
+| D135 | Expert-comptable vertical | MODIFY D126 — go where Grinto relationships exist first; expert-comptables validated through warm intros, not cold outreach | Vertical agent | 2026-03-30 |
+| D136 | Malt channel strategy | DEPRIORITIZE as primary inbound; use as review-accumulation engine for warm network clients instead | Channel agent | 2026-03-30 |
+| D137 | Commercial layer for €1,500 closes | Louis + sales coach (€500-1,500) sufficient; senior co-founder gates €5,000+ deals, not €1,500 diagnostic | Commercial agent | 2026-03-30 |
+| D138 | D90 reframed | Warm outreach starts Month 1 with Louis + sales coach; commercial co-founder not a prerequisite at €1,500 | Commercial agent | 2026-03-30 |
+
+### New Unresolved (Pulse 27)
+
+| ID | Topic | Blocker |
+|----|-------|---------|
+| U136 | U52 ICP network mapping | STILL CRITICAL — gates all GTM decisions |
+| U137 | U91 Louis hours | STILL UNRESOLVED — gates capacity planning |
+| U138 | U123/U129 expert-comptable network | Validates/invalidates modified D126 |
+| U139 | Louis sales coach | Who? Where? This is the Month 1 commercial capability needed |
+| U140 | First specific priced workflow | Must exist before any Malt listing; gates the channel strategy |
+
+*Last updated: 2026-03-30 by pulse cron (Pulse 27)*
+
+## Debate Log Summary
+
+| Date | Debates | Key Outcomes |
+|------|---------|-------------|
+| 2026-03-30 AM | Pricing, Competitive, GTM (partial) | Diagnostic €490 questioned; per-agent pricing challenged; platform giants as primary threats; workflow-tier proposed |
+| 2026-03-30 | Technical, Vertical, Revenue (full) | Architecture overengineered; horizontal stretched; MCP demoted; ETI aspirational |
+| 2026-03-30 midday | Landing page, GTM scalability, Differentiation | Hero wrong; network math unrealistic; vertical depth = moat |
+| 2026-03-30 late | Managed service, Tech stack, Mistral threat | "Managed service" = liability headline; MCP = infrastructure; Mistral is 2027-2028 |
+| 2026-03-30 midday | Positioning, MVP scope, Diagnostic pricing | "AI employee" framing = French labor/political liability; runtime spike = backwards; diagnostic = free lead gen |
+| 2026-03-30 midday | Delivery, Tooling, Model identity | Louis can't solo-deliver; n8n over Make.com; productized consulting identity; €2,000-2,500/month minimum |
+| 2026-03-30 afternoon | Positioning, Pricing, Vertical | Sovereignty framing = weakness; tiered pricing; professional services over agencies (buy-vs-build problem) |
+| 2026-03-30 midday | GTM Readiness, Delivery Stack, Delivery Partner | Cold outbound needs 4 hard blockers; n8n MCP is beta-not-stable; Gabin-first delivery partner strategy; success-fee contracting model |
+| 2026-03-30 afternoon | Conversion, Lock-in, Website | Kill "no lock-in" externally; staged payment replaces 50% refund; website gates cold outbound not warm; commitment tier introduced |
+| 2026-03-30 afternoon | GTM Limits, Delivery Risk, Pilot Pricing | Warm network = Month 1-3 only ceiling; Louis cannot solo-deliver; €4,500 pilot doesn't cover delivery costs; 12-month commitment unsellable Year 1 |
+| 2026-03-30 late | Pilot Pricing, Vertical Wedge, Delivery Readiness | €1,500/2-week diagnostic; expert-comptables as first vertical; simulated delivery rehearsal |
+| 2026-03-30 late | Copilot, GTM Paradox, Identity | D96 reversed; warm network demoted; "AI operations company" identity rejected |
+| 2026-03-30 | Expert-Comptables Vertical, Malt Channel, Commercial Layer | D126 modified; Malt deprioritized as primary; U86 reframed with tiered commercial capability; D90 reframed for €1,500 closes |
+
+*Last updated: 2026-03-30 by pulse cron (Pulse 27)*
