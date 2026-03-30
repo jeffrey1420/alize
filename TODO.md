@@ -429,3 +429,19 @@
 - [ ] Update BRIEF.md: First 3 pilots are CAC investments, not revenue plays — reflect in financial model
 - [ ] Kill D48 (find delivery partner before first pilot) — D113/D114/D116 supersede it
 - [ ] Kill D99-D103 (internal delivery rehearsal framing) — D113/D115 supersede it; first pilot IS delivery
+
+### NEW (from 2026-03-30 Pulse 24 — Delivery Risk, Pilot Economics, First Workflow)
+- [ ] **D122 — Louis solo delivery revised:** Month 1 = simulated delivery rehearsal (peer roleplay, Gabin/Maëli), NOT live client delivery. Live delivery starts Month 2.
+- [ ] **D123 — Pilot pricing revised:** Kill CAC model (D110). Pilot 1 = free performance test (zero strings, internal use only). Pilot 2+ = full price with explicit case study rights.
+- [ ] **D124 — First workflow criteria:** Meeting reports (D81) challenged — choose for case study value + operational criticality, not learning ease.
+- [ ] **U117 — Louis client-facing readiness:** Can he run discovery, manage expectations, course-correct mid-engagement? Self-assessment Week 1.
+- [ ] **U118 — Louis financial capacity:** Can he personally fund Alizé Month 1-3? CAC model assumes capital never confirmed.
+- [ ] **U119 — Case study rights definition:** What exactly does the client sign? Usage restrictions, approval timeline, anonymity options needed.
+- [ ] **U120 — First workflow re-evaluation:** Meeting reports vs. operationally critical alternative (invoice processing, compliance checking).
+- [ ] **U121 — Regulated industry wedge:** Is governance-disqualifying-for-Copilot the right wedge for Alizé's first vertical?
+- [ ] Week 1: Louis self-assesses client-facing readiness — can he run a discovery call solo? If not, who fills that gap?
+- [ ] Week 1: Simulate delivery rehearsal with Gabin/Maëli before any live client work
+- [ ] Month 1: Test two workflow candidates with warm contacts before committing to D81's meeting report workflow
+- [ ] Month 1: Resolve U118 (financial capacity) — determines whether free-first-pilot model is viable
+- [ ] Update commercial offer: Pilot 1 = free (zero strings), Pilot 2+ = paid with case study rights
+- [ ] Kill D113/D115 (Louis solo live delivery Month 1) — replaced by simulated rehearsal first
