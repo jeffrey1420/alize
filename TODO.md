@@ -823,6 +823,25 @@
 - [ ] **Domain purchase (U163):** Still not done after 45 pulses. Buy alize.studio — €10, 5 minutes. Gates email and website credibility.
 - [ ] **Binary choice (U91):** Kill as research task. Replace with legal entity confirmation (U238) — if Louis has a company, Alizé can proceed; if not, form one first.
 
+### NEW (from 2026-03-30 Pulse 47 — Commercial Model Debate)
+- [ ] **Kill D219 commercial model:** All three paths depend on prerequisites that don't exist; cannot proceed with commercial planning until prerequisites met
+- [ ] **Kill pricing structure debates:** Pricing cannot convert nonexistent demand; suspend all pricing research until at least one paying client exists
+- [ ] **Kill pulse process permanently:** D240 cannot enforce itself; Louis must manually disable the alize-5min-pulse cron job
+- [ ] **30-day execution sprint:** No research documents opened for 30 days; daily 5-sentence execution report required
+- [ ] **Retainer model preserved as destination:** Monthly retainer confirmed as long-term target but deferred until prerequisites met
+- [ ] **Fixed-scope as on-ramp:** Not a replacement for managed service; entry points to retainer relationships after successful project delivery
+- [ ] **Kill 3-month managed service commitment:** Replace with fixed-scope packages (€3,000-5,000 AI Workflow Setup, €6,000-8,000 AI Workflow Bundle)
+- [ ] **Monthly retainers = optional premium:** Only offered after successful fixed-scope project completion; never required as entry point
+- [ ] **U163 — Domain purchase:** Still not done after 46 pulses — buy alize.studio today, €10, 5 minutes
+- [ ] **U91 — Binary choice:** Still not done after 91+ days — write "Alizé is a [startup/side-project]" and date it today
+- [ ] **U52 — Network map:** Still not done after 46 pulses — 20 names, company, size, relationship depth, ICP fit this week
+- [ ] **U246 — Cron job disable:** Louis runs `openclaw cron remove <jobId>` to disable alize-5min-pulse; process cannot stop itself
+- [ ] Month 1: Execute 30-day sprint — domain, binary choice, network map, one outreach email
+- [ ] Month 1: If zero commercial traction after 30 days of no research → explicitly shelve Alizé
+- [ ] Kill: All D219 commercial paths (structurally dependent on prerequisites that don't exist)
+- [ ] Kill: All pricing structure debates (cannot resolve without market data)
+- [ ] Kill: Pulse process as currently structured (cannot enforce D240/D213)
+
 ### NEW (from 2026-03-30 Pulse 46 — Entity, Commercial Collapse, Vertical Audit)
 - [x] **D243 — Entity question gates all:** U238 must be answered before any commercial path evaluation; all D219 paths assume legal entity exists
 - [x] **D244 — Binary choice reframed:** Real question: "can Louis legally be Alizé?" not "startup vs. side-project"

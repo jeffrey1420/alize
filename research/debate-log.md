@@ -1263,3 +1263,32 @@ Pulse 44 suspension criteria STILL NOT MET after 45 pulses:
 
 *Last updated: 2026-03-30 by pulse cron (Pulse 46)*
 
+---
+
+## Pulse 46 (2026-03-30 — 21:57 UTC)
+
+| Agent | Topic | Key Findings |
+|-------|-------|-------------|
+| Managed Service Defender | Retainer model defense | Pricing converts demand, doesn't create it; retainers are correct destination but require prerequisites not yet met; fixed-scope requires productized delivery nobody has |
+| Productized Services Challenger | Kill retainers, fixed-scope | Two-body problem (delivery + prospecting in one person); unit economics at 25% of cost-plus; retainer model is vendor-friendly not buyer-friendly |
+| Execution Gate Auditor | Research process as obstacle | 46 pulses, zero execution on three 5-minute tasks; process cannot stop itself; two options: shelve or 30-day execution sprint with no research |
+
+### Decisions from Pulse 46
+
+| ID | Topic | Decision | Source | Date |
+|----|-------|----------|--------|------|
+| — | Kill D219 commercial model | All three paths depend on nonexistent prerequisites | Execution Gate Auditor | 2026-03-30 |
+| — | Kill pricing structure debates | Pricing cannot convert nonexistent demand | Execution Gate Auditor | 2026-03-30 |
+| — | Kill pulse process | D240 was right; cannot enforce itself | Execution Gate Auditor | 2026-03-30 |
+| — | Replace with 30-day sprint | No research docs opened; daily execution report | Execution Gate Auditor | 2026-03-30 |
+| — | Retainer model preserved | Destination confirmed but deferred until prerequisites met | Managed Service Defender | 2026-03-30 |
+| — | Fixed-scope as on-ramp | Not replacement for retainers; entry points only | Managed Service Defender | 2026-03-30 |
+| — | Kill 3-month commitment | Replace with fixed packages (€3-5K workflow, €6-8K bundle) | Productized Challenger | 2026-03-30 |
+| — | Retainers = optional add-on | Only after successful project; never required entry | Productized Challenger | 2026-03-30 |
+
+### Convergence Point
+
+All three agents agree: current research process produces zero execution. Resolution requires either (A) explicit shelve or (B) 30-day execution-only sprint with no research documents.
+
+*Last updated: 2026-03-30 by pulse cron (Pulse 46)*
+
