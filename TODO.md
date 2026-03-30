@@ -274,18 +274,32 @@
 ### NEW (from 2026-03-30 Pulse 15 — Vertical, Bridge Channels, Delivery)
 - [ ] **D68 — Bridge channel timing:** Cannot define Month 4-6 channels until case studies exist. Define at Month 3 based on pilot learnings.
 - [ ] **D69 — Malt channel:** Wait until 1 pilot complete with measurable results before listing. Profile needs proof to differentiate.
-- [ ] **D70 — Delivery day budget:** 10-15 days realistic per pilot, not 5. Raise pilot fee to €6,500 or cut delivery scope to match €4,500.
+- [ ] **D70 — Delivery day budget:** 10-15 days realistic per pilot, not 5. Revalidated by Pulse 16 economics: €7,500 pilot fee recommended.
 - [ ] **D71 — Success-fee renegotiation:** Current structure (€350/day + €1,500 bonus, capped at €3,250) misaligns incentives. Renegotiate before contracting.
-- [ ] **U58 — D44 validity:** Professional services thesis challenged. Does "buy vs build" even apply to 10-50 person consulting firms? Needs Louis decision.
-- [ ] **U59 — Alternative vertical:** Accounting firms or legal practices may be better first vertical — more standardized workflows, compliance drivers, buy services not tools.
+- [ ] **U58 — D44 validity:** Professional services thesis challenged. Needs Louis decision.
+- [ ] **U59 — Alternative vertical:** Accounting firms or legal practices may be better first vertical.
 - [ ] **U61 — Bridge channel definition:** Deferred to Month 3 — cannot answer without case studies.
 - [ ] **U62 — Malt listing:** Wait until 1 pilot complete. Do not list without proof to show.
 - [ ] **U63 — Cold outbound prerequisites:** Website live + 1 case study (D47 blockers).
-- [ ] **U64 — Delivery day count:** 10-15 days realistic. Revalidate €3,250 budget against 10-day reality.
+- [ ] **U64 — Delivery day count:** 10-15 days realistic. Revalidated by Pulse 16.
 - [ ] **U65 — Success-fee renegotiation:** Renegotiate before signing any delivery partner contract.
 - [ ] **U66 — Gabin consulting background:** U41 — ask Gabin this week. Day 1-3 gate.
-- [ ] **U67 — Case study requirements:** Define minimum bar: company name (or identifiable profile) + specific metrics + client testimonial.
+- [ ] **U67 — Case study requirements:** Define minimum bar: company name + specific metrics + client testimonial.
 - [ ] Month 1: Ask Gabin about PME consulting background (U41/U66) — this gates the entire delivery model
 - [ ] Month 1: If Gabin doesn't qualify, begin Malt outreach for external delivery partner
-- [ ] Revalidate pilot fee: €4,500 only works if delivery ≤5 days. 10-15 days realistic = €6,500 minimum
+- [ ] Revalidate pilot fee: €7,500 warm network (D72 recommendation), not €6,500
 - [ ] Month 3: Define Month 4-6 bridge channels based on what the first pilot actually taught
+
+### NEW (from 2026-03-30 Pulse 16 — Governance, Economics, Vertical Frame)
+- [ ] **D72 — Warm network pilot fee:** €7,500 recommended. At 10 delivery days, margin ~€1,500. At 12 days, break-even. Above 12 days, Alizé loses money.
+- [ ] **D73 — Louis time cost:** Explicitly price Louis's involvement at €200/day opportunity cost in pilot economics. First 1-2 pilots may be €1,000-2,000 loss — acceptable as CAC.
+- [ ] **Governance demotion:** Remove "accountability" language from hero/headline. Move governance features to "how we're built" section. Lead with specific outcome claims instead.
+- [ ] **U69 — Governance differentiation:** Does "delegation with accountability" differentiate for non-regulated PME? Likely no. Demote from positioning.
+- [ ] **U70 — Regulated vertical:** Expert-comptables and legal practices where governance is a hard gate — potential vertical if Alizé pivots.
+- [ ] **U71 — Delivery partner day rate:** €350 too low; €400-450 more realistic for qualified PME consultant.
+- [ ] **U72 — First pilots as CAC:** Accept first 1-2 pilots lose money as customer acquisition cost. Write off as marketing investment.
+- [ ] **U73 — Vertical-first vs workflow-first:** Workflow-first is more honest at Year 1. Alizé's expertise is in repeatable deployment, not vertical knowledge.
+- [ ] **U74 — Alizé's actual unfair advantage:** Repeatable deployment system + French tool integrations, not vertical depth.
+- [ ] **U52 — Louis warm network ICP map:** Still unresolved. Must happen Month 1 before any vertical decision.
+- [ ] Month 1: Map Louis's warm network against ICP first. Do NOT pre-determine vertical until network is mapped.
+- [ ] External materials: Replace "delegation with accountability" with specific outcome statements. Keep governance features in technical section only.

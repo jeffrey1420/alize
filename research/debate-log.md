@@ -263,7 +263,7 @@ Central log of all debate outcomes across research pulses.
 | U50 | Pre-payment model | Should Alize ask for 3 months pre-paid? Improves cash position but may increase friction. |
 | U51 | Warm outreach materials | Does Louis have pitch deck, scope template, pilot one-pager ready for warm outreach? This is the real first blocker. |
 
-*Last updated: 2026-03-30 by pulse cron (Pulse 15)*
+*Last updated: 2026-03-30 by pulse cron (Pulse 16)*
 
 ## Pulse 15 (2026-03-30 — 13:32 UTC)
 
@@ -296,3 +296,32 @@ Central log of all debate outcomes across research pulses.
 | U65 | Success-fee renegotiation | Current model misaligns delivery partner incentives |
 | U66 | Gabin consulting background | U41 — Day 1-3 gate, still unresolved |
 | U67 | Case study minimum requirements | Must define: company name + specific metrics + client testimonial |
+
+---
+
+## Pulse 16 (2026-03-30 — 13:53 UTC)
+
+| Agent | Topic | Key Findings |
+|-------|-------|-------------|
+| Governance Strategist | "Accountability" as differentiator | WRONG — every vendor claims accountability; not differentiating; French PME buyers at 20-50 employees buy on trust and price, not governance frameworks; EU AI Act not 2026 relevant |
+| Economics Strategist | €6,500 pilot fee economics | BREAKS — €600 margin at 10 days doesn't cover adversity; at 15 days Alizé loses money; Louis's time unpriced; case study upside speculative |
+| Vertical Frame Strategist | Vertical-first as Year 1 strategy | WRONG — Alizé has no vertical assets; workflow-first more honest; network-first is the right Month 1 move; vertical emerges from evidence not theory |
+
+### New Decisions (Pulse 16)
+
+| ID | Topic | Decision | Source | Date |
+|----|-------|----------|--------|------|
+| D72 | Warm network pilot fee | €7,500 recommended (not €6,500); gives ~€1,500 margin at 10 days | Economics agent | 2026-03-30 |
+| D73 | Louis time cost | Explicitly priced at €200/day opportunity cost in pilot economics | Economics agent | 2026-03-30 |
+
+### New Unresolved (Pulse 16)
+
+| ID | Topic | Blocker |
+|----|-------|---------|
+| U69 | Does governance differentiate for non-regulated PME? | Likely no — demote from hero/headline positioning |
+| U70 | Regulated vertical where governance is core? | Expert-comptables, legal practices — governance is gate not differentiator |
+| U71 | Delivery partner day rate | €350/day too low; €400-450 more realistic for qualified PME consultant |
+| U72 | First pilots as CAC | Accept first 1-2 pilots lose €1,000-2,000 as customer acquisition investment |
+| U73 | Vertical-first vs workflow-first | Workflow-first more honest at Year 1; vertical emerges from delivery evidence |
+| U74 | Alizé's actual unfair advantage | Repeatable deployment system + French tool integrations, not vertical knowledge depth |
+| U52 | Louis warm network ICP map | Still unresolved — gates all outreach strategy; must happen Month 1 |
