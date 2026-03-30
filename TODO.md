@@ -456,3 +456,27 @@
 - [ ] Kill D110/D123 (CAC/free pilot model) — D125 supersedes it.
 - [ ] Kill D44/D13 (professional services/digital agencies as first vertical) — D126 supersedes it.
 - [ ] Kill D81 (meeting report generation as first workflow) — D81REVISED supersedes it.
+
+### NEW (from 2026-03-30 Pulse 26 — Copilot, GTM Paradox, Identity Crisis)
+- [x] **D127 — Copilot governance wedge:** Reframe — governance gap overstated for 70% of ICP; lead with workflow automation, use governance as secondary
+- [x] **D128 — Microsoft external framing:** Reverse D96 — name Microsoft carefully in external materials; "results not licenses" positioning
+- [x] **D129 — Willingness to pay:** Position Alizé as additive to Copilot, not competitive; most dangerous unresolved question
+- [x] **D130 — GTM primary channel:** Warm network demoted to parallel gated track; supplement with Malt + expert-comptable association outreach
+- [x] **D131 — Outreach framing:** Replace "honest framing" (D120) with problem-specific framing — "I'm working on something new" signals unproven startup
+- [x] **D132 — D90/D118 conflict:** Resolve U86 (commercial co-founder) before Month 1 warm outreach
+- [x] **D133 — Identity framing:** Replace "AI operations company, temporarily in consulting mode" (D79) with "French AI service firm for regulated industries"
+- [x] **D134 — Platform fiction:** Remove "platform builder in Years 2-3" (D80) from identity language
+- [ ] **U127 — U52 ICP network mapping:** CRITICAL — map Louis's warm contacts by ICP-fit, company size, decision-maker access before any outreach
+- [ ] **U128 — U86 commercial co-founder:** CRITICAL — gates D90/D118 compliance; without this, warm outreach cannot start
+- [ ] **U129 — U123 expert-comptable network:** Validates/invalidates D126; if <5 warm contacts, reassess expert-comptable vertical
+- [ ] **U130 — Malt.fr listing:** Can Louis list on Malt? What specific workflow to offer first? Feasibility check Week 1
+- [ ] **U131 — Association outreach:** Which expert-comptable body to approach first (CSN, AGA, regional bodies)? Draft outreach letter
+- [ ] Week 1: U52 ICP network mapping — map ALL warm contacts by ICP-fit before any outreach starts
+- [ ] Week 1: U86 commercial co-founder sourcing — identify closing-capable person; without this, D90 blocks all outreach
+- [ ] Week 1: U130 Malt.fr feasibility — can Louis list? What workflow to lead with?
+- [ ] External materials: Replace "AI operations company" with "French AI service firm for regulated industries" in all materials
+- [ ] External materials: Remove all D79/D80 identity language — no "temporarily in consulting mode," no "platform builder"
+- [ ] External materials: Name Microsoft in positioning — "results not licenses" framing for Copilot comparisons
+- [ ] Sales playbook: Build "Copilot comparison" one-pager (internal use, not marketing)
+- [ ] Update BRIEF.md: Expert-comptables as first vertical (D126), "French AI service firm for regulated industries" identity (D133), remove platform fiction (D134)
+- [ ] Update commercial offer: €1,500/2-week diagnostic (D125), problem-specific framing replaces "honest framing" (D131)

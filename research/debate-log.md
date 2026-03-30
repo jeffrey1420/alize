@@ -605,4 +605,36 @@ Central log of all debate outcomes across research pulses.
 | U124 | Delivery domain knowledge | Does Louis have domain knowledge for accounting firm admin tasks? |
 | U125 | First specific workflow | Client onboarding? Regulatory reporting? Document collection? |
 
-*Last updated: 2026-03-30 by pulse cron (Pulse 25)*
+### NEW (from 2026-03-30 Pulse 26 — Copilot, GTM Paradox, Identity Crisis)
+- [x] **D127 — Copilot governance wedge:** Reframe — governance gap overstated for 70% of ICP; lead with workflow automation, use governance as secondary selling point
+- [x] **D128 — Microsoft external framing:** Reverse D96 — name Microsoft carefully in external materials; "results not licenses" is strong positioning
+- [x] **D129 — Willingness to pay:** Most dangerous unknown; position Alizé as additive to Copilot, not competitive; U102 remains unresolved
+- [x] **D130 — GTM primary channel:** Warm network demoted from "primary channel" to "parallel gated track"; supplement with Malt + expert-comptable association outreach
+- [x] **D131 — Outreach framing:** Replace "honest framing" (D120) with problem-specific framing in all outreach; "I'm working on something new" signals unproven startup
+- [x] **D132 — D90/D118 conflict:** D90 (closer required) gates D118 (warm outreach starts Month 1) — U86 must resolve before Month 1 outreach
+- [x] **D133 — Identity framing:** Replace "AI operations company, temporarily in consulting mode" (D79) with "French AI service firm for regulated industries"
+- [x] **D134 — Platform fiction:** Remove "platform builder in Years 2-3" (D80) from identity — replace with conditional "evaluate platform investment if evidence supports it"
+- [ ] **U127 — U52 ICP network mapping:** CRITICAL — still unresolved, gates all GTM decisions
+- [ ] **U128 — U86 commercial co-founder:** CRITICAL — gates D90/D118 compliance
+- [ ] **U129 — U123 expert-comptable network:** Validates/invalidates D126 vertical
+- [ ] **U130 — Malt.fr listing feasibility:** Can Louis list on Malt? What workflow to offer first?
+- [ ] **U131 — Association outreach:** Which expert-comptable body to approach first?
+
+## Debate Log Summary
+
+| Date | Debates | Key Outcomes |
+|------|---------|-------------|
+| 2026-03-30 AM | Pricing, Competitive, GTM (partial) | Diagnostic €490 questioned; per-agent pricing challenged; platform giants as primary threats; workflow-tier proposed |
+| 2026-03-30 | Technical, Vertical, Revenue (full) | Architecture overengineered; horizontal stretched; MCP demoted; ETI aspirational |
+| 2026-03-30 midday | Landing page, GTM scalability, Differentiation | Hero wrong; network math unrealistic; vertical depth = moat |
+| 2026-03-30 late | Managed service, Tech stack, Mistral threat | "Managed service" = liability headline; MCP = infrastructure; Mistral is 2027-2028 |
+| 2026-03-30 midday | Positioning, MVP scope, Diagnostic pricing | "AI employee" framing = French labor/political liability; runtime spike = backwards; diagnostic = free lead gen |
+| 2026-03-30 midday | Delivery, Tooling, Model identity | Louis can't solo-deliver; n8n over Make.com; productized consulting identity; €2,000-2,500/month minimum |
+| 2026-03-30 afternoon | Positioning, Pricing, Vertical | Sovereignty framing = weakness; tiered pricing; professional services over agencies (buy-vs-build problem) |
+| 2026-03-30 midday | GTM Readiness, Delivery Stack, Delivery Partner | Cold outbound needs 4 hard blockers; n8n MCP is beta-not-stable; Gabin-first delivery partner strategy; success-fee contracting model |
+| 2026-03-30 afternoon | Conversion, Lock-in, Website | Kill "no lock-in" externally; staged payment replaces 50% refund; website gates cold outbound not warm; commitment tier introduced |
+| 2026-03-30 afternoon | GTM Limits, Delivery Risk, Pilot Pricing | Warm network = Month 1-3 only ceiling; Louis cannot solo-deliver; €4,500 pilot doesn't cover delivery costs; 12-month commitment unsellable Year 1 |
+| 2026-03-30 late | Pilot Pricing, Vertical Wedge, Delivery Readiness | €1,500/2-week diagnostic; expert-comptables as first vertical; simulated delivery rehearsal |
+| 2026-03-30 late | Copilot, GTM Paradox, Identity | D96 reversed (name Microsoft externally); warm network demoted to parallel track; "AI operations company" identity rejected for "French AI service firm for regulated industries" |
+
+*Last updated: 2026-03-30 by pulse cron (Pulse 26)*
