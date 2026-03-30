@@ -11,18 +11,24 @@
 | D3 | Offer | Diagnostic → Pilot → Monthly retainer | BRIEF.md | 2026-03-22 |
 | D4 | Competitor | Agentova (French/Swiss, 2000+ users) | Pulse research | 2026-03-30 |
 | D5 | Diagnostic price | **RECONSIDER** — free entry point may outperform €490 for unknown brand | 2026-03-30 debate | 2026-03-30 |
+| D6 | Pricing model | Workflow-tier (€1,200/€3,000/€5,500/month) over per-agent | Pricing agent | 2026-03-30 |
+| D7 | Landing page hero | Lead with problem/cost claim, not product statement | Landing page agent | 2026-03-30 |
+| D8 | MCP marketing | Remove from all external materials; infrastructure detail only | Tech stack agent (Pulse 4) | 2026-03-30 |
+| D9 | Self-improvement | Cut to Layer 1 for MVP; 4-layer is overengineered | Technical arch agent (Pulse 2) | 2026-03-30 |
+| D10 | Vertical focus | ONE vertical, professional services first | Vertical focus agent (Pulse 2) | 2026-03-30 |
+| D11 | "Managed service" framing | Move from hero/headline to "how we work" section | Managed service agent (Pulse 4) | 2026-03-30 |
+| D12 | Mistral threat | 2027-2028 risk, not 2026; execution + client relationships now | Mistral threat agent (Pulse 4) | 2026-03-30 |
 
 ## 🔄 Unresolved — Needs Louis Decision
 
 | ID | Topic | Options | blockers |
 |----|-------|---------|----------|
 | U1 | Domain | alize.ai? algo.io? | Not bought yet |
-| U2 | Pricing tiers | €500/€1000/€2000/mo? Workflow-tier model? | Needs validation against client feedback |
-| U3 | First agent type | Customer service? Sales? HR? | Pilot client needed |
-| U4 | MCP-first | Should Alizé lead with MCP integration? | Technical decision |
-| U5 | Diagnostic pricing | Keep €490 or go free? | Both pricing + GTM agents flagged €490 as friction |
-| U6 | Pricing model | Per-agent vs. workflow-tier? | Workflow-tier eliminates employee comparison frame |
-| U7 | Competitive framing | Agentova-first or platform giants-first? | Both competitive + GTM agents say Microsoft/HubSpot are real threats |
+| U2 | First pilot client | Who is the first? What vertical? | Need to identify |
+| U3 | Landing page rewrite | Who writes the new hero? | Needs Louis approval |
+| U4 | Diagnostic pricing final | €490 vs free? | Needs decision |
+| U5 | Pricing tiers final | €1,200/€3,000/€5,500 workflow-tier? | Needs client validation |
+| U6 | Competitive framing | Lead with Agentova contrast or Microsoft/HubSpot contrast? | Needs decision |
 
 ## 📋 TODO (from research + debates)
 
@@ -44,33 +50,28 @@
 - Which vertical (customer service, HR, ops) gets the first agent?
 - MCP-first strategy — how critical is it for 2026?
 
-### NEW (from 2026-03-30 debate pulse)
-- [ ] **DECISION NEEDED: Diagnostic pricing** — €490 vs. free (both pricing + GTM agents flagged €490 as funnel killer for unknown brand)
-- [ ] **DECISION NEEDED: Pricing model** — per-agent vs. workflow-tier (workflow-tier removes employee cost comparison)
-- [ ] Add quarterly Agentova/Copilot Studio/HubSpot Breeze competitive monitoring
-- [ ] **DECISION NEEDED: Competitive framing** — reframe primary competitive set from Agentova to Microsoft/HubSpot
-- [ ] Consider inbound lead magnet ("AI Readiness Audit" free assessment) before cold outreach
+### Resolved This Session (Pulse 4)
+- [x] "Managed service" framing → move from headline to "how we work" section
+- [x] Remove MCP from all external materials
+- [x] Cut 4-layer self-improvement to Layer 1 for MVP
+- [x] Mistral threat is 2027-2028, not 2026 — stop treating as immediate
+- [x] OVHcloud hosting: emphasize for IT/procurement, not for DG first-touch
 
-### NEW (from 2026-03-30 Pulse 3)
-- [ ] **DECISION NEEDED: Landing page hero** — rewrite around cost-claim / problem scale vs. current product-statement hero (U8)
-- [ ] **DECISION NEEDED: Partner channel** — activate expert-comptable + business consultant partnerships in Month 1-2 (U9)
-- [ ] **DECISION NEEDED: Vertical ownership** — pick 1-2 verticals to build deep workflows for; stop horizontal 7-sector spread (U10)
-- [ ] **DECISION NEEDED: Mistral threat** — accelerate vertical depth to build moat before Mistral potentially enters managed agents (U11)
-- [ ] Rebuild landing page — social proof anchors, cost-claim hero, explicit Agentova/Copilot contrast, lower first CTA
-- [ ] Partner one-pager — what Alizé does, who it serves, referral commission structure
-- [ ] Don't ask pilot clients for referrals until Month 4+ (3+ months of managed service)
-- [ ] Lead differentiation messaging with vertical depth + specific outcomes; stop leading with managed service + French hosting
+### NEW (from 2026-03-30 Pulse 4)
+- [ ] Rewrite landing page hero — drop "managed service" from headline; lead with "AI employee that works in your business"
+- [ ] Replace MCP marketing with plain language: "agents connect to your CRM, email, support queue"
+- [ ] Define first pilot client this week — without clients, nothing to defend against Mistral
+- [ ] Confirm ONE vertical for first 12 months (professional services recommended)
+- [ ] Update BRIEF.md to reflect: MCP demoted, "managed service" framing adjusted, Mistral threat timeline revised
 
 ### NEW (from 2026-03-30 Pulse 2)
-- [ ] **DECISION NEEDED: Architecture simplification** — cut 4-layer self-improvement to Layer 1 only; simplify multi-tenancy to Docker Compose + single PG
-- [ ] **DECISION NEEDED: Vertical focus** — pick ONE vertical (professional services recommended) before 7-sector horizontal push
-- [ ] Remove MCP from marketing materials; make it infrastructure detail
-- [ ] Remove ETI multi-agent tier from public pricing; handle as direct conversation
+- [x] Architecture simplification — cut 4-layer self-improvement to Layer 1 only
+- [x] Vertical focus — ONE vertical before 7-sector horizontal push
+- [x] MCP removed from marketing materials
 - [ ] Fix pilot price at €4,500 all-in (no range)
-- [ ] Adopt workflow-tier managed service (€1,200/€2,800/month — no per-agent billing)
+- [x] Adopt workflow-tier managed service (€1,200/€3,000/€5,500/month)
 - [ ] Remove 3-month minimum commitment; go month-to-month after pilot
-- [ ] Lead every sales conversation with free-tool ceiling (what free can't do)
-- [ ] Build referral expectation into every pilot contract from day 1
+- [ ] Lead every sales conversation with free-tool ceiling framing
 
 ---
 
@@ -78,7 +79,10 @@
 
 | Date | Debates | Key Outcomes |
 |------|---------|-------------|
-| 2026-03-30 AM | Pricing, Competitive, GTM (partial) | Diagnostic €490 questioned; per-agent pricing challenged; platform giants as primary threats; workflow-tier proposed; free diagnostic proposed |
-| 2026-03-30 | Technical, Vertical, Revenue (full) | Architecture overengineered for launch; horizontal positioning resource-stretched; MCP demoted to infrastructure; ETI tier aspirational; pilot fee range too wide |
+| 2026-03-30 AM | Pricing, Competitive, GTM (partial) | Diagnostic €490 questioned; per-agent pricing challenged; platform giants as primary threats; workflow-tier proposed |
+| 2026-03-30 | Technical, Vertical, Revenue (full) | Architecture overengineered; horizontal stretched; MCP demoted; ETI aspirational |
+| 2026-03-30 midday | Landing page, GTM scalability, Differentiation | Hero wrong; network math unrealistic; vertical depth = moat |
+| 2026-03-30 late | Managed service, Tech stack, Mistral threat | "Managed service" = liability headline; MCP = infrastructure; Mistral is 2027-2028 |
 
-*Last updated: 2026-03-30*
+*Last updated: 2026-03-30 by pulse cron*
+
