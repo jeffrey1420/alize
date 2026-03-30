@@ -91,4 +91,55 @@
 
 ---
 
+---
+
+## 2026-03-30 — Pulse 3
+
+**Agents deployed:** 3 (Landing Page Strategist, GTM Scalability Strategist, Competitive Differentiation Strategist)
+**Status:** 3 complete
+
+### Debate 7: Landing Page & Messaging
+
+**Challenged assumptions:**
+1. "Hero negative positioning ('Pas des gadgets') is a feature" → inside-out framing; addresses AI industry anxiety, not buyer pain; fails first-second test
+2. "Problem section creates urgency" → lists symptoms, never converts to cost equation; no competitive stakes
+3. "Differentiation section creates clear mental model" → right attributes, no explicit contrast vs. Agentova/Copilot; buyer reads list any vendor could claim
+4. "Réserver un diagnostic €490 is right CTA for unknown brand" → zero social proof + €490 ask = conversion killer; lower first CTA needed
+
+**Alternative proposed:** Hero: cost-claim framing at company scale ("80 personnes. 12 outils. Zéro visibilité."); problem: quantify cost of inaction; differentiation: explicit contrast sentence; CTA: micro-commitment first (content, conversation start), diagnostic deeper in page
+
+**Verdict:** OPEN — needs Louis decision on landing page rewrite (U8 in TODO)
+
+---
+
+### Debate 8: Network GTM Scalability
+
+**Challenged assumptions:**
+1. "Personal network → 3-5 pilots in months 1-3" → 2-3 realistic; French B2B cycle 5-13 weeks; zero slack in 3-month timeline
+2. "Case studies + LinkedIn → inbound in months 4-6" → SEO takes 12-18 months; LinkedIn organic is noise without authority
+3. "Pilot clients → referrals" → French B2B referrals require 6+ months of trust; premature ask kills goodwill
+4. "Core plan has scalable pipeline after month 3" → structural ceiling at ~5 clients; network exhausts, content too slow, referrals premature
+
+**Alternative proposed:** Partner-first + systematic outbound hybrid. Expert-comptables (~20k firms serving ~130k companies) as primary channel. LinkedIn outbound (50 reqs/week) as parallel track. Referral incentive only after Month 4+.
+
+**Verdict:** OPEN — needs Louis decision on partner channel activation (U9 in TODO)
+
+---
+
+### Debate 9: Competitive Differentiation Moat
+
+**Challenged assumptions:**
+1. "Managed service is a defensible differentiator" → any French ESN can replicate in 60-90 days; commodity positioning
+2. "French hosting is a durable differentiator" → commodity baseline; Mistral also French-hosted; US hyperscalers closing EU data gap
+3. "Governance + human oversight = durable moat" → configuration choices; commoditizable by platforms in 18-24 months
+4. (Hidden risk) "Mistral AI launches managed agent service" → likely within 12-18 months given capital + ambition; would vaporize both "French AI" brand + "managed service" claims simultaneously
+
+**What holds up as moat:** Vertical depth (legal, accounting, healthcare admin) with pre-built workflows + French tool integrations (Cegid, Sage, Pennylane). Takes years to build. Not on Microsoft's roadmap.
+
+**1-sentence buyer answer (proposed):** "Copilot Studio gives you a platform. Alizé gives you a working AI employee that actually knows French accounting workflows, connects to Cegid and Pennylane, and doesn't require your team to figure it out."
+
+**Verdict:** OPEN — needs Louis decision on vertical ownership (U10 in TODO) and Mistral threat response (U11 in TODO)
+
+---
+
 *Log updated: 2026-03-30*

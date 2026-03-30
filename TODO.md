@@ -51,6 +51,16 @@
 - [ ] **DECISION NEEDED: Competitive framing** — reframe primary competitive set from Agentova to Microsoft/HubSpot
 - [ ] Consider inbound lead magnet ("AI Readiness Audit" free assessment) before cold outreach
 
+### NEW (from 2026-03-30 Pulse 3)
+- [ ] **DECISION NEEDED: Landing page hero** — rewrite around cost-claim / problem scale vs. current product-statement hero (U8)
+- [ ] **DECISION NEEDED: Partner channel** — activate expert-comptable + business consultant partnerships in Month 1-2 (U9)
+- [ ] **DECISION NEEDED: Vertical ownership** — pick 1-2 verticals to build deep workflows for; stop horizontal 7-sector spread (U10)
+- [ ] **DECISION NEEDED: Mistral threat** — accelerate vertical depth to build moat before Mistral potentially enters managed agents (U11)
+- [ ] Rebuild landing page — social proof anchors, cost-claim hero, explicit Agentova/Copilot contrast, lower first CTA
+- [ ] Partner one-pager — what Alizé does, who it serves, referral commission structure
+- [ ] Don't ask pilot clients for referrals until Month 4+ (3+ months of managed service)
+- [ ] Lead differentiation messaging with vertical depth + specific outcomes; stop leading with managed service + French hosting
+
 ### NEW (from 2026-03-30 Pulse 2)
 - [ ] **DECISION NEEDED: Architecture simplification** — cut 4-layer self-improvement to Layer 1 only; simplify multi-tenancy to Docker Compose + single PG
 - [ ] **DECISION NEEDED: Vertical focus** — pick ONE vertical (professional services recommended) before 7-sector horizontal push
