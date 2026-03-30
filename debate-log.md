@@ -143,3 +143,41 @@
 ---
 
 *Log updated: 2026-03-30 (Pulse 5)*
+
+---
+
+## 2026-03-30 — Pulse 10
+
+**Agents deployed:** 3 (Delivery Model, Tooling Strategy, Business Model Identity)
+**Status:** 3 complete
+
+### Debate: Delivery Model
+
+**Challenged assumptions:**
+1. "Louis delivers Month 1 manually" → Louis is a developer/M1 student, not a business process consultant; wrong person for the delivery lead role
+2. "Written playbook transfers delivery knowledge" → tacit knowledge problem; a technical runbook ≠ a business engagement guide
+
+**Verdict:** REJECTED — Louis-as-delivery-lead is wrong; business lead needed from Day 1 (D31, D32, D33)
+
+---
+
+### Debate: Tooling Strategy
+
+**Challenged assumptions:**
+1. "n8n or Make.com is a technical detail" → strategic decision with 18-month lock-in consequences
+2. "Make.com is fine for French PME connectors" → enterprise connectors at high tiers, proprietary format, no client exit possible
+
+**Verdict:** n8n self-hosted on OVHcloud wins (D34, D35, D36)
+
+---
+
+### Debate: Business Model Identity
+
+**Challenged assumptions:**
+1. "Alizé is a managed AI agent SaaS" → at 6-8 clients, Alizé is a productized consulting practice, not a SaaS business
+2. "€1,200/month/client is correct pricing" → too low for consulting economics; €2,000-2,500 minimum
+3. "Warm network is a long-term GTM strategy" → it's a launchpad; network exhausts after Year 1
+
+**Verdict:** Identity clarification — productized consulting, not SaaS (D37, D38, D39, D40)
+
+*Log updated: 2026-03-30 (Pulse 10)*

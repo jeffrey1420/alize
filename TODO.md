@@ -24,6 +24,21 @@
 | D23 | Delivery model | Month 1: Louis delivers pilot manually + documents; Month 2: contractor executes against playbook | Delivery model agent (Pulse 8) | 2026-03-30 |
 | D24 | Pilot fee | €4,500 fixed all-in; signed scope document; change triggers at €750/day; explicit exit criteria | Pilot fee agent (Pulse 8) | 2026-03-30 |
 | D25 | Competitive framing | Never name competitors in first outreach; problem-first framing; comparison only if prospect raises it | Competitive framing agent (Pulse 8) | 2026-03-30 |
+| D26 | GTM channel priority | Network-first (warm outreach primary) + cold outbound supplement | GTM agent (Pulse 9) | 2026-03-30 |
+| D27 | Platform strategy | Kill parallel platform build; pure-service-first; n8n self-hosted; platform at Month 12+ | Platform agent (Pulse 9) | 2026-03-30 |
+| D28 | Conversion mechanism | €4,500 pilot + month 1 €1,200 with 50% refund + month-to-month | Conversion agent (Pulse 9) | 2026-03-30 |
+| D29 | Pilot ROI framing | "Operational ownership transfer" not "hours saved" | Conversion agent (Pulse 9) | 2026-03-30 |
+| D30 | Pilot qualification | Workflow must be operationally critical; reject "nice to have" | Conversion agent (Pulse 9) | 2026-03-30 |
+| D31 | Delivery model REVISED | Business lead needed from Day 1; Louis cannot solo-deliver (REVISES D23) | Delivery debate (Pulse 10) | 2026-03-30 |
+| D32 | Delivery partner timing | Find delivery partner BEFORE first pilot, not Month 2 | Delivery debate (Pulse 10) | 2026-03-30 |
+| D33 | Playbook format | Business engagement guide, not technical runbook | Delivery debate (Pulse 10) | 2026-03-30 |
+| D34 | Tooling | n8n self-hosted on OVHcloud, NOT Make.com | Tooling debate (Pulse 10) | 2026-03-30 |
+| D35 | Client lock-in | Zero lock-in with n8n (exportable); high lock-in with Make.com | Tooling debate (Pulse 10) | 2026-03-30 |
+| D36 | Positioning alignment | n8n aligns with "managed service"; Make.com conflicts with it | Tooling debate (Pulse 10) | 2026-03-30 |
+| D37 | Business identity | Productized consulting practice, not SaaS, for Years 1-2 | Model identity (Pulse 10) | 2026-03-30 |
+| D38 | Minimum price | €2,000-2,500/month/client (consulting economics); €1,200 too low | Model identity (Pulse 10) | 2026-03-30 |
+| D39 | Hiring priority | Delivery partners before platform engineers | Model identity (Pulse 10) | 2026-03-30 |
+| D40 | Network exhaust plan | Build cold-outbound-ready assets in Year 1 while warm network lasts | Model identity (Pulse 10) | 2026-03-30 |
 
 ## 🔄 Unresolved — Needs Louis Decision
 
@@ -141,6 +156,21 @@
 - [ ] **Month 1 sales activity:** Louis leads warm outreach personally — map 50–75 warm contacts, execute personalized outreach, book 8–12 discovery calls. Do not hire SDR yet.
 - [ ] **Case study prioritization:** First 2–3 pilots MUST come from warm network to generate proof points. These are the prerequisite that makes cold outbound viable.
 - [ ] **SDR timing:** Do not hire cold outbound SDR until Month 3–4, after case studies and website exist.
+
+### NEW (from 2026-03-30 Pulse 10 — Delivery/Tooling/Model Debates)
+- [x] **Delivery model (D31):** Louis-as-delivery-lead is wrong; a business lead with PME consulting experience needed from Day 1
+- [x] **Tooling (D34):** n8n self-hosted on OVHcloud, NOT Make.com — zero client lock-in, aligns with managed service positioning
+- [x] **Business identity (D37):** Alizé is a productized consulting practice, not a SaaS business, for Years 1-2
+- [x] **Minimum price (D38):** €2,000-2,500/month per client minimum (consulting economics); €1,200 too low
+- [x] **Hiring priority (D39):** Delivery partners before platform engineers
+- [x] **Network exhaust plan (D40):** Build cold-outbound-ready assets (case studies, website) in Year 1 while using warm network
+- [ ] **Delivery partner (U32):** Find before first pilot — Louis cannot deliver alone
+- [ ] **Louis role definition (U33):** What exactly does Louis own vs delivery partner?
+- [ ] **First pilot timeline (U34):** When does it start? Delivery partner sourcing takes time
+- [ ] **n8n setup (U35):** Spin up OVHcloud VPS with n8n self-hosted Month 1
+- [ ] **n8n MCP validation (U36):** Is n8n MCP integration stable for Alizé use case?
+- [ ] **Pricing recalibration (U39):** Revise Year 1 revenue model to €2,000-2,500/client range
+- [ ] **Cold outbound asset checklist (U40):** What needs to exist before cold outbound starts Month 2?
 
 ---
 
