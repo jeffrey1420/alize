@@ -551,4 +551,58 @@ Central log of all debate outcomes across research pulses.
 | U115 | Co-founder parallelization | Can co-founder recruiting happen simultaneously with Grinto ring-fencing review? |
 | U116 | Grinto ring-fencing feasibility | Does Grinto contract allow side venture? Actual contractual constraints? |
 
-*Last updated: 2026-03-30 by pulse cron (Pulse 23)*
+---
+
+## Pulse 24 (2026-03-30 — 16:09 UTC)
+
+| Agent | Topic | Key Findings |
+|-------|-------|-------------|
+| Delivery Risk Strategist | D113 Louis solo delivery | D113 conflates learning by doing with delivering a client result; solo delivery on a paying/reference-seeking client is too risky; simulated rehearsal first |
+| Pilot Economics Strategist | D110/D111 CAC model | Capital question unasked; case study rights near-zero value at pilot stage; free first pilot better than flat-discount CAC |
+| First Workflow Strategist | D81 meeting report generation | "No sensitive data" is a liability; meeting reports produce €200/month case studies not €7,500 stories; operationally critical workflow needed |
+
+### New Decisions (Pulse 24)
+
+| ID | Topic | Decision | Source | Date |
+|----|-------|----------|--------|------|
+| D122 | Louis solo delivery revised | Month 1 = simulated delivery rehearsal (peer roleplay), NOT live client delivery | Delivery debate | 2026-03-30 |
+| D123 | Pilot 1 pricing revised | Kill CAC model; Pilot 1 = free performance test (zero strings); Pilot 2+ = full price with case study rights | Pricing debate | 2026-03-30 |
+| D124 | First workflow criteria | Choose for case study value + operational criticality, not learning curve ease | Workflow debate | 2026-03-30 |
+
+### New Unresolved (Pulse 24)
+
+| ID | Topic | Blocker |
+|----|-------|---------|
+| U117 | Louis client-facing readiness | Can he run discovery, manage expectations, course-correct mid-engagement? Self-assessment Week 1 |
+| U118 | Louis financial capacity | Can he personally fund Alizé Month 1-3? Determines CAC viability |
+| U119 | Case study rights definition | What exactly does the client sign? Legal scope needed |
+| U120 | First workflow selection | Meeting reports vs. operationally critical alternative |
+| U121 | Regulated industry wedge | Is governance-disqualifying-for-Copilot the right wedge for Alizé's first vertical? |
+
+---
+
+## Pulse 25 (2026-03-30 — 16:22 UTC)
+
+| Agent | Topic | Key Findings |
+|-------|-------|-------------|
+| Pilot Pricing Agent | D123 free pilot | D123 signals desperation; free attracts bargain hunters; "internal use only" kills case studies; Option C (€1,500/2-week at €750/day) is the right balance |
+| Vertical Wedge Agent | D81/D124 conventional wisdom | Reverse the "start simple" wisdom; expert-comptables are the correct first vertical; governance gap is disqualifying for Copilot; case study is unassailable |
+| Delivery Readiness | D122 confirmed | Simulated rehearsal confirmed; Louis cannot solo-close but can participate in discovery roleplay |
+
+### New Decisions (Pulse 25)
+
+| ID | Topic | Decision | Source | Date |
+|----|-------|----------|--------|------|
+| D125 | Pilot structure REVISED | Replace D123 free pilot with €1,500/2-week diagnostic engagement (€750/day), framed as "Diagnostic + Proof of Concept" | Pricing agent | 2026-03-30 |
+| D126 | First vertical REVISED | Expert-comptables (administrative workflows around client management/regulatory reporting) as first beachhead — reverse "start simple" conventional wisdom | Vertical wedge agent | 2026-03-30 |
+| D81 REVISED | First workflow | Expert-comptable administrative workflow (not meeting report generation) as first use case | Vertical wedge agent | 2026-03-30 |
+
+### New Unresolved (Pulse 25)
+
+| ID | Topic | Blocker |
+|----|-------|---------|
+| U123 | Louis expert-comptable network | Does Louis have warm contacts in accounting firms? |
+| U124 | Delivery domain knowledge | Does Louis have domain knowledge for accounting firm admin tasks? |
+| U125 | First specific workflow | Client onboarding? Regulatory reporting? Document collection? |
+
+*Last updated: 2026-03-30 by pulse cron (Pulse 25)*

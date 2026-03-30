@@ -431,17 +431,28 @@
 - [ ] Kill D99-D103 (internal delivery rehearsal framing) — D113/D115 supersede it; first pilot IS delivery
 
 ### NEW (from 2026-03-30 Pulse 24 — Delivery Risk, Pilot Economics, First Workflow)
-- [ ] **D122 — Louis solo delivery revised:** Month 1 = simulated delivery rehearsal (peer roleplay, Gabin/Maëli), NOT live client delivery. Live delivery starts Month 2.
-- [ ] **D123 — Pilot pricing revised:** Kill CAC model (D110). Pilot 1 = free performance test (zero strings, internal use only). Pilot 2+ = full price with explicit case study rights.
-- [ ] **D124 — First workflow criteria:** Meeting reports (D81) challenged — choose for case study value + operational criticality, not learning ease.
+- [x] **D122 — Louis solo delivery revised:** Month 1 = simulated delivery rehearsal (peer roleplay, Gabin/Maëli), NOT live client delivery. Live delivery starts Month 2.
+- [x] **D123 — Pilot pricing revised (SUPERSEDED by D125):** Kill CAC model (D110). Pilot 1 = free performance test (zero strings, internal use only). Pilot 2+ = full price with explicit case study rights. **REPLACED by D125.**
+- [x] **D124 — First workflow criteria:** Choose for case study value + operational criticality, not learning ease. **REVISED by D126/D81REVISED.**
 - [ ] **U117 — Louis client-facing readiness:** Can he run discovery, manage expectations, course-correct mid-engagement? Self-assessment Week 1.
 - [ ] **U118 — Louis financial capacity:** Can he personally fund Alizé Month 1-3? CAC model assumes capital never confirmed.
 - [ ] **U119 — Case study rights definition:** What exactly does the client sign? Usage restrictions, approval timeline, anonymity options needed.
-- [ ] **U120 — First workflow re-evaluation:** Meeting reports vs. operationally critical alternative (invoice processing, compliance checking).
-- [ ] **U121 — Regulated industry wedge:** Is governance-disqualifying-for-Copilot the right wedge for Alizé's first vertical?
-- [ ] Week 1: Louis self-assesses client-facing readiness — can he run a discovery call solo? If not, who fills that gap?
-- [ ] Week 1: Simulate delivery rehearsal with Gabin/Maëli before any live client work
-- [ ] Month 1: Test two workflow candidates with warm contacts before committing to D81's meeting report workflow
-- [ ] Month 1: Resolve U118 (financial capacity) — determines whether free-first-pilot model is viable
-- [ ] Update commercial offer: Pilot 1 = free (zero strings), Pilot 2+ = paid with case study rights
-- [ ] Kill D113/D115 (Louis solo live delivery Month 1) — replaced by simulated rehearsal first
+- [ ] **U120 — First workflow re-evaluation:** Meeting reports vs. operationally critical alternative (invoice processing, compliance checking). **RESOLVED by D126/D81REVISED.**
+- [x] **U121 — Regulated industry wedge:** Is governance-disqualifying-for-Copilot the right wedge? **ANSWERED YES by D126.** Expert-comptables are the right first vertical.
+
+### NEW (from 2026-03-30 Pulse 25 — Pilot Pricing, Vertical Wedge)
+- [x] **D125 — Pilot structure REVISED:** Replace D123 free pilot with €1,500/2-week diagnostic engagement (€750/day), framed as "Diagnostic + Proof of Concept." Natural pipeline: diagnostic → pilot → retainer.
+- [x] **D126 — First vertical REVERSED:** Expert-comptables (administrative workflows around client management and regulatory reporting) as first beachhead — NOT professional services, NOT digital agencies. Governance gap is the differentiator.
+- [x] **D81 REVISED:** Expert-comptable administrative workflow (NOT meeting report generation) as first use case. Case study must be operationally critical with measurable ROI.
+- [ ] **U123 — Louis expert-comptable network:** Does Louis have warm contacts in accounting firms? If not, Month 1-2 outreach target needs reassessment.
+- [ ] **U124 — Delivery domain knowledge:** Does Louis understand expert-comptable admin workflows (client onboarding, regulatory reporting, document collection)? If not, delivery rehearsal needs domain research first.
+- [ ] **U125 — First specific workflow:** Which admin workflow within expert-comptables — client onboarding, regulatory reporting, document collection? Must narrow before scoping first pilot.
+- [ ] Update commercial offer: Replace all pilot pricing with €1,500/2-week diagnostic framing (D125). Remove free pilot language entirely.
+- [ ] Update external materials: Remove all "professional services first" and "meeting reports as first workflow" language. Replace with expert-comptable positioning.
+- [ ] Update BRIEF.md: Expert-comptables as first vertical, €750/day consulting framing, expert-comptable administrative workflow as first use case.
+- [ ] Month 1: Louis maps expert-comptable network contacts (U123). If <5 warm contacts, reassess Month 1 outreach target.
+- [ ] Month 1: Louis researches expert-comptable administrative workflows (U124) — interviews, trade publications, or Malt conversation with an expert-comptable.
+- [ ] Month 1: Define specific workflow scope for first diagnostic engagement (U125) — client onboarding, regulatory reporting, or document collection.
+- [ ] Kill D110/D123 (CAC/free pilot model) — D125 supersedes it.
+- [ ] Kill D44/D13 (professional services/digital agencies as first vertical) — D126 supersedes it.
+- [ ] Kill D81 (meeting report generation as first workflow) — D81REVISED supersedes it.
