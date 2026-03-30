@@ -864,3 +864,15 @@
 - [ ] **Disable pulse cron job:** Louis runs `openclaw cron remove <jobId>` or disables alize-5min-pulse. The process cannot stop itself.
 - [ ] **Kill vertical research:** Stop treating vertical as a research decision. One afternoon mapping Louis's actual warm network. Whichever vertical has the most warm ICP-fit contacts is the vertical.
 - [ ] **Kill D135/D187 contradiction:** Louis answers in writing: "Am I permitted to use Grinto relationships for Alizé's commercial gain?" One sentence. Dated.
+
+### NEW (from 2026-03-30 Pulse 44 — Pricing, Architecture, Louis Role)
+- [x] **D228 — First pilot pricing:** Pilots 1-2 at €500-1,000/month or free with case study rights. Full €2,000-2,500 from pilot 3+.
+- [x] **D229 — Technical stack Year 1:** Simplify to OpenAI API + Zapier/Make.com for first 3 pilots. Full stack (Mastra+pgvector+Redis) only when demand confirmed.
+- [x] **D230 — Infrastructure budget:** Revise from €25-40 to €80-120/month minimum. Budget was wrong by 3-4x.
+- [x] **D231 — Louis role:** Louis = technical build only. Cannot be delivery lead AND commercial lead simultaneously.
+- [x] **D232 — Commercial owner gap:** D74 says Louis shouldn't solo-close. No identified commercial owner exists. Must resolve before outreach.
+- [ ] **U228 — First pilot pricing offer:** Draft pilot offer at €500-1,000/month or free + case study rights. Remove €2,000-2,500 from first-pitch materials.
+- [ ] **U229 — Technical stack simplification:** Use Zapier/Make.com + OpenAI API for pilots 1-3. Do not build full stack until 3+ paying clients confirmed.
+- [ ] **U230 — Infrastructure budget revision:** Update BRIEF.md infrastructure costs from €25-40 to €80-120/month.
+- [ ] **U231 — Louis role declaration:** Louis explicitly decides: am I technical-only or attempting all three roles?
+- [ ] **U232 — Commercial partner identification:** Who owns commercial? Gabin? External? This is a Month 1 blocker per D232.
