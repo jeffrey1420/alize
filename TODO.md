@@ -217,3 +217,33 @@
 
 *Last updated: 2026-03-30 by pulse cron (Pulse 12)*
 
+
+### NEW (from 2026-03-30 Pulse 13)
+- [ ] **D51 — Website gates cold outbound, NOT warm outreach:** Kill website as universal first blocker. Louis starts warm outreach via LinkedIn immediately — no website required.
+- [ ] **D52 — Conversion guarantee:** Replace 50% refund with staged payment (50% kickoff / 50% day 15) + signed exit criteria. Performance bond: next workflow free if metrics miss. Refund language only in contract.
+- [ ] **D53 — Ownership framing:** Replace "operational ownership transfer" with "delegation with accountability." Frame existing employee as agent supervisor, not replaced worker.
+- [ ] **D54 — Kill month-to-month:** Replace with 12-month retainer with performance exit clause after month 3. Month-to-month becomes premium flexible option (+20%).
+- [ ] **D55 — Lock-in messaging:** Remove "no lock-in" from all external materials. Replace with commitment/deep integration language.
+- [ ] **D56 — Client control framing:** Shift from "client controls" to "Alize is accountable for results." Control only as technical secondary point.
+- [ ] **D57 — Agentova comparison:** Stop using Agentova as primary competitive reference in any external materials.
+- [ ] **D58 — Commitment tier:** Introduce formal 12-month "commitment tier" with enhanced SLA + quarterly business reviews + priority new use case development.
+- [ ] **U51 — Warm outreach materials:** Create pitch deck, scope template, and pilot one-pager for warm outreach — this is the real first blocker, not the website.
+- [ ] Month 1: Parallelize website build AND warm outreach — don't wait for website to start outreach.
+- [ ] Update external materials: remove all "no lock-in", "client controls", "ownership transfer" language.
+- [ ] Update commercial offer: implement staged payment structure, 12-month commitment tier with month-3 exit.
+
+## Debate Log Summary
+
+| Date | Debates | Key Outcomes |
+|------|---------|-------------|
+| 2026-03-30 AM | Pricing, Competitive, GTM (partial) | Diagnostic €490 questioned; per-agent pricing challenged; platform giants as primary threats; workflow-tier proposed |
+| 2026-03-30 | Technical, Vertical, Revenue (full) | Architecture overengineered; horizontal stretched; MCP demoted; ETI aspirational |
+| 2026-03-30 midday | Landing page, GTM scalability, Differentiation | Hero wrong; network math unrealistic; vertical depth = moat |
+| 2026-03-30 late | Managed service, Tech stack, Mistral threat | "Managed service" = liability headline; MCP = infrastructure; Mistral is 2027-2028 |
+| 2026-03-30 midday | Positioning, MVP scope, Diagnostic pricing | "AI employee" framing = French labor/political liability; runtime spike = backwards; diagnostic = free lead gen |
+| 2026-03-30 midday | Delivery, Tooling, Model identity | Louis can't solo-deliver; n8n over Make.com; productized consulting identity; €2,000-2,500/month minimum |
+| 2026-03-30 afternoon | Positioning, Pricing, Vertical | Sovereignty framing = weakness; tiered pricing; professional services over agencies (buy-vs-build problem) |
+| 2026-03-30 midday | GTM Readiness, Delivery Stack, Delivery Partner | Cold outbound needs 4 hard blockers; n8n MCP is beta-not-stable; Gabin-first delivery partner strategy; success-fee contracting model |
+| 2026-03-30 afternoon | Conversion, Lock-in, Website | Kill "no lock-in" externally; staged payment replaces 50% refund; website gates cold outbound not warm; commitment tier introduced |
+
+*Last updated: 2026-03-30 by pulse cron (Pulse 13)*

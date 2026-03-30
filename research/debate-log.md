@@ -222,4 +222,37 @@ Central log of all debate outcomes across research pulses.
 | D49 | Delivery partner contract | Success-fee: €350/day base + €1,500 conversion bonus. Exposure capped at €3,250 if pilot doesn't convert. | Delivery partner agent | 2026-03-30 |
 | D50 | Infrastructure decision timing | Defer all infrastructure decisions (OVHcloud, n8n, Docker vs K8s) to Month 3. Existing stack sufficient for Month 1 pilots. | Delivery stack agent | 2026-03-30 |
 
-*Last updated: 2026-03-30 by pulse cron (Pulse 12)*
+*Last updated: 2026-03-30 by pulse cron (Pulse 13)*
+
+## Pulse 13 (2026-03-30 — 13:05 UTC)
+
+| Agent | Topic | Key Findings |
+|-------|-------|-------------|
+| Conversion Strategist | Guarantee, framing, contract structure | 50% refund → staged payment + signed exit criteria; "ownership transfer" → "delegation with accountability"; month-to-month → 12-month with month-3 exit |
+| Lock-in Strategist | No lock-in, client controls, Agentova reference | Kill "no lock-in" externally; shift "client controls" to "Alizé accountability"; stop using Agentova as competitive reference; add formal commitment tier |
+| Website Strategist | Website as universal blocker | Kill website as universal first blocker; gates cold outbound NOT warm outreach; warm outreach starts Day 1 via LinkedIn + direct materials |
+
+### New Decisions (Pulse 13)
+
+| ID | Topic | Decision | Source | Date |
+|----|-------|----------|--------|------|
+| D51 | Website as blocker | Website gates cold outbound, NOT warm outreach. Warm outreach starts immediately via LinkedIn + direct materials. Parallelize website build and outreach. | Website agent | 2026-03-30 |
+| D52 | Conversion guarantee | Replace 50% refund with staged payment (50% kickoff / 50% day 15) + signed exit criteria. Refund language only in contract. Performance bond: next workflow free if metrics miss. | Conversion agent | 2026-03-30 |
+| D53 | Ownership framing | Replace "operational ownership transfer" with "delegation with accountability." Alize operates; client retains oversight. Frame existing employee as agent supervisor, not replaced worker. | Conversion agent | 2026-03-30 |
+| D54 | Month-to-month | Kill month-to-month as default. 12-month retainer with performance exit clause after month 3. Month-to-month becomes premium flexible option (+20%). Frame as "flexibility after trust is established." | Conversion agent | 2026-03-30 |
+| D55 | Lock-in messaging | Remove "no lock-in" from all external materials. Replace with commitment/deep integration language. "Agents that become essential to how you operate." | Lock-in agent | 2026-03-30 |
+| D56 | Client control framing | Shift from "client controls" to "Alize is accountable for results." Control framing only appears as technical secondary point (audit log access). | Lock-in agent | 2026-03-30 |
+| D57 | Agentova comparison | Stop using Agentova as primary competitive reference. Invest in category creation. Comparison only if prospect raises it directly. | Lock-in agent | 2026-03-30 |
+| D58 | Commitment tier | Introduce formal "commitment tier": 12-month minimum + enhanced SLA + quarterly business reviews + priority new use case development. Framed as "for companies that want a true operational partner." | Lock-in agent | 2026-03-30 |
+
+### New Unresolved (Pulse 13)
+
+| ID | Topic | Blocker |
+|----|-------|---------|
+| U47 | Minimum social proof | How much proof is needed before guarantee mechanism matters? |
+| U48 | Dual conversion narratives | Should DG/COO framing differ from Head of Operations framing? |
+| U49 | Commitment vs flexibility | Does French PME buyer actually want committed vendor or escape hatch? No primary research. |
+| U50 | Pre-payment model | Should Alize ask for 3 months pre-paid? Improves cash position but may increase friction. |
+| U51 | Warm outreach materials | Does Louis have pitch deck, scope template, pilot one-pager ready for warm outreach? This is the real first blocker. |
+
+*Last updated: 2026-03-30 by pulse cron (Pulse 13)*
