@@ -519,3 +519,29 @@
 - [ ] **CRITICAL:** U91 has been listed as "unresolved" for 27 consecutive pulses. This is not a data problem. Louis must make the binary choice THIS WEEK — not add it to a backlog. If U91 is still unresolved after Pulse 28, Alizé defaults to side-project plan.
 - [ ] Side-project plan: One internal delivery rehearsal, document what worked, publish on LinkedIn, wait for inbound. No external pilots Year 1.
 - [ ] Startup plan: Louis formally reduces at least one of {M1, Grinto, web agency} to create 25-30 hrs/week for Alizé. Explicit, written, dated.
+
+### NEW (from 2026-03-30 Pulse 29 — Vertical, Pricing, GTM Velocity Challenges)
+- [x] **D145 — Expert-comptable vertical CONDITIONAL:** Valid only if Louis has 5+ warm expert-comptable contacts; otherwise vertical reverts to confirmed-network vertical
+- [x] **D146 — First workflow specificity:** MUST name exact task before pilot scoping; "client management/regulatory reporting" is not a workflow
+- [x] **D147 — Domain knowledge prerequisite:** U124 must resolve before diagnostic engagement; Louis learns domain or expert is embedded
+- [x] **D148 — Diagnostic price REVISED:** FREE 30-min call + €490 written deliverable credited toward pilot (not €1,500)
+- [x] **D149 — Pilot pricing REVISED:** €7,500 minimum warm network; €10,000+ cold outbound (not €1,500-2,000 CAC model)
+- [x] **D150 — Tiered pricing:** Single price framing preferred over tiered; price the outcome not the feature set
+- [x] **D151 — Cold outbound window reframed:** 3-6 month window is for STARTING cold outbound, not for closing deals; real revenue window extends beyond Month 6
+- [x] **D152 — "Window" reframing:** D82 "effective window" → "capacity window" — personal exhaustion point, not market event
+- [x] **D153 — Association outreach:** Month 9+ only; remove from Month 1-3 planning
+- [x] **D154 — U52 as hard gate:** U52 must resolve before warm outreach is called a "primary channel"
+- [ ] **U145 — U123/U129 expert-comptable network:** Louis must map warm contacts before vertical is confirmed
+- [ ] **U146 — U124 Louis domain knowledge:** 4-6 weeks domain research required before diagnostic engagement
+- [ ] **U147 — Specific workflow name:** Exact task with ROI metric, not "administrative workflows"
+- [ ] **U148 — Diagnostic price final:** FREE + €490 credit vs. €2,500 premium signal — needs Louis decision
+- [ ] **U149 — Pilot price final:** €7,500 warm / €10,000+ cold — needs Louis decision
+- [ ] **U150 — Single vs. tiered monthly:** Needs Louis decision on pricing structure
+- [ ] Month 1 Week 1: U52 ICP network mapping — map ALL warm contacts by ICP-fit, company size, decision-maker access — gates all GTM and vertical decisions
+- [ ] Month 1 Week 1: Resolve U91 binary choice (side-project OR startup at 25-30 hrs/week) — gates all capacity planning
+- [ ] Month 1 Week 1: Resolve U123/U129 expert-comptable network — validates or invalidates D145 vertical
+- [ ] Month 1: Louis begins domain research for expert-comptables OR identifies embedded domain expert for first pilot (U146/U147)
+- [ ] Kill D126/D135 as unconditional decisions — expert-comptable vertical is CONDITIONAL on D145
+- [ ] Kill D110/D123 CAC pilot model — replaced by D148/D149 (free diagnostic + €7,500+ pilot)
+- [ ] External materials: Update diagnostic offer — FREE 30-min call + €490 written deliverable credited toward pilot
+- [ ] Sales playbook: Update cold outbound window framing — "capacity window" not "market window"

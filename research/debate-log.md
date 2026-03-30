@@ -697,3 +697,59 @@ Central log of all debate outcomes across research pulses.
 | Category Framing | "Service firm" identity | Not a buyer category — describes vendor not problem; "service firm" = SSII stigma in French B2B; flip to outside-in: "AI workflow automation for regulated SMEs" |
 
 *Last updated: 2026-03-30 by pulse cron (Pulse 28)*
+
+## Pulse 29 (2026-03-30 — 17:20 UTC)
+
+| Agent | Topic | Key Findings |
+|-------|-------|-------------|
+| Vertical Challenge | Expert-comptable thesis | Governance wedge overstated; workflow still not specific (D81REVISED is placeholder); network dependency = premature lock-in; domain knowledge gap potentially fatal |
+| Pricing Architecture | Diagnostic/pilot/monthly | €1,500 diagnostic in "too cheap to trust" gap; tiered pricing creates decision paralysis; CAC pilots have unknown sustainability; FREE call + €490 deliverable recommended |
+| GTM Velocity | Warm network, cold outbound, window | U52 unresolved for 28 pulses — warm outreach not a channel until network mapped; cold outbound window collapses to 2-3 months; "3-6 month window" is capacity constraint not market event; association outreach is Month 9+ |
+
+### Decisions from Pulse 29
+
+| ID | Topic | Decision | Source | Date |
+|----|-------|----------|--------|------|
+| D145 | Expert-comptable vertical | CONDITIONAL — valid only if 5+ warm expert-comptable contacts exist; otherwise vertical reverts to confirmed-network vertical | Vertical challenge | 2026-03-30 |
+| D146 | First workflow specificity | MUST name exact task before pilot scoping; "client management/regulatory reporting" is not a workflow | Vertical challenge | 2026-03-30 |
+| D147 | Domain knowledge prerequisite | U124 must resolve before diagnostic; either Louis learns domain or expert embedded | Vertical challenge | 2026-03-30 |
+| D148 | Diagnostic price | FREE 30-min call + €490 written deliverable credited toward pilot | Pricing challenge | 2026-03-30 |
+| D149 | Pilot pricing | €7,500 minimum warm network; €10,000+ cold outbound | Pricing challenge | 2026-03-30 |
+| D150 | Tiered monthly pricing | Single price framing preferred; price outcome not feature set | Pricing challenge | 2026-03-30 |
+| D151 | Cold outbound window | 3-6 month window is for STARTING cold outbound, not for closing deals | GTM challenge | 2026-03-30 |
+| D152 | "Window" reframing | D82 "effective window" → "capacity window" — personal exhaustion, not market event | GTM challenge | 2026-03-30 |
+| D153 | Association outreach | Month 9+ only; remove from Month 1-3 planning | GTM challenge | 2026-03-30 |
+| D154 | U52 as hard gate | U52 must resolve before warm outreach is called a "primary channel" | GTM challenge | 2026-03-30 |
+
+### Unresolved from Pulse 29
+
+| ID | Topic | Blocker |
+|----|-------|---------|
+| U145 | U123/U129 expert-comptable network | Louis must map warm contacts before vertical confirmed |
+| U146 | U124 Louis domain knowledge | 4-6 weeks domain research before diagnostic engagement |
+| U147 | Specific workflow name | Exact task with ROI metric, not "administrative workflows" |
+| U148 | Diagnostic price final | FREE + €490 vs. €2,500 premium — needs Louis decision |
+| U149 | Pilot price final | €7,500 warm / €10,000+ cold — needs Louis decision |
+| U150 | Single vs. tiered monthly | Needs Louis decision on pricing structure |
+
+### Debate Log Summary
+
+| Date | Debates | Key Outcomes |
+|------|---------|-------------|
+| 2026-03-30 AM | Pricing, Competitive, GTM (partial) | Diagnostic €490 questioned; per-agent pricing challenged; platform giants as primary threats; workflow-tier proposed |
+| 2026-03-30 | Technical, Vertical, Revenue (full) | Architecture overengineered; horizontal stretched; MCP demoted; ETI aspirational |
+| 2026-03-30 midday | Landing page, GTM scalability, Differentiation | Hero wrong; network math unrealistic; vertical depth = moat |
+| 2026-03-30 late | Managed service, Tech stack, Mistral threat | "Managed service" = liability headline; MCP = infrastructure; Mistral is 2027-2028 |
+| 2026-03-30 midday | Positioning, MVP scope, Diagnostic pricing | "AI employee" framing = French labor/political liability; runtime spike = backwards; diagnostic = free lead gen |
+| 2026-03-30 midday | Delivery, Tooling, Model identity | Louis can't solo-deliver; n8n over Make.com; productized consulting identity; €2,000-2,500/month minimum |
+| 2026-03-30 afternoon | Positioning, Pricing, Vertical | Sovereignty framing = weakness; tiered pricing; professional services over agencies (buy-vs-build problem) |
+| 2026-03-30 midday | GTM Readiness, Delivery Stack, Delivery Partner | Cold outbound needs 4 hard blockers; n8n MCP is beta-not-stable; Gabin-first delivery partner strategy; success-fee contracting model |
+| 2026-03-30 afternoon | Conversion, Lock-in, Website | Kill "no lock-in" externally; staged payment replaces 50% refund; website gates cold outbound not warm; commitment tier introduced |
+| 2026-03-30 afternoon | GTM Limits, Delivery Risk, Pilot Pricing | Warm network = Month 1-3 only ceiling; Louis cannot solo-deliver; €4,500 pilot doesn't cover delivery costs; 12-month commitment unsellable Year 1 |
+| 2026-03-30 late | Pilot Pricing, Vertical Wedge, Delivery Readiness | €1,500/2-week diagnostic; expert-comptables as first vertical; simulated delivery rehearsal |
+| 2026-03-30 late | Copilot, GTM Paradox, Identity | D96 reversed; warm network demoted; "AI operations company" identity rejected |
+| 2026-03-30 | Expert-Comptables Vertical, Malt Channel, Commercial Layer | D126 modified; Malt deprioritized as primary; U86 reframed with tiered commercial capability |
+| 2026-03-30 | WTP vs Copilot, Louis Hours, Category Framing | "Copilot isn't enough" replaces "additive"; U91 is decision not data; "service firm" rejected for outside-in framing |
+| 2026-03-30 | Vertical Thesis, Pricing Architecture, GTM Velocity | Expert-comptable vertical CONDITIONAL on network validation; diagnostic becomes FREE + €490 credit; cold outbound window is 2-3 months not 3-6; "window" reframed as capacity constraint |
+
+*Last updated: 2026-03-30 by pulse cron (Pulse 29)*
