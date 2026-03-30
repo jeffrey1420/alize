@@ -2,83 +2,107 @@
 
 ## Identity
 
-**Nom:** Alizé
-**Positionnement:** Société française de déploiement et gestion d'agents IA pour entreprises.
-**Promesse:** Des agents IA utiles, gouvernés, connectés à des workflows métier précis.
+**Name:** Alizé
+**Positioning:** French company specializing in deployment and management of AI agents for businesses.
+**Promise:** Useful AI agents, governed, connected to specific business workflows.
 
-Alizé ne vend pas de la technologie. Le client achète: du temps gagné, moins de tâches répétitives, plus de rapidité, plus de contrôle, un meilleur usage de ses outils, une mise en place sérieuse et suivie.
+Alizé doesn't sell technology. The client buys: time saved, fewer repetitive tasks, more speed, more control, better use of their tools, serious and sustained implementation.
 
-**Ce qu'Alizé n'est pas:** une agence de prompts, un vendeur de chatbot gadget, un cabinet de conseil qui ne déploie rien, une promesse de remplacement des équipes.
+**What Alizé is not:** a prompt agency, a gadget chatbot vendor, a consulting firm that deploys nothing, a promise to replace teams.
 
 ## Vision
 
-L'IA en entreprise est souvent mal vendue: trop de buzzwords, trop de démos, pas assez de cadrage. Alizé existe pour transformer l'IA en outil opérationnel exploitable, en partant des vrais besoins métier, pas des fantasmes technologiques.
+AI in business is often poorly sold: too many buzzwords, too many demos, not enough framing. Alizé exists to transform AI into a usable operational tool, starting from real business needs, not technological fantasies.
 
 ## Mission
 
-Aider les entreprises françaises à identifier, déployer et gérer des agents IA capables de prendre en charge des tâches répétitives, standardisables ou chronophages dans leurs processus métiers.
+Help French businesses identify, deploy, and manage AI agents capable of handling repetitive, standardizable, or time-consuming tasks in their business processes.
 
-## Ce qu'Alizé vend
+## What Alizé Sells
 
-Un service managé d'agents IA. Composants:
-- Audit et cadrage
-- Conception du workflow
-- Installation technique
-- Connexion aux outils métiers
-- Paramétrage des droits et garde-fous
-- Structuration base documentaire / RAG
-- Tests métier
-- Formation des équipes
-- Maintenance et monitoring
-- Support et optimisation continue
+A managed AI agent service. Components:
+- Audit and scoping
+- Workflow design
+- Technical installation
+- Business tool integration
+- Rights and guardrails configuration
+- Document base structuring / RAG
+- Business testing
+- Team training
+- Maintenance and monitoring
+- Support and continuous optimization
 
-## Cible prioritaire
+## Priority Target
 
-PME et ETI françaises qui:
-- Ont déjà plusieurs outils métiers
-- Ont des équipes qui perdent du temps sur des tâches répétitives
-- Veulent avancer sur l'IA sans recruter une équipe technique complète
-- Ont besoin d'un cadre rassurant
+French SMBs and mid-sized companies that:
+- Already have multiple business tools
+- Have teams losing time on repetitive tasks
+- Want to advance in AI without hiring a full technical team
+- Need a reassuring framework
 
-## Cas d'usage prioritaires
+## Priority Use Cases
 
-**Service client:** tri des demandes, réponse questions simples, préparation de réponses, recherche dans la base interne, routage.
-**Commerce:** qualification de leads, enrichissement, relances, préparation rendez-vous, mise à jour CRM.
-**RH:** réponses aux questions internes, aide à l'onboarding, recherche dans documents, tri de candidatures.
-**Ops/Support:** suivi de procédures, traitement demandes internes, synthèse documentaire.
-**Direction/Admin:** comptes-rendus de réunion, suivi d'actions, recherche documentaire, préparation de reporting.
+**Customer service:** request routing, simple Q&A, response drafting, internal knowledge base search, routing.
+**Sales:** lead qualification, enrichment, follow-ups, meeting preparation, CRM updates.
+**HR:** internal Q&A, onboarding assistance, document search, candidate screening.
+**Ops/Support:** procedure tracking, internal request processing, document synthesis.
+**Management/Admin:** meeting notes, action tracking, document search, reporting preparation.
 
-## Message principal
+## Core Message
 
-Pas: "On met de l'IA dans votre entreprise."
-Mais: "Nous transformons des tâches répétitives et des frictions internes en workflows pilotés par des agents IA utiles, sécurisés et suivis."
+Not: "We're putting AI in your company."
+But: "We transform repetitive tasks and internal friction into workflows driven by useful, secure, and monitored AI agents."
 
-Autres formulations:
-- "Des agents IA utiles à votre entreprise. Pas des gadgets."
-- "Moins de tâches manuelles. Plus de vitesse. Plus de contrôle."
+Other formulations:
+- "Useful AI agents for your business. Not gadgets."
+- "Less manual tasks. More speed. More control."
 
-## Offre commerciale
+## Commercial Offer
 
-1. **Diagnostic** — audit ciblé, cartographie des outils, priorisation des cas d'usage, plan de déploiement, estimation ROI.
-2. **Déploiement pilote** — un premier agent sur un workflow métier précis, intégration à quelques outils, tests, mise en production contrôlée.
-3. **Service managé** — monitoring, maintenance, support, optimisation, revue mensuelle, accompagnement.
+1. **Diagnostic** — targeted audit, tool mapping, use case prioritization, deployment plan, ROI estimate.
+2. **Pilot deployment** — a first agent on a specific business workflow, integration with a few tools, testing, controlled go-live.
+3. **Managed service** — monitoring, maintenance, support, optimization, monthly review, ongoing guidance.
 
-## Modèle économique
+## Business Model
 
-- Frais d'entrée (diagnostic ou pilote)
-- Mise en place (déploiement, intégration, formation)
-- Récurrence mensuelle (supervision, maintenance, support, optimisation)
+- Entry fees (diagnostic or pilot)
+- Setup (deployment, integration, training)
+- Monthly recurring (supervision, maintenance, support, optimization)
 
-## Objections à anticiper
+## Objections to Anticipate
 
-- "Pas fiable" → on ne déploie pas sans cadre, droits limités, actions encadrées
-- "Risqué pour nos données" → infrastructure maîtrisée, règles d'accès, journalisation, périmètre clair
-- "Les équipes vont rejeter l'outil" → adoption préparée, cas d'usage qui soulage, formation
-- "On ne sait pas si le ROI sera là" → pilote sur friction mesurable
-- "On ne veut pas tout chambouler" → approche progressive, pragmatique, contrôlée
+- "Not reliable" → we don't deploy without a framework, limited rights, controlled actions
+- "Risky for our data" → controlled infrastructure, access rules, logging, clear scope
+- "Teams will reject the tool" → adoption prepared, use cases that relieve burden, training
+- "We don't know if ROI will be there" → pilot on measurable friction
+- "We don't want to turn everything upside down" → progressive, pragmatic, controlled approach
 
-## Ton de marque
+## Brand Tone
 
-Clair, direct, rassurant, sérieux, moderne, business. Jamais arrogant, jamais trop geek, jamais rempli de buzzwords.
+Clear, direct, reassuring, serious, modern, business. Never arrogant, never too geeky, never filled with buzzwords.
 
-Style à viser: sobre, premium, crédible, orienté résultat, pragmatique.
+Target style: understated, premium, credible, result-oriented, pragmatic.
+
+---
+
+# Alizé — Art Direction
+
+## General Atmosphere
+Mistral AI style: clean, modern, premium. Simple design with character.
+
+## Visual Direction
+- **Style:** Pixel art for companions / avatars
+- **Atmosphere:** Simple, clean, modern
+- **Background:** gradients from blue to pink through violet
+- **Palette:** blue → violet → pink gradient
+
+## Inspiration
+Mistral AI — their DA (digital assistant) and pixel art visual identity are a direct reference for Alizé.
+
+## Design
+- Pixel art companion (mascot/assistant character)
+- Logo direction
+- Exact gradient specs
+- Typography
+
+Alizé — AI assistant agency for French SMBs

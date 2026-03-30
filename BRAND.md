@@ -1,19 +1,45 @@
-# Alizé — Direction Artistique
+# Brand — Alizé
 
-## Ambiance générale
-Style Mistral AI: épuré, moderne, premium. Design simple mais with character.
+## Identity
 
-## Direction visuelle
-- **Style:** Pixel art pour les compagnons / avatars
-- **Ambiance:** Simple, clean, moderne
-- **Fond:**gradients du bleu vers le rose en passant par le violet
-- **Palette:** dégradé bleu → violet → rose
+**Name:** Alizé
+**Tagline:** AI agents that work. Not gadgets.
 
-## Inspiration
-Mistral AI — leur DA (digital assistant) et leur identité visuelle pixel art sont une référence directe pour Alizé.
+## Positioning
 
-## À inclure dans le brand book plus tard
-- Companion pixel art (sort of mascot/assistant character)
-- Logo direction
-- Gradient specs exacts
-- Typographie
+French company specializing in the deployment and management of AI agents for businesses.
+
+## Core Promise
+
+AI agents that are actually useful — connected to your tools, trained on your data, governed by your rules.
+
+## What We Do
+
+We help businesses identify, deploy, and manage AI agents that handle repetitive, standardizable, or time-consuming tasks in their business processes.
+
+## What We Don't Do
+
+We are not a prompt agency, a gadget chatbot vendor, or a consulting firm that deploys nothing.
+
+## Visual Identity
+
+**Style:** Pixel art companions/avatars, clean and modern
+**Palette:** Blue → Violet → Pink gradient
+**Inspiration:** Mistral AI's digital assistant and pixel art visual identity
+
+## Tone of Voice
+
+- Clear
+- Direct
+- Reassuring
+- Serious
+- Modern
+- Business-oriented
+
+**Never:** arrogant, overly technical, or filled with buzzwords.
+
+**Style:** understated, premium, credible, result-oriented, pragmatic.
+
+## Website
+
+alize.studio
