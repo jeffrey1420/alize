@@ -822,3 +822,26 @@
 - [ ] **Kill Kuroba as social proof:** Until U239 (cooperation) and U240 (scale match) are resolved, Kuroba does not appear in any external-facing material.
 - [ ] **Domain purchase (U163):** Still not done after 45 pulses. Buy alize.studio — €10, 5 minutes. Gates email and website credibility.
 - [ ] **Binary choice (U91):** Kill as research task. Replace with legal entity confirmation (U238) — if Louis has a company, Alizé can proceed; if not, form one first.
+
+### NEW (from 2026-03-30 Pulse 46 — Entity, Commercial Collapse, Vertical Audit)
+- [x] **D243 — Entity question gates all:** U238 must be answered before any commercial path evaluation; all D219 paths assume legal entity exists
+- [x] **D244 — Binary choice reframed:** Real question: "can Louis legally be Alizé?" not "startup vs. side-project"
+- [x] **D245 — Kuroba entity mismatch:** Auto-entrepreneur registration for web dev ≠ AI agent services; activity code mismatch creates legal irregularity
+- [x] **D246 — Commercial model collapse:** Two of three D219 paths killed (B: downmarket, C: channel partner); remaining path A has zero market validation
+- [x] **D247 — Zero market data:** All commercial model decisions D1-D242 made without a single sales attempt, outreach, discovery call, demo, or pilot
+- [x] **D248 — D84 credibility ceiling is empirical not structural:** Louis's solo-close capability requires attempted sales to validate; zero attempts made
+- [x] **D249 — D240 pulse kill is process-unenforcible:** Pulse process structurally incapable of self-termination; only Louis can disable the cron job
+- [x] **D250 — Vertical decisions are proxy symptom:** Vertical reversals (7+ in one day) reflect U52/U91/U163 execution failures; not a solvable research problem
+- [x] **D251 — U123 removed from unresolved queue:** Expert-comptables are Month 9+ per D207; listing as unresolved implies live option that is not
+- [x] **D252 — D135/D187 are same question with opposite answers:** "Can Louis use Grinto relationships for Alizé commercial gain?" answered yes (D135) and no (D187) in consecutive pulses
+- [ ] **U238 — Louis legal entity status:** CRITICAL — does Louis have a legal entity capable of signing commercial agreements? Auto-entrepreneur/SAS/SARL/none? Gates everything.
+- [ ] **U242 — U238 gate on D219 paths:** All three paths (A/B/C) assume entity exists; Path B and C are killed but Path A still requires entity
+- [ ] **U243 — Kuroba NAF/APE code:** What is Kuroba's activity classification? Does it cover AI agent services to regulated SMEs?
+- [ ] **U244 — Grinto IP assignment:** Does Louis's employment contract assign side-project IP to Grinto? Covers work created outside hours?
+- [ ] **U245 — Louis credibility ceiling validation:** Has Louis ever attempted to sell anything at any price? What was the outcome?
+- [ ] **U246 — Cron job disable:** D240 cannot be executed by the process itself; Louis must manually disable the alize-5min-pulse cron job
+- [ ] **Legal review before commercial planning:** Louis answers five legal questions before any further commercial planning: (1) entity type, (2) Grinto IP clauses, (3) Kuroba activity scope, (4) personal liability, (5) side venture policy
+- [ ] **One real outreach this week:** Louis sends one message to one warm contact. Not five. One. One data point is worth 45 pulses.
+- [ ] **Disable pulse cron job:** Louis runs `openclaw cron remove <jobId>` or disables alize-5min-pulse. The process cannot stop itself.
+- [ ] **Kill vertical research:** Stop treating vertical as a research decision. One afternoon mapping Louis's actual warm network. Whichever vertical has the most warm ICP-fit contacts is the vertical.
+- [ ] **Kill D135/D187 contradiction:** Louis answers in writing: "Am I permitted to use Grinto relationships for Alizé's commercial gain?" One sentence. Dated.

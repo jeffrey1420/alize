@@ -1261,5 +1261,5 @@ Pulse 44 suspension criteria STILL NOT MET after 45 pulses:
 - U52 (network map): NOT DONE — 45 consecutive pulses
 - U238 (entity status): NEW — may explain all three above
 
-*Last updated: 2026-03-30 by pulse cron (Pulse 45)*
+*Last updated: 2026-03-30 by pulse cron (Pulse 46)*
 
