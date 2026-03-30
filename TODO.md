@@ -161,7 +161,7 @@
 - [x] **Delivery model (D31):** Louis-as-delivery-lead is wrong; a business lead with PME consulting experience needed from Day 1
 - [x] **Tooling (D34):** n8n self-hosted on OVHcloud, NOT Make.com — zero client lock-in, aligns with managed service positioning
 - [x] **Business identity (D37):** Alizé is a productized consulting practice, not a SaaS business, for Years 1-2
-- [x] **Minimum price (D38):** €2,000-2,500/month per client minimum (consulting economics); €1,200 too low
+- [x] **Minimum price (D38):** €2,000-2,500/month per client minimum (consulting economics); €1,200 too low — REVISED by D43
 - [x] **Hiring priority (D39):** Delivery partners before platform engineers
 - [x] **Network exhaust plan (D40):** Build cold-outbound-ready assets (case studies, website) in Year 1 while using warm network
 - [ ] **Delivery partner (U32):** Find before first pilot — Louis cannot deliver alone
@@ -169,8 +169,18 @@
 - [ ] **First pilot timeline (U34):** When does it start? Delivery partner sourcing takes time
 - [ ] **n8n setup (U35):** Spin up OVHcloud VPS with n8n self-hosted Month 1
 - [ ] **n8n MCP validation (U36):** Is n8n MCP integration stable for Alizé use case?
-- [ ] **Pricing recalibration (U39):** Revise Year 1 revenue model to €2,000-2,500/client range
+- [ ] **Pricing recalibration (U39):** Revise Year 1 revenue model to tiered pricing (€1,200-1,500 starter / €2,000-2,500 multi-workflow)
 - [ ] **Cold outbound asset checklist (U40):** What needs to exist before cold outbound starts Month 2?
+
+### NEW (from 2026-03-30 Pulse 11 — Positioning/Pricing/Vertical Debates)
+- [x] **Sovereignty framing (D41):** Drop from hero/headline; move to "how we're built" section; lead with operational outcomes
+- [x] **EU AI Act positioning (D42):** Remove from near-term messaging; compliance story only relevant 2027-2028
+- [x] **Managed service pricing (D43):** Tiered offer — €1,200-1,500/month starter (single workflow) + €2,000-2,500/month multi-workflow
+- [x] **First vertical (D44):** Professional services (consulting firms, 10-50 employees) over digital agencies/e-commerce — agencies have buy-vs-build problem; e-commerce can't afford pricing
+- [ ] **Validate professional services vertical:** Identify 10-20 consulting/accounting firms in Île-de-France to target for first pilots
+- [ ] **Rewrite positioning brief:** Remove all French/souveraineté language from external hero; lead with delegation/outcomes
+- [ ] **Pricing page update:** Implement tiered managed service offer (starter + multi-workflow)
+- [ ] **Review D13/D14 conflict:** 20-30 person pilot target is incompatible with €2,500/month floor — tiered pricing resolves this but needs explicit decision
 
 ---
 
@@ -183,6 +193,8 @@
 | 2026-03-30 midday | Landing page, GTM scalability, Differentiation | Hero wrong; network math unrealistic; vertical depth = moat |
 | 2026-03-30 late | Managed service, Tech stack, Mistral threat | "Managed service" = liability headline; MCP = infrastructure; Mistral is 2027-2028 |
 | 2026-03-30 midday | Positioning, MVP scope, Diagnostic pricing | "AI employee" framing = French labor/political liability; runtime spike = backwards; diagnostic = free lead gen |
+| 2026-03-30 midday | Delivery, Tooling, Model identity | Louis can't solo-deliver; n8n over Make.com; productized consulting identity; €2,000-2,500/month minimum |
+| 2026-03-30 afternoon | Positioning, Pricing, Vertical | Sovereignty framing = weakness; tiered pricing; professional services over agencies (buy-vs-build problem) |
 
-*Last updated: 2026-03-30 by pulse cron (Pulse 9)*
+*Last updated: 2026-03-30 by pulse cron (Pulse 11)*
 

@@ -176,4 +176,31 @@ Central log of all debate outcomes across research pulses.
 | D29 | Pilot ROI framing | Reframe from "hours saved" to "operational ownership transfer" — client must feel they have delegated entirely | Conversion agent | 2026-03-30 |
 | D30 | Pilot qualification | Workflow must be operationally critical (not "nice to have"); reject nice-to-have workflow pilots | Conversion agent | 2026-03-30 |
 
-*Last updated: 2026-03-30 by pulse cron (Pulse 9)*
+---
+
+## Pulse 11 (2026-03-30 — 12:33 UTC)
+
+| Agent | Topic | Key Findings |
+|-------|-------|-------------|
+| French Positioning Strategist | Sovereignty/infrastructure as differentiator | WRONG for DG/COO buyers — they care about outcomes, not infrastructure; EU AI Act not a near-term driver; sovereignty framing signals weakness |
+| Price Floor Strategist | €2,000-2,500/month consulting minimum | WRONG — conflicts with 20-30 person pilot target; ROI math collapses above €1,500/month; tiered offer needed |
+| Vertical Choice Strategist | Digital agencies/e-commerce as first vertical | WRONG — agencies can build their own agents (buy-vs-build); e-commerce thin margins can't absorb €2,500/month; professional services better fit |
+
+### New Decisions (Pulse 11)
+
+| ID | Topic | Decision | Source | Date |
+|----|-------|----------|--------|------|
+| D41 | Sovereignty positioning | Drop from hero/headline; move to "how we're built" section only; lead with operational outcomes | French positioning agent | 2026-03-30 |
+| D42 | EU AI Act positioning | Remove from near-term messaging; compliance story only relevant 2027-2028 | French positioning agent | 2026-03-30 |
+| D43 | Managed service minimum price | €1,200-1,500/month starter tier (single workflow) + €2,000-2,500/month multi-workflow tier | Price floor agent | 2026-03-30 |
+| D44 | First vertical | Professional services (consulting firms, 10-50 employees) over digital agencies/e-commerce | Vertical choice agent | 2026-03-30 |
+
+### Cross-Cutting Tensions Identified
+
+| Assumption | Conflict | Resolution Needed |
+|-----------|----------|-----------------|
+| €2,500 floor (D38) | 20-30 person pilot target (D14) | Tiered pricing offer (D43) |
+| Digital agencies (D13) | Agencies can build their own agents | Professional services first (D44) |
+| Grinto network = Alizé strategy | Proximity ≠ market fit | Network-to-ICP mapping |
+
+*Last updated: 2026-03-30 by pulse cron (Pulse 11)*
