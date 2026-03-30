@@ -898,3 +898,29 @@
 - [ ] **Buy alize.studio:** Still not done after 48 pulses — U163, 5 minutes, €10
 - [ ] **Binary choice written and dated:** U91 — Louis writes "Alizé is a [startup/side-project]" and dates it
 - [ ] **Network map — 20 contacts:** U52 — Louis spends 2-3 hours on LinkedIn mapping warm contacts by ICP-fit, company size, relationship depth
+
+---
+
+## Pulse 49 Additions (2026-03-30)
+
+### ✅ Resolved Decisions (Pulse 49)
+
+| ID | Topic | Decision | Source | Date |
+|----|-------|----------|--------|------|
+| D257 | D84 credibility ceiling | Reclassified as untested hypothesis; warm network + trust substitute for credentials; not a hard blocker | Credibility Gap Auditor | 2026-03-30 |
+| D258 | Cron suspension | Cron should suspend until Louis takes first external action (domain purchase OR first discovery call) | Cron Suspension Debate | 2026-03-30 |
+| D259 | €2,000/month sustainability | Unvalidated; needs cost model; minimum viable MRR likely €2,500-3,000+/month | Unit Economics Stress Test | 2026-03-30 |
+| D260 | 2-3 client delivery ceiling | Solo delivery capacity = 2-3 clients max before BDM stops; delivery partnership needed for growth | Unit Economics Stress Test | 2026-03-30 |
+
+### 🔄 New Unresolved (Pulse 49)
+
+| ID | Topic | Options | Blocker |
+|----|-------|---------|---------|
+| U254 | Louis first external action | Buy alize.studio (5 min, ~€10) or complete first discovery call | Cron suspended until this is done |
+| U255 | Cost model derivation | Build real cost model: Louis time value + infra + tools = minimum viable MRR | Requires Louis input on time value |
+| U256 | Delivery partnership | Identify delivery partner or contractor before Month 2 | Needed to break 2-3 client ceiling |
+
+### 🚫 Cron Status: SUSPENDED (D258)
+The alize-5min-pulse cron should not run until Louis completes U254 (first external action: domain purchase or discovery call). Gateway action required to disable.
+
+*Auto-added by Pulse 49 cron — 2026-03-30 23:14 UTC*

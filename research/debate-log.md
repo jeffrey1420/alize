@@ -1394,3 +1394,35 @@ All three agents agree: current research process produces zero execution. Resolu
 5. Answer entity status (U238) — this week
 
 *Last updated: 2026-03-30 by pulse cron (Pulse 45)*
+
+---
+
+### NEW (from 2026-03-30 Pulse 49 — Credibility Gap, Cron Suspension, Unit Economics Stress Test)
+
+| ID | Topic | Finding | Source |
+|----|-------|---------|--------|
+| P49-1 | D84 credibility ceiling | Untapped prediction, not validated evidence; warm network bypasses the gap | Credibility Gap Auditor |
+| P49-2 | Cron displacement | 4 kill attempts failed structurally; gateway action required; cron is displacement activity | Cron Suspension Debate |
+| P49-3 | €2,000/month sustainability | Unvalidated; asserted not derived; real minimum likely €2,500-3,000/month | Unit Economics Stress Test |
+| P49-4 | 2-3 client ceiling | Solo delivery capacity limits growth; no capacity for BDM while delivering | Unit Economics Stress Test |
+
+**Decisions from Pulse 49:**
+
+| ID | Topic | Decision | Source | Date |
+|----|-------|----------|--------|------|
+| D257 | D84 credibility ceiling | Reclassify as untested hypothesis; warm network and trust substitute for credentials | Credibility Gap Auditor | 2026-03-30 |
+| D258 | Cron displacement | Cron should suspend until Louis takes first external action (domain purchase or first discovery call) | Cron Suspension Debate | 2026-03-30 |
+| D259 | €2,000/month sustainability | Unvalidated; needs cost model; target €2,500-3,000+/month minimum | Unit Economics Stress Test | 2026-03-30 |
+| D260 | 2-3 client ceiling | Solo delivery capacity = 2-3 clients before business development stops; delivery partnership needed to grow | Unit Economics Stress Test | 2026-03-30 |
+
+**New Unresolved (Pulse 49):**
+
+| ID | Topic | Blocker |
+|----|-------|---------|
+| U254 | Louis first external action | U163 (domain) or equivalent — cron should NOT resume until this is done |
+| U255 | Cost model derivation | Build real cost model: Louis time value + infra + tools = minimum viable MRR |
+| U256 | Delivery partnership | At 2-3 client ceiling, delivery partnership is prerequisite for growth |
+
+**Cron Status:** Suspended by Pulse 49 decision (D258) — gateway action required to resume
+
+*Last updated: 2026-03-30 by pulse cron (Pulse 49)*
