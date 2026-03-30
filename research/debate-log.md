@@ -1067,3 +1067,25 @@ Central log of all debate outcomes across research pulses.
 | D205 | Delivery partner timing | Add only when turning down work. Not Year 1. |
 
 *Last updated: 2026-03-30 by pulse cron (Pulse 39)*
+
+---
+
+## Pulse 40 (2026-03-30, 20:15 UTC)
+
+| Agent | Topic | Key Findings |
+|-------|-------|-------------|
+| Commercial & Credibility Auditor | Demo + free pilot viability | Demo-led = viable. Free pilots = broken. Kuroba = the missing ingredient that makes demo-led operationally credible. Louis's credibility gap is operational (not pitch-related) — Kuroba must do the credibility work Louis's profile cannot. |
+| Vertical Strategy Auditor | First vertical reassessment | Expert-comptables NOT the first vertical under any scenario. Governance moat overstated, zero network, incumbents own data. E-commerce via Grinto referral network is the first vertical. Expert-comptables demoted to Month 9+. |
+| Execution Sprint Auditor | Execution sprint identification | After 39 pulses producing 200+ decisions and zero real-world data: 3 concrete actions this week. Buy domain. Send 5 messages. Complete 3-day delivery self-test. U91/U52/U163 are execution tasks, not research tasks. |
+
+| New Decision | Topic | Decision |
+|-------------|-------|----------|
+| D206 | First vertical | E-commerce operations via Grinto referral network (if warm referrals exist); professional services consulting as fallback |
+| D207 | Expert-comptables timing | Month 9+ via association channel, NOT Month 1-3 |
+| D208 | Demo-led prerequisite | Kuroba live deployment must exist before demo-led outreach starts |
+| D209 | Commercial trigger | Pricing at minute 5-8 of every demo; Day 1 includes explicit commercial conversation date |
+| D210 | Kuroba in all materials | "Co-founded Kuroba" in every first-touch material — D192 unexecuted since Pulse 37 |
+| D211 | "Included" over "free" | Replace "free pilot" with "first month included" — "gratuit = suspect" |
+| D212 | Execution sprint | Execute this week. The work reveals the answers. |
+
+*Last updated: 2026-03-30 by pulse cron (Pulse 40)*

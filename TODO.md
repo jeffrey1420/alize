@@ -703,3 +703,45 @@
 - [ ] Expert-comptable vertical: Hard re-evaluation required. Governance gap (D126/D127 contradiction), no network (U123), incumbents with data (Pennylane raised €40M+, Cegid €2B+). Not dead but needs Louis decision.
 - [ ] Delivery partner timing: D205. Not before Louis is turning down work. First delivery partner engagement Month 4-6 at earliest.
 - [ ] Month 1: Map Louis's actual network against ICP. Answer U52 and U123 simultaneously. The network map IS the vertical strategy.
+
+### NEW (from 2026-03-30 Pulse 40 — Vertical Strategy Auditor)
+- [x] **D206 — E-commerce operations as first vertical (conditional):** Primary target if Grinto referral network yields 3-5 e-commerce warm referrals. Workflows: order processing, inventory sync, customer service triage, reporting across Shopify/WooCommerce/Amazon/Cdiscount.
+- [x] **D207 — Expert-comptables deprioritized to Month 9+:** NOT Month 1-3. Association outreach (CSN, AGA) only viable after case studies exist. Remove from near-term planning entirely.
+- [x] **D208 — Professional services as fallback vertical:** If Grinto e-commerce referrals don't materialize, professional services consulting firms (10-50 employees, Île-de-France) are the fallback. Workflows: client reporting, competitive research, proposal generation.
+- [ ] **Month 1: Grinto referral mapping** — Ask Maëli/Gabin which e-commerce clients they serve. Get 3-5 warm referrals. This is the correct execution of D135 ("go where Grinto relationships exist").
+- [ ] **Month 1: Kuroba internal deployment → demo asset** — Kuroba's order/inventory workflow becomes the working demo for e-commerce prospects. D194/D195 in practice.
+- [ ] **Month 1: Define ONE e-commerce pilot workflow** — Options: order processing across platforms, inventory sync, customer service triage, reporting aggregation. Specific, priced, understandable.
+- [ ] **Month 1: Professional services fallback mapping** — If Grinto e-commerce referrals don't materialize, map Louis's business school network for 10-20 consulting firm contacts.
+- [ ] **Kill D126/D145:** Expert-comptables are NOT the first vertical under any scenario. Condition never met, governance moat doesn't hold, incumbents own data.
+- [ ] **Kill D135 as applied to web agencies:** D135 instruction is valid — but correct execution is Grinto-referred e-commerce companies, not external web agency sales (D187 conflict).
+- [ ] **Kill U123 as a gating decision:** Expert-comptables are Month 9+ regardless. U123 no longer gates anything.
+- [ ] **External materials: E-commerce positioning** — Replace "expert-comptables" with "e-commerce operations" in all near-term external materials.
+- [ ] **Sales playbook: E-commerce specific objection handlers** — "we already use [Shopify app]", "our inventory is complex", "our team handles this manually."
+
+### NEW (from 2026-03-30 Pulse 40 — Commercial & Credibility Auditor)
+- [x] **D209 — Demo-led prerequisite:** Demo-led outreach cannot start until a live Kuroba agent deployment exists — a running system, not a prototype. Kuroba is the social proof anchor that makes demo-led credible.
+- [x] **D210 — Kuroba in all materials:** "Co-founded Kuroba web agency" + "we built it for ourselves first" must appear in every first-touch material — LinkedIn outreach, email signature, landing page, pitch deck. D192 unexecuted since Pulse 37.
+- [x] **D211 — "Included" over "free":** Replace all "free pilot" language with "first month included" — same structure, different cultural signal. "Gratuit = suspect" in French PME culture.
+- [x] **D183/D186 (free pilots) KILLED:** Demo → Kuroba proof → explicit Day 1 commercial trigger. No free engagement without a signed commercial conversation date at kickoff.
+- [x] **D191 (credibility applies at every price):** Add to sales training — Louis's profile doesn't close at any price solo. Product (Kuroba deployment) closes. The commercial motion must never rely on Louis's personal credibility.
+- [ ] **Kuroba deployment prerequisite:** Demo-led outreach cannot start until a live Kuroba agent deployment exists — not a prototype, a running system
+- [ ] **All external materials update:** Add "co-founded Kuroba web agency" to every LinkedIn outreach template, email signature, pitch deck, and landing page
+- [ ] **Replace "free" with "included":** All pilot language changes from "free pilot" to "first month included" — same economics, different cultural signal
+- [ ] **Pricing script rehearsal:** D198's pricing-at-minute-5-8 must be rehearsed with a peer before first real demo — not improvised live
+- [ ] **Commercial trigger at Day 1:** Every engagement starts with an explicit commercial conversation date signed at kickoff — not deferred to a post-pilot conversation
+
+### NEW (from 2026-03-30 Pulse 40 — Execution Sprint Auditor)
+- [x] **D212 — Execution sprint:** U91/U52/U163 are execution tasks, not research tasks. Execute this week. The work reveals the answers. More research produces more decisions but zero real-world data.
+- [ ] **TODAY (March 30):** Buy alize.studio — €10, 5 minutes, no research required
+- [ ] **TODAY (March 30):** Send 5 LinkedIn messages to warmest contacts — D197 was supposed to be today, 2+ pulses overdue
+- [ ] **TODAY (March 30):** Start 3-day solo delivery self-test (Slack → Notion ticket triage agent) — U170 gate
+- [ ] **April 1 deadline:** Louis writes "Alizé is a [startup/side-project]" and dates it — D196
+- [ ] **Kill U91 as execution blocker:** Binary choice resolves by evidence from Actions 1-3, not by more debate
+- [ ] **Kill U52 as execution prerequisite:** ICP mapping emerges from outreach, not from spreadsheet analysis before outreach
+- [ ] **Kill U163 as "unresolved":** Buy the domain. Remove from unresolved queue. It's a 5-minute task.
+- [ ] **7-day sprint checklist:**
+  - Mon Mar 30: Buy domain + send 5 messages + start delivery self-test
+  - Tue Mar 31: Continue delivery test, review LinkedIn responses
+  - Wed Apr 1: Complete delivery self-test, binary choice declaration
+  - Thu Apr 2: If test PASSED → scope Kuroba deployment; if FAILED → begin delivery partner search
+  - Fri Apr 3: First discovery call (if scheduled), begin scoping first external pilot
