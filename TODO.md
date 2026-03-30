@@ -807,3 +807,18 @@
 - [ ] **Discovery calls now:** Run 5 discovery calls this week using D226 as the framing. These ARE the positioning refinement mechanism (D235). Not deferred.
 - [ ] **Binary enforcement authority:** Louis must name an enforcement authority this week — someone with authority to follow up on weekly reports and impose real consequences after consecutive failures. If no one can be named, the binary is replaced with a different mechanism.
 - [ ] **Kill Path B from all planning:** Remove downmarket €500-800/month from commercial path discussions. The only remaining paths are Path A (commercial co-founder) or sell direct at €2,000+/month with a named sales-capable person on every call.
+
+### NEW (from 2026-03-30 Pulse 45 — Entity, Process, Kuroba)
+- [x] **D238 — Entity question gates all commercial decisions:** Louis must confirm legal entity status (auto-entrepreneur/SAS/SARL) before any commercial planning. D219's three paths (co-founder, downmarket, channel) all assume a company exists.
+- [x] **D239 — U91 reframed as legal question:** Binary choice (startup vs side-project) is secondary to "can I legally operate Alizé as a separate entity?" — 91-day paralysis may have legal explanation.
+- [x] **D240 — Pulse process permanently killed:** Replace with weekly execution report only. No more research pulses until execution conditions change. D213 suspension failed to stop Pulses 44-45.
+- [x] **D241 — Kuroba internal learning only:** Kuroba deployment is Louis's delivery education, not prospect-facing social proof. Scale gap (2-3 person agency vs 50-person service firm) undermines credibility.
+- [x] **D242 — Scale-matched proof required:** First external pilot must match target ICP size/complexity — not Kuroba. Find a 20-50 person service firm for first external pilot.
+- [ ] **U238 — Louis entity status:** Does Louis have a legal entity capable of signing commercial agreements? Auto-entrepreneur? SAS? None? This gates all commercial activity.
+- [ ] **U239 — Kuroba cooperation:** Will Maëli and Gabin actually share internal workflows for Alizé's internal deployment? Are they comfortable with Louis using Kuroba data in external demos?
+- [ ] **U240 — Scale-matched pilot target:** What 20-50 person service firm could be Louis's first external pilot? Not Kuroba — someone comparable to ICP.
+- [ ] **U241 — Pulse process termination:** Confirm no more research pulses. Replace with: Louis sends weekly 5-sentence execution report. No agents, no debates, no decisions.
+- [ ] **Kill all "urgency" framing:** D82/D76 "3-6 month window" and "6-18 month window" removed from all materials. The window is Louis's capacity, not a market event.
+- [ ] **Kill Kuroba as social proof:** Until U239 (cooperation) and U240 (scale match) are resolved, Kuroba does not appear in any external-facing material.
+- [ ] **Domain purchase (U163):** Still not done after 45 pulses. Buy alize.studio — €10, 5 minutes. Gates email and website credibility.
+- [ ] **Binary choice (U91):** Kill as research task. Replace with legal entity confirmation (U238) — if Louis has a company, Alizé can proceed; if not, form one first.
