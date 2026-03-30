@@ -794,3 +794,16 @@
 - [ ] **Kill positioning refinement until first pilot evidence:** Do not write another positioning document. Write a scope document for the first pilot. The positioning becomes clear once there is evidence of what actually works. Current positioning drift is a symptom of undefined product/market fit, not a solvable positioning problem.
 - [ ] **U77 addressed:** The positioning rewrite task is partially resolved — the ONE sentence exists (D230). The execution (Louis writing the actual hero) is still pending. The blocking issue is not writing skill; it's that no one knows if the underlying claim is true yet.
 - [ ] **D75 executed:** "Delegation with accountability" has been replaced with concrete task/outcome language in D230. The concrete alternative is now available for all external materials.
+
+### NEW (from 2026-03-30 Pulse 44 — Downmarket, Evidence Loop, Binary Accountability)
+- [x] **D232 — Downmarket path KILLED (D219 Path B):** €500-800/month is not viable — unit economics fail at 25+ clients, sales cycles don't compress proportionally, worse competitive position vs Agentova at lower price. D219 Path B is dead.
+- [x] **D233 — Path to proof cases:** One excellent reference client at original price point, not volume at lower price. Stay at €2,000+/month and land one excellent client with specific measurable outcomes.
+- [x] **D234 — D227 scope NARROWED:** Only quantified ROI claims require pilot evidence. Category (levels 2-4: ICP, differentiator, problem framing) can proceed now. D227's broader pause was unjustified.
+- [x] **D235 — Discovery calls as refinement:** Treat discovery calls as the positioning refinement mechanism, not as deferred until positioning is "ready." Run 5 calls using D226 as working hypothesis, update after feedback.
+- [x] **D236 — Binary needs structural fixes:** The behavioral binary (D221/D223) needs: (1) named enforcement authority with follow-up commitment, (2) escalating visible consequences after consecutive failures, (3) prospective delivery definition agreed before the week starts.
+- [x] **D237 — Binary without fixes = theater:** Without D236's fixes, the binary is documentation theater — will produce 43+ more weeks of failure reports.
+- [ ] **Commercial path update:** D219 had 3 paths — Path A (commercial co-founder) is the only viable remaining option. Path B (downmarket) is killed (D232). Path C (channel partner) is reframed as ICP client targeting (D225).
+- [ ] **D227 replacement:** Narrow D227 to only quantified ROI claims. Resume positioning work at levels 2-4 (ICP, differentiator, problem framing) using D226 as working hypothesis.
+- [ ] **Discovery calls now:** Run 5 discovery calls this week using D226 as the framing. These ARE the positioning refinement mechanism (D235). Not deferred.
+- [ ] **Binary enforcement authority:** Louis must name an enforcement authority this week — someone with authority to follow up on weekly reports and impose real consequences after consecutive failures. If no one can be named, the binary is replaced with a different mechanism.
+- [ ] **Kill Path B from all planning:** Remove downmarket €500-800/month from commercial path discussions. The only remaining paths are Path A (commercial co-founder) or sell direct at €2,000+/month with a named sales-capable person on every call.

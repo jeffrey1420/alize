@@ -1194,5 +1194,37 @@ Pulse 42 suspension criteria STILL NOT MET:
 - U91 (binary choice): NOT DONE
 - U52 (network map): NOT DONE
 
-*Last updated: 2026-03-30 by pulse cron (Pulse 43)*
+---
+
+## Pulse 44 (2026-03-30 — 21:18 UTC)
+
+| Agent | Topic | Key Findings |
+|-------|-------|-------------|
+| Downmarket Auditor | D219 Path B viability | Kill Path B (€500-800/month). Unit economics fail at 25+ clients; sales cycles don't compress proportionally; worse competitive position vs Agentova at lower price. ICP can afford but not justify more easily than €2,000/month. |
+| Evidence Loop Auditor | D227 circularity | D227's scope too broad. Only quantified ROI claims (level 1) and reference quotes (level 5) require pilot evidence. Category, differentiator, problem framing (levels 2-4) can proceed now. Sales conversations ARE the refinement mechanism, not the obstacle. |
+| Binary Accountability Auditor | D221/D223 teeth | Structural improvement over D196 but inherits same enforcement gap. 6 hours measurable but self-reported without authority. "Delivery" undefined and self-certified. Opt-out takes 5 seconds. Binary is documentation theater without named enforcement + escalating consequences. |
+
+### New Decisions (Pulse 44)
+
+| ID | Topic | Decision | Source |
+|----|-------|----------|--------|
+| D232 | Downmarket path (D219 Path B) | KILLED — unit economics fail, competitive position worsens, sales cycles don't compress | Downmarket auditor |
+| D233 | Path to proof cases | One excellent reference client at original price point, not volume at lower price | Downmarket auditor |
+| D234 | D227 scope | Narrow to only quantified ROI claims; positioning at levels 2-4 can proceed now | Evidence loop auditor |
+| D235 | Discovery calls | Treat as positioning refinement mechanism, not deferred until "ready" | Evidence loop auditor |
+| D236 | Binary teeth | Needs named enforcement authority + escalating visible consequences + prospective delivery definition | Binary accountability auditor |
+| D237 | Binary without fixes | Documentation theater — will produce 43 more weeks of failure reports | Binary accountability auditor |
+
+### Pulse 44 Kill List
+- D219 Path B: downmarket to €500-800/month (D232)
+- D227's broad scope — replaced with narrow claim (D234)
+- Behavioral binary as currently structured — needs structural fixes (D236)
+
+### Suspension Status
+Pulse 42 suspension criteria STILL NOT MET after 44 pulses:
+- U163 (domain): NOT DONE — 44 consecutive pulses
+- U91 (binary choice): NOT DONE — 91+ days
+- U52 (network map): NOT DONE — 44 consecutive pulses
+
+*Last updated: 2026-03-30 by pulse cron (Pulse 44)*
 
