@@ -758,3 +758,19 @@
   - Wed Apr 1: Complete delivery self-test, binary choice declaration
   - Thu Apr 2: If test PASSED → scope Kuroba deployment; if FAILED → begin delivery partner search
   - Fri Apr 3: First discovery call (if scheduled), begin scoping first external pilot
+
+### NEW (from 2026-03-30 Pulse 42 — Commercial, Binary Choice, Kuroba)
+- [x] **D219 — Commercial model structurally broken:** Requires fix before continued investment — senior commercial co-founder OR downmarket repositioning (€500-800/mo) OR channel partnership. Current model incompatible with Louis's credentials at €2,000+/month.
+- [x] **D220 — Kuroba deployment scope redefined:** Build "service firm client communication automation" demo, NOT e-commerce operations. Kuroba tests web agency workflows. Demo must match what it claims to prove.
+- [x] **D221 — Binary choice replaced:** Replace D196 "Alizé is a [startup/side-project]" with behavioral binary: Choice A = 6+ hours + one concrete delivery this week. Choice B = explicitly opt out.
+- [x] **D222 — D196 deprecated:** April 1 deadline has no mechanism, no accountability, no enforcement. Replaced by behavioral weekly commitment tracker.
+- [x] **D223 — D91 restructured:** 25 hrs/week commitment failing for 91 days. Replaced with: Louis tracks actual hours weekly, commits to one concrete delivery per week. If zero deliveries two consecutive weeks, Alizé defaults to dormant.
+- [ ] **Commercial structure decision:** Louis must choose path A (commercial co-founder), B (downmarket €500-800/month), or C (channel partner) before next commercial outreach attempt. This gates all GTM decisions.
+- [ ] **Kuroba deployment scope document:** One sentence: what does Louis build, what does it demo, who would it convert? Write it before building.
+- [ ] **Weekly commitment tracker:** Every Sunday, Louis reports: hours spent + one concrete delivery. Shared with advisor/peer for accountability.
+- [ ] **Kill D196:** Remove "April 1 deadline" from all tracking. Replace with behavioral binary tracker.
+- [ ] **Kill current commercial model:** D219 confirms it's structurally incompatible. Do not pursue €2,000+/month outreach until commercial structure is fixed.
+- [ ] **Kill Kuroba as e-commerce demo:** D220. Kuroba only demos service firm client communications, not e-commerce ops.
+- [ ] **U163 domain:** Still not done after 42 pulses. Buy alize.studio.
+- [ ] **U52 network map:** Still not done after 42 pulses. 20 names required.
+- [ ] **U91 behavioral binary:** Replace "Alizé is a [startup/side-project]" with weekly behavioral reporting. First report due Sunday March 30.

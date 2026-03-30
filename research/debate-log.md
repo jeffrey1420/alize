@@ -1129,3 +1129,38 @@ Central log of all debate outcomes across research pulses.
 **After 41 pulses, the most important finding is meta-level:** The research process has been generating decisions faster than Louis can act on them. Three Day 1 blockers (domain, binary choice, network map) are still undone. The minimum sufficient decisions for outreach are already resolved. The gap is execution. The next meaningful pulse (if any) produces LinkedIn message templates Louis sends today — not another decision document.
 
 *Last updated: 2026-03-30 by pulse cron (Pulse 41)*
+
+---
+
+## Pulse 42 (2026-03-30 — 20:50 UTC)
+
+| Agent | Topic | Key Findings |
+|-------|-------|-------------|
+| Commercial Viability Auditor | Alizé current model viability | Structurally broken — €2,000-5,500/month requires enterprise trust Louis doesn't have; demo motion solves first contact not closing; three-body problem (discovery + demo + close) consumes all time; flywheel can't spin from zero clients |
+| Binary Choice Auditor | D196/D91 forcing functions | Binary is theater not decision — neither label changes execution; April 1 deadline has no mechanism; D91 failing 91 days with U91 unresolved 40+ pulses; replace with behavioral binary (6+ hrs + delivery vs explicit opt-out) |
+| Kuroba Deployment Auditor (from Pulse 41) | Kuroba as demo/social proof asset | Kuroba tests web agency workflows, NOT e-commerce ops; D206 = D135 recycled (Grinto conflict); Kuroba demo only converts service firms, not e-commerce companies |
+
+### New Decisions (Pulse 42)
+
+| ID | Topic | Decision | Source | Date |
+|----|-------|----------|--------|------|
+| D219 | Commercial model | Structurally flawed — requires senior commercial co-founder OR downmarket repositioning OR channel partnership before continued commercial investment | Commercial auditor | 2026-03-30 |
+| D220 | Kuroba deployment scope | Define as "service firm client communication automation" not "e-commerce operations" — demo must match claimed vertical | Kuroba auditor | 2026-03-30 |
+| D221 | Binary choice replacement | Replace identity binary (startup/side-project) with behavioral binary (6+ hours + delivery vs explicit opt-out) | Binary choice auditor | 2026-03-30 |
+| D222 | D196 deprecated | April 1 deadline without mechanism — replace with behavioral commitment tracker | Binary choice auditor | 2026-03-30 |
+| D223 | D91 restructured | 25 hrs/week commitment replaced with realistic weekly hour tracking + weekly delivery commitment | Binary choice auditor | 2026-03-30 |
+
+### Pulse 42 Kill List
+- D196 (April 1 deadline as forcing function)
+- D91 (25 hrs/week as written, since it has been failing for 91 days)
+- Current commercial model (structurally incompatible with Louis's credentials without co-founder)
+- Kuroba as e-commerce demo (tests wrong workflows)
+
+### Suspension Declaration
+**Per D213, pulse process is suspended until:**
+1. U163 (domain receipt) — screenshot uploaded
+2. U91 behavioral binary declared — written and dated  
+3. U52 (network map) — 20 names with company, size, relationship depth, ICP fit
+
+*Last updated: 2026-03-30 by pulse cron (Pulse 42)*
+
