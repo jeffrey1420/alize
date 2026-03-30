@@ -403,7 +403,7 @@ Central log of all debate outcomes across research pulses.
 | U84 | Contractor lock-in mechanism | How to keep playbook internal if contractors are needed to deliver |
 | U85 | Switching cost architecture | What makes leaving Alizé painful for a client — must define before first pilot scope |
 
-*Last updated: 2026-03-30 by pulse cron (Pulse 20)*
+*Last updated: 2026-03-30 by pulse cron (Pulse 21)*
 
 ## Pulse 20 (2026-03-30 — 15:05 UTC)
 
@@ -432,3 +432,53 @@ Central log of all debate outcomes across research pulses.
 | U88 | Network ICP mapping | U52 still unresolved — gates all GTM and vertical decisions |
 | U89 | Louis's committed Alizé hours | Must be quantified — gates capacity planning |
 | U90 | Second workflow | Should have data compounding potential — not yet defined |
+
+
+## Pulse 21 (2026-03-30 — 15:22-15:30 UTC)
+
+| Agent | Topic | Key Findings |
+|-------|-------|-------------|
+| Capacity Crisis Strategist | Louis hours/planning | U89 is not unresolved — it is a structural contradiction; Louis has ~56-62 hrs/week after M1 + Grinto + web agency; Month 1 demand is 160-245 hrs; plan is physically impossible; D88 moat is a person not a system |
+| Competitive Threat Strategist | Microsoft Copilot threat | Agentova framing rejected; Copilot is category validator + long-term risk not immediate displacement; Alizé wins if positioning is cross-system workflow automation + governance, not "AI for Microsoft tools" |
+| First-Pilot Strategist | Internal vs external pilot | First deployment should be internal "delivery rehearsal" not external client pilot; separate the two objectives; web agency is cleanest internal target; external client pilot in Month 2 |
+
+### New Decisions (Pulse 21)
+
+| ID | Topic | Decision | Source | Date |
+|----|-------|----------|--------|------|
+| D89 | Playbook co-authorship | Minimum two contributors by Month 2 (Louis + delivery partner) | Capacity agent | 2026-03-30 |
+| D90 | Commercial layer gates outreach | Warm outreach blocked until closing-capable person exists | Capacity agent | 2026-03-30 |
+| D91 | Alizé hours commitment gate | 25+ hrs/week by Month 1 Week 3 or plan restated as side-project | Capacity agent | 2026-03-30 |
+| D92 | U89 is a forcing function | Gates all decisions, not a data-gathering task | Capacity agent | 2026-03-30 |
+| D93 | Kill parallel-track framing | U86 and U89 are prerequisites; U87/U88/U90 are parallel | Capacity agent | 2026-03-30 |
+| D94 | Remove Agentova from competitive framing | Non-overlapping; risks buyer confusion | Copilot agent | 2026-03-30 |
+| D95 | Name Microsoft in sales playbook | Objection handler required before first pilot | Copilot agent | 2026-03-30 |
+| D96 | Do NOT name Microsoft externally | Define category precisely; Copilot implicitly excluded | Copilot agent | 2026-03-30 |
+| D97 | ICP narrowing option | Consider regulated industries where Copilot governance gaps disqualify | Copilot agent | 2026-03-30 |
+| D98 | Microsoft partnership evaluation | Copilot Studio as platform/reseller — requires evaluation | Copilot agent | 2026-03-30 |
+| D99 | First deployment = delivery rehearsal | NOT a client pilot; objectives separated | First-pilot agent | 2026-03-30 |
+| D100 | Internal pilot target = web agency | Maëli/Gabin web agency for Month 1 rehearsal | First-pilot agent | 2026-03-30 |
+| D101 | External pilot = Month 2 | After measurable outcomes from internal rehearsal | First-pilot agent | 2026-03-30 |
+| D102 | Internal pilot hard deadline | 4 weeks maximum | First-pilot agent | 2026-03-30 |
+| D103 | Internal case study = internal use only | External sales requires third-party reference | First-pilot agent | 2026-03-30 |
+
+### New Unresolved (Pulse 21)
+
+| ID | Topic | Blocker |
+|----|-------|---------|
+| U91 | Louis actual weekly hours | Exact Grinto, web agency, M1 hours — not estimates |
+| U92 | Playbook authorship model | Sole vs co-author; determines if D88 moat is real |
+| U93 | Commercial layer timeline | By what date is U86 resolved? Fallback if not? |
+| U94 | Grinto exit timeline | Notice period? Minimum hours? Formal reduction date? |
+| U95 | Web agency Alizé conflict | Does web agency compete with Alizé target clients? |
+| U97 | Microsoft vs Workspace split | % of ICP on Microsoft 365 vs Google Workspace |
+| U98 | Copilot adoption rate | Q1 2026 French PME adoption — not anecdotal |
+| U99 | Copilot Studio threat | Does MS partner ecosystem deliver governed agents? |
+| U100 | Copilot workflow coverage | What % of Alizé use cases can Copilot execute today? |
+| U101 | Regulated industry wedge | Where are Copilot governance gaps disqualifying? |
+| U102 | Buyer willingness vs Copilot | Willingness to pay €800-1,500 when Copilot exists? |
+| U103 | "Why not Copilot + consultant?" | Does Alizé have a credible answer? |
+| U104 | Delivery rehearsal size constraint | Does D14/D82 size constraint apply to internal rehearsal? |
+| U105 | Internal pilot success criteria | What outcomes justify Month 2 external push? |
+| U106 | Social proof bridge | How to bridge from internal to external credibility? |
+

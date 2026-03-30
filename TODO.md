@@ -351,3 +351,41 @@
 - [ ] BRIEF.md: Update moat section with D85/D88 — delivery playbook IS the technical asset, benchmark infrastructure from Day 1
 - [ ] External materials: Remove all "professional services first" language until U52 is resolved; use "back-office admin AI" without sector constraint
 - [ ] GTM planning: Do not commit to professional services vertical outreach until network ICP mapping (U52) is complete
+
+### NEW (from 2026-03-30 Pulse 21 — Capacity Crisis, Copilot Threat, First-Pilot Profile)
+- [x] **D89 — Playbook co-authorship:** Minimum two contributors by Month 2 (Louis + delivery partner). Sole authorship is not acceptable given D88 moat framing.
+- [x] **D90 — Commercial layer gates outreach:** Month 1 warm outreach blocked until closing-capable person exists. Louis can schedule, but commercial-closer must be on any call expected to convert.
+- [x] **D91 — Alizé hours commitment gate:** By Month 1 Week 2, Louis must formally commit 25+ Alizé hours/week. If not achievable by Week 3, plan restates as side-project (1-2 pilots Year 1), not execution plan.
+- [x] **D92 — U89 treated as forcing function:** Not a data-gathering task — structural constraint that gates all other decisions.
+- [x] **D93 — Kill parallel-track framing:** U86 (commercial co-founder) and U89 (Louis hours) are prerequisites. U87, U88, U90 are information tasks that proceed in parallel.
+- [x] **D94 — Remove Agentova from competitive framing:** Non-overlapping segment; risks buyer confusion about who Alizé competes against.
+- [x] **D95 — Name Microsoft in sales playbook:** Every PME conversation includes "why not Copilot?" Objection handler required before first pilot is closed.
+- [x] **D96 — Do NOT name Microsoft externally:** Define category precisely so Copilot is implicitly excluded. Name Microsoft only in sales playbook objection handling.
+- [x] **D97 — ICP narrowing option:** Consider narrowing to regulated industries (legal, healthcare admin, finance) where Copilot governance gaps are disqualifying. Reduces TAM but creates defensible moat.
+- [x] **D98 — Microsoft partnership evaluation:** Should Alizé evaluate Copilot Studio as platform/reseller rather than pure competitor?
+- [x] **D99 — First deployment = delivery rehearsal:** Month 1 deployment is NOT a client pilot. Objectives are separated: internal delivery rehearsal vs. external client acquisition.
+- [x] **D100 — Internal pilot target = web agency:** Maëli/Gabin web agency for Month 1 delivery rehearsal — no conflict, Louis owns all output.
+- [x] **D101 — External pilot = Month 2:** First external paying client pilot targets Month 2 — after delivery rehearsal produces measurable outcomes.
+- [x] **D102 — Internal pilot hard deadline:** 4 weeks maximum. If outcomes not measurable by Week 4, reassess before external client pursuit.
+- [x] **D103 — Internal case study = internal use only:** External sales materials require third-party reference client. Delivery rehearsal documentation is not social proof.
+- [ ] **U91 — Louis actual weekly hours:** Exact Grinto hours, web agency hours, M1 hours — not estimates; must include fallback plans for each.
+- [ ] **U92 — Playbook authorship model:** Is Louis sole author or delivery partner co-author? Determines if D88 moat is a system or a dependency.
+- [ ] **U93 — Commercial layer timeline:** By what date is U86 resolved? Fallback if not secured by Month 1 Week 2?
+- [ ] **U94 — Grinto exit timeline:** Contractual notice period? Minimum hours to maintain relationship? Formal reduction date?
+- [ ] **U95 — Web agency Alizé conflict:** Does web agency compete with Alizé's target clients? What happens when a web agency client needs AI agents?
+- [ ] **U97 — Microsoft vs Workspace split:** What % of ICP (50-250 employee French PME) uses Microsoft 365 vs Google Workspace?
+- [ ] **U98 — Copilot adoption rate:** Actual Q1 2026 French PME Copilot adoption — not anecdotal.
+- [ ] **U99 — Copilot Studio threat:** Does Microsoft's partner ecosystem (French ESNs) use Copilot Studio to deliver governed agent deployments in Alizé's territory?
+- [ ] **U100 — Copilot workflow coverage:** What % of Alizé's proposed use cases can Copilot actually execute today in 2026?
+- [ ] **U101 — Regulated industry wedge:** Is there a segment (legal, healthcare, finance) where Copilot's governance gaps are disqualifying enough to justify Alizé's premium?
+- [ ] **U102 — Buyer willingness to pay vs Copilot:** Willingness to pay €800-1,500/month when Copilot at €30/user already exists? No primary research conducted.
+- [ ] **U103 — "Why not Copilot + consultant?":** Does Alizé's managed service model have a credible answer to this specific alternative?
+- [ ] **U104 — Delivery rehearsal size constraint:** Does D14/D82's "20-30 person company" size constraint apply to internal delivery rehearsal, or is the web agency's 2-3 person scale acceptable for internal learning?
+- [ ] **U105 — Internal pilot success criteria:** What measurable outcomes must the delivery rehearsal produce to justify Month 2 external push?
+- [ ] **U106 — Social proof bridge:** How does Louis bridge from "internal delivery rehearsal" to "credible enough for external paying client"? Third-party credibility gap remains.
+- [ ] Month 1 Week 1: Louis formally audits his actual weekly hours across all commitments (exact numbers, not estimates)
+- [ ] Month 1 Week 2: Identify closing-capable commercial partner OR explicitly restate Alizé as side-project plan
+- [ ] Month 1: Begin internal delivery rehearsal with web agency (Maëli/Gabin) — clearly scoped as rehearsal, not client pilot
+- [ ] Month 1: Draft "vs. Copilot" objection handler for sales playbook before any pilot outreach
+- [ ] External materials: Remove all Agentova comparisons; define Alizé's category without naming competitors
+- [ ] BRIEF.md: Update competitive section — replace Agentova framing with cross-system workflow automation + governance framing; add Microsoft as named competitive consideration in internal planning docs
