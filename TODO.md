@@ -599,3 +599,15 @@
 - [ ] **D157 DOUBTED:** Pricing consistency — D110 (€1,500 pilot) and D72 (€7,500 warm) cannot both be true. Pilot fee needs €5,000-7,500 minimum based on unit economics.
 - [ ] Month 1 Week 1: Buy domain (U163), track hours (U162), make binary choice (U161), send 5 outreach messages (U164), define one-sentence workflow (U165)
 - [ ] Month 1: Do NOT run any more research pulses until at least one of the three exit conditions is met (U91+U52 cleared, 5 discovery calls, or side-project declaration)
+
+### NEW (from 2026-03-30 Pulse 33 — Structural Challenges)
+- [x] **D170 — Delivery partner NOT a pilot 1 blocker:** Louis delivers Pilot 1 solo; contractor enters Month 2+ with documented playbook. Delivery partner is a scalability tool, not a scoping tool.
+- [x] **D171 — Delivery partner role redefined:** Not a scoping helper — a playbook executor with real delivery data from Pilot 1.
+- [x] **D172 — GTM motion revised:** Productized fixed-fee project (€1,500 flat, specific workflow, 2-week delivery) replaces warm outreach as primary Year 1 revenue source.
+- [x] **D173 — Warm referrals only AFTER delivery:** Warm outreach is a planning artifact, not a sales motion. Client-vouched referrals (post-delivery) are the real warm play.
+- [x] **D174 — Pricing architecture redesigned:** Kill pilot fee. FREE pilot + proof-period monthly (€1,200-1,500/month month 1-3, €1,800-2,500/month after). Pilot loss accepted as CAC.
+- [x] **D175 — Proof before pricing:** Variable is not price but proof. Build one working agent first, then price against demonstrated value.
+- [ ] **U170 — Louis solo delivery capability:** Does Louis actually have the technical skill to deliver Pilot 1 solo? Self-assessment needed.
+- [ ] **U171 — Productized offer definition:** What is the specific €1,500 fixed-fee workflow Louis will offer first?
+- [ ] **U172 — ICP target list:** Which 20 companies does Louis email in the 2-week sprint?
+- [ ] **U173 — Proof standard:** What does the buyer need to SEE before paying €1,500/month? (Answer: a working agent doing the actual task)

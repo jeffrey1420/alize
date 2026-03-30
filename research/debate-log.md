@@ -860,3 +860,59 @@ Central log of all debate outcomes across research pulses.
 | 2026-03-30 evening | Post-Pulse-31 State Assessment | BRIEF.md pricing structurally below cost-plus across all tiers; 50+ U-items in TODO.md — 7 are Louis personal actions, 4 are genuine research, 39 are downstream of the 7; pulse process correctly suspended; single most important unresolved research question = U102 (WTP vs Copilot survey) |
 
 *Last updated: 2026-03-30 by pulse cron (Pulse 32)*
+
+---
+
+## Pulse 33 (2026-03-30 — 18:37 UTC)
+
+| Agent | Topic | Key Findings |
+|-------|-------|-------------|
+| Delivery Architect | Delivery partner assumption | D16 challenged — delivery partner is NOT a precondition for pilot 1; Louis delivers solo, contractor enters Month 2+ with documented playbook; delivery partner was designed for complex workflows, not standardized digital agency pilots |
+| GTM Auditor | Warm network as primary channel | D26 challenged — warm ≠ easy (reply rate vs close rate conflated); Louis's network probably doesn't match ICP (digital/e-commerce vs professional services); zero outreach after 32 pulses = behavioral evidence; "Month 2+ cold outbound" has no case studies to support it |
+| Pricing Architect | Pricing architecture (pilot+retainer) | Structural assumption challenged — pilot+retainer model demands trust Louis hasn't earned; Louis pricing below cost without knowing it; variable is not price but proof; alternative models evaluated: day-rate, success fee, hybrid |
+
+### Decisions from Pulse 33
+
+| ID | Topic | Decision | Source | Date |
+|----|-------|----------|--------|------|
+| D170 | Delivery partner timing | Louis delivers Pilot 1 solo; contractor enters Month 2+ with documented playbook | Delivery Architect | 2026-03-30 |
+| D171 | Delivery partner role | Not a scoping helper — a playbook executor with real delivery data | Delivery Architect | 2026-03-30 |
+| D172 | GTM motion | Productized fixed-fee project (€1,500 flat, specific workflow, 2-week delivery) as primary Year 1 revenue source | GTM Auditor | 2026-03-30 |
+| D173 | GTM motion | Warm referrals only AFTER delivery; not before. Warm outreach is a planning artifact, not a sales motion | GTM Auditor | 2026-03-30 |
+| D174 | Pricing architecture | Kill pilot fee; FREE pilot + proof-period monthly (€1,200-1,500/month month 1-3, €1,800-2,500/month after) | Pricing Architect | 2026-03-30 |
+| D175 | Pricing priority | Proof before pricing — build one working agent first, then price against demonstrated value | Pricing Architect | 2026-03-30 |
+
+### Unresolved from Pulse 33
+
+| ID | Topic | Blocker |
+|----|-------|---------|
+| U170 | Louis delivery solo | Does Louis actually have the technical capability to deliver pilot 1 solo? Needs self-assessment |
+| U171 | Productized offer definition | What is the specific €1,500 fixed-fee workflow Louis will offer? |
+| U172 | ICP target list | Which 20 companies does Louis email in the first sprint? |
+| U173 | Pricing proof | What does the buyer need to SEE before paying €1,500/month? (Answer: a working agent) |
+
+### Debate Log Summary
+
+| Date | Debates | Key Outcomes |
+|------|---------|-------------|
+| 2026-03-30 AM | Pricing, Competitive, GTM (partial) | Diagnostic €490 questioned; per-agent pricing challenged; platform giants as primary threats; workflow-tier proposed |
+| 2026-03-30 | Technical, Vertical, Revenue (full) | Architecture overengineered; horizontal stretched; MCP demoted; ETI aspirational |
+| 2026-03-30 midday | Landing page, GTM scalability, Differentiation | Hero wrong; network math unrealistic; vertical depth = moat |
+| 2026-03-30 late | Managed service, Tech stack, Mistral threat | "Managed service" = liability headline; MCP = infrastructure; Mistral is 2027-2028 |
+| 2026-03-30 midday | Positioning, MVP scope, Diagnostic pricing | "AI employee" framing = French labor/political liability; runtime spike = backwards; diagnostic = free lead gen |
+| 2026-03-30 midday | Delivery, Tooling, Model identity | Louis can't solo-deliver; n8n over Make.com; productized consulting identity; €2,000-2,500/month minimum |
+| 2026-03-30 afternoon | Positioning, Pricing, Vertical | Sovereignty framing = weakness; tiered pricing; professional services over agencies (buy-vs-build problem) |
+| 2026-03-30 midday | GTM Readiness, Delivery Stack, Delivery Partner | Cold outbound needs 4 hard blockers; n8n MCP is beta-not-stable; Gabin-first delivery partner strategy; success-fee contracting model |
+| 2026-03-30 afternoon | Conversion, Lock-in, Website | Kill "no lock-in" externally; staged payment replaces 50% refund; website gates cold outbound not warm; commitment tier introduced |
+| 2026-03-30 afternoon | GTM Limits, Delivery Risk, Pilot Pricing | Warm network = Month 1-3 only ceiling; Louis cannot solo-deliver; €4,500 pilot doesn't cover delivery costs; 12-month commitment unsellable Year 1 |
+| 2026-03-30 late | Pilot Pricing, Vertical Wedge, Delivery Readiness | €1,500/2-week diagnostic; expert-comptables as first vertical; simulated delivery rehearsal |
+| 2026-03-30 late | Copilot, GTM Paradox, Identity | D96 reversed; warm network demoted; "AI operations company" identity rejected |
+| 2026-03-30 | Expert-Comptables Vertical, Malt Channel, Commercial Layer | D126 modified; Malt deprioritized as primary; U86 reframed with tiered commercial capability |
+| 2026-03-30 | WTP vs Copilot, Louis Hours, Category Framing | "Copilot isn't enough" replaces "additive"; U91 is decision not data; "service firm" rejected for outside-in framing |
+| 2026-03-30 | Vertical Thesis, Pricing Architecture, GTM Velocity | Expert-comptable vertical CONDITIONAL on network validation; diagnostic becomes FREE + €490 credit; cold outbound window is 2-3 months not 3-6; "window" reframed as capacity constraint |
+| 2026-03-30 | Pricing, Category, Window Challenges | D148/D149/D150 all challenged; "regulated SMEs" killed; cold outbound timeline corrected; "window" language killed |
+| 2026-03-30 | Process Exit, Unit Economics, Execution Roadmap | Pulse process SUSPENDED; €2,000/month VIABILITY DOUBTED; binary choice (startup vs side-project) unblocks everything; domain purchase is only true Day 1 blocker |
+| 2026-03-30 evening | Post-Pulse-31 State Assessment | BRIEF.md pricing structurally below cost-plus; 50+ U-items — 7 Louis personal actions, 4 genuine research, 39 downstream; pulse correctly suspended |
+| 2026-03-30 evening | Delivery, GTM, Pricing Architecture | D16 revised (delivery partner not pilot 1 blocker); D26 challenged (warm network = planning artifact); pilot+retainer model structurally broken; proof-first pricing recommended |
+
+*Last updated: 2026-03-30 by pulse cron (Pulse 33)*
