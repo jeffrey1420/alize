@@ -290,6 +290,14 @@
 - [ ] Revalidate pilot fee: €7,500 warm network (D72 recommendation), not €6,500
 - [ ] Month 3: Define Month 4-6 bridge channels based on what the first pilot actually taught
 
+### NEW (from 2026-03-30 Pulse 17 — Louis Role, Delivery Economics, Positioning)
+- [ ] **D74 — Louis sales role:** Louis should NOT solo-close warm network deals — Grinto conflict of interest + no sales skills + LinkedIn DM wrong format. Needs sales partner or scope reduction.
+- [ ] **D75 — Positioning language:** Replace "delegation with accountability" with concrete task/outcome language — current framing is buzzword soup that means nothing to DG buyers.
+- [ ] **U75 — Louis actual role:** Is Louis a technical co-founder only, or does he also do sales? Explicit decision before outreach starts.
+- [ ] **U76 — Pilot price:** €7,500 too tight at 12 delivery days. Consider €10-12,500 or accept first 2 pilots as pure CAC.
+- [ ] **U77 — Positioning rewrite:** Who rewrites Alizé's external messaging? Needs someone who can translate "delegation with accountability" into concrete task/outcome language.
+- [ ] **U78 — Sales partner:** Is there a sales-focused person to involve in Month 1 outreach alongside Louis?
+
 ### NEW (from 2026-03-30 Pulse 16 — Governance, Economics, Vertical Frame)
 - [ ] **D72 — Warm network pilot fee:** €7,500 recommended. At 10 delivery days, margin ~€1,500. At 12 days, break-even. Above 12 days, Alizé loses money.
 - [ ] **D73 — Louis time cost:** Explicitly price Louis's involvement at €200/day opportunity cost in pilot economics. First 1-2 pilots may be €1,000-2,000 loss — acceptable as CAC.

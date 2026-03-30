@@ -263,7 +263,7 @@ Central log of all debate outcomes across research pulses.
 | U50 | Pre-payment model | Should Alize ask for 3 months pre-paid? Improves cash position but may increase friction. |
 | U51 | Warm outreach materials | Does Louis have pitch deck, scope template, pilot one-pager ready for warm outreach? This is the real first blocker. |
 
-*Last updated: 2026-03-30 by pulse cron (Pulse 16)*
+*Last updated: 2026-03-30 by pulse cron (Pulse 17)*
 
 ## Pulse 15 (2026-03-30 — 13:32 UTC)
 
@@ -324,4 +324,30 @@ Central log of all debate outcomes across research pulses.
 | U72 | First pilots as CAC | Accept first 1-2 pilots lose €1,000-2,000 as customer acquisition investment |
 | U73 | Vertical-first vs workflow-first | Workflow-first more honest at Year 1; vertical emerges from delivery evidence |
 | U74 | Alizé's actual unfair advantage | Repeatable deployment system + French tool integrations, not vertical knowledge depth |
+## Pulse 17 (2026-03-30 — 14:17 UTC)
+
+| Agent | Topic | Key Findings |
+|-------|-------|-------------|
+| GTM Challenger | Louis as sales closer | Louis cannot credibly close €7,500 deals at DG level — Grinto conflict of interest, no sales skills, LinkedIn DM wrong format for price point, time math doesn't work |
+| Delivery Economics | Unit economics | €7,500 pilot = €100-800 margin at 12 days; adversity = immediate loss; €10-12,500 or first-pilots-as-CAC needed |
+| Positioning Challenger | Buzzword compliance | "Delegation with accountability" = meaningless corporate language; replace with task-specific outcome language |
+
+### New Decisions (Pulse 17)
+
+| ID | Topic | Decision | Source | Date |
+|----|-------|----------|--------|------|
+| D74 | Louis sales role | Louis should NOT solo-close warm network deals — too many conflicts; needs sales partner or reduced scope | GTM agent | 2026-03-30 |
+| D75 | Positioning language | Replace "delegation with accountability" with concrete task/outcome language | Positioning agent | 2026-03-30 |
+
+### New Unresolved (Pulse 17)
+
+| ID | Topic | Blocker |
+|----|-------|---------|
+| U75 | Louis actual role | Technical co-founder only, or also sales? Explicit decision needed before outreach starts |
+| U76 | Pilot price revision | €7,500 math too tight; €10-12,500 or first-pilots-as-CAC framing needed |
+| U77 | Positioning rewrite | Who rewrites Alizé's external messaging with concrete task/outcome language? |
+| U78 | Sales partner | Is there a sales-focused person to involve in Month 1 outreach? |
+
+*Last updated: 2026-03-30 by pulse cron (Pulse 17)*
+
 | U52 | Louis warm network ICP map | Still unresolved — gates all outreach strategy; must happen Month 1 |
