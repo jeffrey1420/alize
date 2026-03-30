@@ -403,4 +403,32 @@ Central log of all debate outcomes across research pulses.
 | U84 | Contractor lock-in mechanism | How to keep playbook internal if contractors are needed to deliver |
 | U85 | Switching cost architecture | What makes leaving Alizé painful for a client — must define before first pilot scope |
 
-*Last updated: 2026-03-30 by pulse cron (Pulse 19)*
+*Last updated: 2026-03-30 by pulse cron (Pulse 20)*
+
+## Pulse 20 (2026-03-30 — 15:05 UTC)
+
+| Agent | Topic | Key Findings |
+|-------|-------|-------------|
+| Louis Credibility Strategist | Louis's profile as ceiling | Louis's profile IS a credibility ceiling at €7,500+ without a senior commercial co-founder; D74's diagnosis was incomplete; Grinto conflict is structural |
+| Technical Moat Strategist | Build vs defer technical assets | D83 and D27 are contradictory; switching-cost architecture must be embedded from day one, not retrofitted at Month 12; meeting reports have zero IP ceiling |
+| Vertical Strategy Challenger | Vertical commitment NOW vs evidence | D44/D10 are premature; vertical should emerge from U52 network mapping, not theory; "service firms" constraint should be removed from D77 |
+
+### New Decisions (Pulse 20)
+
+| ID | Topic | Decision | Source | Date |
+|----|-------|----------|--------|------|
+| D84 | Louis sales ceiling | Cannot credibly close €7,500+ without senior commercial co-founder; profile is ceiling until that person exists | Credibility agent | 2026-03-30 |
+| D85 | Technical moat timing | Build benchmark infrastructure + switching-cost architecture INTO first pilots; cannot retrofit at Month 12 | Tech moat agent | 2026-03-30 |
+| D86 | Vertical commitment | Kill D44/D10 as Month 1 commitments; vertical emerges from network ICP mapping (U52); remove "service firms" constraint from D77 | Vertical agent | 2026-03-30 |
+| D87 | Credibility window | D82 3-6 month window is a credibility window, not just capacity; failed closes create permanent network narrative | Credibility agent | 2026-03-30 |
+| D88 | Delivery playbook = tech asset | Delivery playbook IS the technical moat; built during delivery, structured as reusable system | Tech moat agent | 2026-03-30 |
+
+### New Unresolved (Pulse 20)
+
+| ID | Topic | Blocker |
+|----|-------|---------|
+| U86 | Senior commercial co-founder | Who? When? Gates €7,500+ deal viability |
+| U87 | Grinto conflict | Exit internship or explicit ring-fencing — gates all outreach |
+| U88 | Network ICP mapping | U52 still unresolved — gates all GTM and vertical decisions |
+| U89 | Louis's committed Alizé hours | Must be quantified — gates capacity planning |
+| U90 | Second workflow | Should have data compounding potential — not yet defined |

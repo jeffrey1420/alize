@@ -336,3 +336,18 @@
 - [ ] **U85 — Switching cost architecture:** Define what makes leaving Alizé painful for a client before scoping the first pilot.
 - [ ] BRIEF.md: Update moat section — remove "repeatable deployment system" as primary claim, add switching-cost architecture, performance benchmarks, contractor lock-in mechanism.
 - [ ] TODO.md: Add items for U82-U85 above.
+
+### NEW (from 2026-03-30 Pulse 20 — Louis Credibility, Technical Moat, Vertical Commitment)
+- [x] **D84 — Louis sales ceiling:** Louis cannot credibly close €7,500+ deals without senior commercial co-founder; profile is ceiling at that price point until that person exists
+- [x] **D85 — Technical moat timing:** Build benchmark infrastructure and switching-cost architecture INTO first pilots; cannot retrofit at Month 12+
+- [x] **D86 — Vertical commitment premature:** Kill D44/D10 as Month 1 commitments; vertical emerges from U52 network ICP mapping; remove "service firms" constraint from D77
+- [x] **D87 — Credibility window:** D82's 3-6 month window is a credibility window, not just capacity; after 3-6 months of failed closes, network narrative becomes permanent
+- [x] **D88 — Delivery playbook = technical asset:** Delivery playbook IS the technical moat — built during delivery, structured as reusable system
+- [ ] **U86 — Senior commercial co-founder:** Who? When? This is a prerequisite for €7,500+ deal viability, not a "nice to have"
+- [ ] **U87 — Grinto conflict resolution:** Exit internship or explicitly ring-fence before any commercial outreach; silence looks like concealment
+- [ ] **U88 — Network ICP mapping (U52 repeat):** Still unresolved; gates all GTM strategy and vertical decisions
+- [ ] **U89 — Louis's committed Alizé hours:** Must be explicitly quantified — gates all capacity planning
+- [ ] **U90 — Second workflow definition:** After meeting reports, the next workflow should have data compounding potential — define before scoping second pilot
+- [ ] BRIEF.md: Update moat section with D85/D88 — delivery playbook IS the technical asset, benchmark infrastructure from Day 1
+- [ ] External materials: Remove all "professional services first" language until U52 is resolved; use "back-office admin AI" without sector constraint
+- [ ] GTM planning: Do not commit to professional services vertical outreach until network ICP mapping (U52) is complete
