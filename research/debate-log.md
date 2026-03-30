@@ -963,14 +963,44 @@ Central log of all debate outcomes across research pulses.
 | D180 | Data sprint is theater | U91 is decision problem not data problem; 2-week sprint produces no new information Louis doesn't already know | Capacity Auditor | 2026-03-30 |
 | D181 | D126 KILLED | D135 points to web agencies/digital product companies, NOT expert-comptables; Louis's network is Grinto/web agency context | Vertical Auditor | 2026-03-30 |
 
-### Unresolved from Pulse 35
+### NEW (from 2026-03-30 Pulse 36 — Credibility, Delivery, Vertical Challenges)
+- [x] **D182 — Demo-led sales motion:** Replace pitch-led warm outreach with demo-led, prototype-first, zero-pitch — build working agent, show it, prospect opts in based on value
+- [x] **D183 — First pilots as research partnerships:** Frame first 1-2 pilots as "I'm validating this with real users, no cost for first month in exchange for feedback" — removes sales close entirely
+- [x] **D184 — D84 implicit floor NOT validated:** €2,000 IS NOT confirmed within Louis's credibility ceiling; D84 says nothing about floors, only ceilings above €7,500
+- [x] **D185 — Technical self-test gate:** U170 requires a 3-day practical build test (Slack → Notion ticket triage agent) before solo delivery commitment — not a research task
+- [x] **D186 — First 1-2 pilots free:** Pilot 1-2 are free learning investments, not priced engagements — pilot 3+ is first €2,000 engagement
+- [x] **D187 — D181 KILLED:** Web agencies wrong as first vertical — conflict of interest (Louis co-founded one), category mismatch (web agencies build tools not buy them), navigation paradox (D135 = employer relationship exploitation)
+- [x] **D188 — U52 is forcing function:** Complete network map THIS WEEK — 20 names, company size, relationship depth, ICP fit — no more pulses until map exists
+- [ ] **U170 — Louis solo delivery capability:** HARD BLOCKER — 3-day technical self-test required before committing to solo delivery (D185)
+- [ ] **U173 — Web agency conflict:** UNRESOLVED after 14+ pulses — is Louis's co-founded web agency still active? Does it compete with Alizé's targets? Gates ALL web agency decisions
+- [ ] **U52 — Louis warm network map:** Still not done after 36 pulses — 20 names, company, size, relationship depth, ICP fit required before any vertical, pricing, or GTM decision
+- [ ] **U163 — Domain:** Still not bought after 36 pulses — alize.studio purchase gates email, website, credibility
+- [ ] **U91 — Louis binary choice:** Still unresolved — Alizé as declared side-project or startup at 25-30 hrs/week
+- [ ] **U86 — Commercial co-founder:** Needed for pitch-led sales above €2,000; demo-led motion sidesteps this but bounds growth
+- [ ] Kill D181 (web agencies as vertical) — D187 supersedes
+- [ ] Kill D135 ("go where Grinto relationships exist") — employer relationship exploitation, not network-first GTM
+- [ ] Kill D84 implicit floor assumption — €2,000 is NOT validated as within Louis's credibility ceiling
+- [ ] Month 1 Week 1: Complete U52 network map (20 names, ICP fit, relationship depth)
+- [ ] Month 1 Week 1: Resolve U173 (web agency conflict) — is co-founded agency active and competing?
+- [ ] Month 1 Week 1: 3-day technical self-test (U170 gate) — build Slack → Notion ticket triage agent
+- [ ] Month 1: First 1-2 pilots are FREE research partnerships, not priced engagements
+- [ ] External materials: Remove all references to "web agencies as first vertical" — pending U52 completion
+- [ ] Sales motion: Replace pitch-led warm outreach with demo-led prototype-first (D182)
 
-| ID | Topic | Blocker |
-|----|-------|---------|
-| U170 | Louis delivery solo capability | Can Louis actually build/deploy an AI agent for a real client? Self-assessment required |
-| U171 | Productized €2,000 offer | One workflow named in one sentence with specific deliverables |
-| U172 | ICP target list for web agencies | 10-20 web agencies / digital product companies in Louis's warm network |
-| U91 | Louis binary choice | Decision problem — which ventures does Louis actually commit to? |
-| U52 | Louis warm network map | Actually map it — name by name, company by company, relationship depth |
-| U95 | Web agency vs. Alizé conflict | Can Louis sell AI agents to web agencies when co-founded one? |
-| U163 | Buy alize.studio | Still not done — 35+ pulses and no domain purchased |
+## Debate Log Summary
+
+| Date | Debates | Key Outcomes |
+|------|---------|-------------|
+| 2026-03-30 AM | Pricing, Competitive, GTM (partial) | Diagnostic €490 questioned; per-agent pricing challenged; platform giants as primary threats; workflow-tier proposed |
+| 2026-03-30 | Technical, Vertical, Revenue (full) | Architecture overengineered; horizontal stretched; MCP demoted; ETI aspirational |
+| 2026-03-30 midday | Landing page, GTM scalability, Differentiation | Hero wrong; network math unrealistic; vertical depth = moat |
+| 2026-03-30 late | Managed service, Tech stack, Mistral threat | "Managed service" = liability headline; MCP = infrastructure; Mistral is 2027-2028 |
+| 2026-03-30 midday | Positioning, MVP scope, Diagnostic pricing | "AI employee" framing = French labor/political liability; runtime spike = backwards; diagnostic = free lead gen |
+| 2026-03-30 midday | Delivery, Tooling, Model identity | Louis can't solo-deliver; n8n over Make.com; productized consulting identity; €2,000-2,500/month minimum |
+| 2026-03-30 afternoon | Positioning, Pricing, Vertical | Sovereignty framing = weakness; tiered pricing; professional services over agencies (buy-vs-build problem) |
+| 2026-03-30 midday | GTM Readiness, Delivery Stack, Delivery Partner | Cold outbound needs 4 hard blockers; n8n MCP is beta-not-stable; Gabin-first delivery partner strategy; success-fee contracting model |
+| 2026-03-30 afternoon | Conversion, Lock-in, Website | Kill "no lock-in" externally; staged payment replaces 50% refund; website gates cold outbound not warm; commitment tier introduced |
+| 2026-03-30 afternoon | GTM Limits, Delivery Risk, Pilot Pricing | Warm network = Month 1-3 only ceiling; Louis cannot solo-deliver; €4,500 pilot doesn't cover delivery costs; 12-month commitment unsellable Year 1 |
+| 2026-03-30 | Credibility, Delivery, Vertical (Pulse 36) | D84 implicit floor unvalidated; demo-led motion replaces pitch-led; D181 (web agencies) KILLED on conflict/category/navigation grounds; U52 is forcing function |
+
+*Last updated: 2026-03-30 by pulse cron (Pulse 36)*

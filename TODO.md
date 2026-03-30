@@ -633,3 +633,28 @@
 - [ ] Month 1: Louis makes the binary choice (side-project OR startup) — this is not a data question
 - [ ] Month 1: Buy alize.studio domain (still not done)
 - [ ] Update commercial offer: €2,000 flat pilot (€1,000 sign + €1,000 delivery), no credits, no staging
+
+### NEW (from 2026-03-30 Pulse 36 — Credibility, Delivery, Vertical Challenges)
+- [x] **D182 — Demo-led sales motion:** Replace pitch-led warm outreach with demo-led, prototype-first, zero-pitch — build working agent, show it, prospect opts in based on value not sales pressure
+- [x] **D183 — First pilots as research partnerships:** "I'm validating this with real users, no cost for first month in exchange for feedback" — removes the sales close entirely
+- [x] **D184 — D84 implicit floor NOT validated:** €2,000 IS NOT confirmed within Louis's credibility ceiling; D84 says nothing about floors, only ceilings above €7,500
+- [x] **D185 — Technical self-test gate:** U170 requires a 3-day practical build test (Slack → Notion ticket triage agent) before solo delivery commitment — not a research task, not a debate
+- [x] **D186 — First 1-2 pilots free:** Pilot 1-2 are free learning investments, not priced engagements — pilot 3+ is first €2,000 engagement
+- [x] **D187 — D181 KILLED:** Web agencies wrong as first vertical on three independent grounds: (1) conflict of interest — Louis co-founded a web agency; (2) category mismatch — web agencies build tools, Alizé serves companies that can't; (3) navigation paradox — D135 = employer relationship exploitation, not network-first GTM
+- [x] **D188 — U52 is forcing function:** Complete network map THIS WEEK — 20 names, company size, relationship depth, ICP fit — no more pulses until map exists
+- [ ] **U170 — Louis solo delivery capability:** HARD BLOCKER — 3-day technical self-test required before committing to solo delivery (D185)
+- [ ] **U173 — Web agency conflict:** UNRESOLVED after 14+ pulses — is Louis's co-founded web agency still active? Does it compete with Alizé's targets? Gates ALL vertical decisions
+- [ ] **U52 — Louis warm network map:** Still not done after 36 pulses — 20 names, company, size, relationship depth, ICP fit required before any vertical, pricing, or GTM decision
+- [ ] **U163 — Domain:** Still not bought after 36 pulses — alize.studio purchase gates email, website, credibility
+- [ ] **U91 — Louis binary choice:** Still unresolved — Alizé as declared side-project OR startup at 25-30 hrs/week
+- [ ] **U86 — Commercial co-founder:** Needed for pitch-led sales above €2,000; demo-led motion sidesteps but bounds growth
+- [ ] Kill D181 (web agencies as vertical) — D187 supersedes it
+- [ ] Kill D135 ("go where Grinto relationships exist") — D187 confirms this is employer relationship exploitation, not GTM
+- [ ] Kill D84 implicit floor assumption — €2,000 is NOT validated as within Louis's credibility ceiling
+- [ ] Month 1 Week 1: Complete U52 network map — 20 names, company size, relationship depth, ICP fit
+- [ ] Month 1 Week 1: Resolve U173 — is co-founded web agency still active? Competing?
+- [ ] Month 1 Week 1: 3-day technical self-test (U170 gate) — build Slack → Notion ticket triage agent, deploy, test with 10 real inputs
+- [ ] Month 1: First 1-2 pilots are FREE research partnerships, not priced engagements
+- [ ] Month 1: Define U171 in one sentence — specific workflow, specific trigger, specific output
+- [ ] External materials: Remove all references to "web agencies as first vertical" — pending U52 completion and U173 resolution
+- [ ] Sales motion: Replace pitch-led warm outreach with demo-led prototype-first (D182)
