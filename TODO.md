@@ -967,3 +967,56 @@ The following are removed as preconditions — they are research tasks, not acti
 U91, U163, U52 remain unresolved after 49 pulses. These are not research questions. They require Louis to act, not to think. The evidence vs action debate today confirms: research cannot resolve what only action can.
 
 *Auto-added by Late Pulse 49 — 2026-03-30 23:23 UTC*
+
+---
+
+## Pulse 50 Additions (2026-03-30 — 23:38 UTC)
+
+### NEW Decisions (Pulse 50)
+
+| ID | Topic | Decision | Source | Date |
+|----|-------|----------|--------|------|
+| D261 | Process diagnosis | Pulse process is net negative for execution; research cannot resolve execution tasks; U163/U91/U52 reclassified as action tasks | Meta-Critic | 2026-03-30 |
+| D262 | 3-client economics | At €800-1,500/mo per agent, 3 clients = 30-56% of cost-plus minimum — does NOT cover costs | Business Model Auditor | 2026-03-30 |
+| D263 | Acquisition constraint | D260's solo delivery cap is the binding constraint, not unit economics | Business Model Auditor | 2026-03-30 |
+| D264 | Louis dual-role | Louis cannot be sole salesperson AND sole delivery lead at 6+ clients without commercial co-founder | Business Model Auditor | 2026-03-30 |
+
+### Deprecated from Pulse 50
+
+- ~~D91~~ — **DEPRECATED**: 25 hrs/week commitment structure, restructured 3x without measurement, is displacement activity not forcing function
+- ~~D201 "service model works at 3/6/12 scale"~~ — **SUPERSEDED**: evidence generation at 1-3 clients, marginal at 6, profitable at 10-12
+
+### U-Items Reclassified from Pulse 50
+
+| Item | Old Classification | New Classification | Why |
+|------|-------------------|-------------------|-----|
+| U163 | Unresolved research | Pending execution task | €10, 5 minutes, no research required |
+| U91 | Unresolved research | Pending identity decision | One sentence required: startup or side-project |
+| U52 | Unresolved research | Pending execution task | One afternoon on LinkedIn required |
+
+### Kill from TODO (Pulse 50)
+
+- ~~All D91 tracking items~~ — never used, create false confidence
+- ~~D91 restructured 3x without measurement~~ — deprecated as forcing function
+- ~~"Track hours for 2 weeks"~~ — theater not data (D180)
+
+### Add to TODO (Pulse 50)
+
+**Immediate (do today):**
+- [ ] Run `openclaw cron remove alize-5min-pulse` — process cannot stop itself
+- [ ] U163: Buy alize.studio — €10, 5 minutes
+- [ ] U91: Write "Alizé is a [startup/side-project]" and date it
+
+**This week:**
+- [ ] U52: Map 20 warm contacts on LinkedIn — 2-3 hours
+- [ ] U91 forced deadline: If not resolved by Month 1 Week 2, Alizé defaults to side-project scope (1-2 pilots Year 1)
+
+**Month 1 revisions:**
+- [ ] Revenue target Year 1: €0-5,000 (evidence generation), NOT €7,963+ cost-plus minimum
+- [ ] Build minimum viable sales machine before scaling delivery capacity
+- [ ] Validate Louis can acquire 1 client via personal network before validating pricing assumptions
+
+### Cron Status
+**SUSPENDED — Louis must run: `openclaw cron remove alize-5min-pulse`**
+
+*Auto-added by Pulse 50 cron — 2026-03-30 23:38 UTC*
