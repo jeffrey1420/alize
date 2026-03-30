@@ -944,3 +944,33 @@ Central log of all debate outcomes across research pulses.
 | U172 | ICP target list | 10-20 companies for first sprint |
 | U91 | Louis hours tracking | 2 weeks actual tracking — not estimates |
 | U52 | Network ICP mapping | Gates all GTM strategy |
+
+---
+
+## Pulse 35 (2026-03-30 — 19:07 UTC)
+
+| Agent | Topic | Key Findings |
+|-------|-------|-------------|
+| Pricing Stage Auditor | D177 staged pilot structure | "Credited toward" mechanic is accounting poison; 3 stages = 3 close attempts; Stage 2 exit gives client working POC with no obligation; foot-in-door conditions client for cheap work |
+| Capacity Auditor | D176 2-week data sprint | Cannot produce new information; U91 is a decision problem not data problem; Month 1 sequence requires simultaneous execution of tasks that can't be simultaneous; web agency will consume Louis in Month 1 |
+| Vertical Auditor | D126 expert-comptables vertical | D135 (follow Grinto relationships) points away from accounting; D127 undermines governance rationale; U52 unresolved after 35+ pulses; Louis's actual network is digital/tech, not accounting |
+
+### Decisions from Pulse 35
+
+| ID | Topic | Decision | Source | Date |
+|----|-------|----------|--------|------|
+| D179 | D177 KILLED | Replace with €2,000 flat pilot (€1,000 sign + €1,000 delivery), no credits, one close, no accounting complexity | Pricing Stage Auditor | 2026-03-30 |
+| D180 | Data sprint is theater | U91 is decision problem not data problem; 2-week sprint produces no new information Louis doesn't already know | Capacity Auditor | 2026-03-30 |
+| D181 | D126 KILLED | D135 points to web agencies/digital product companies, NOT expert-comptables; Louis's network is Grinto/web agency context | Vertical Auditor | 2026-03-30 |
+
+### Unresolved from Pulse 35
+
+| ID | Topic | Blocker |
+|----|-------|---------|
+| U170 | Louis delivery solo capability | Can Louis actually build/deploy an AI agent for a real client? Self-assessment required |
+| U171 | Productized €2,000 offer | One workflow named in one sentence with specific deliverables |
+| U172 | ICP target list for web agencies | 10-20 web agencies / digital product companies in Louis's warm network |
+| U91 | Louis binary choice | Decision problem — which ventures does Louis actually commit to? |
+| U52 | Louis warm network map | Actually map it — name by name, company by company, relationship depth |
+| U95 | Web agency vs. Alizé conflict | Can Louis sell AI agents to web agencies when co-founded one? |
+| U163 | Buy alize.studio | Still not done — 35+ pulses and no domain purchased |

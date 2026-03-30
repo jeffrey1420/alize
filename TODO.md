@@ -617,11 +617,19 @@
 - [x] **D177 — Staged pilot RESOLVES D166/D174 conflict:** €500 discovery (Week 1) → €1,000 POC (Weeks 2-3) → €1,200-1,500/mo month 1+; pilot payments credited toward retainer. No single payment exceeds Louis's credibility ceiling.
 - [x] **D178 — GTM sequence RESOLVED:** D172/D173 operate at different funnel layers (delivery model vs. growth flywheel); cold outreach → delivery → warm referrals (no contradiction).
 - [ ] U91: Track actual hours for 14 days — timer, not estimates (replaces U161/U162 binary choice gate)
-- [ ] U170: Louis delivery solo self-assessment
-- [ ] U171: Define specific €1,500 workflow in one sentence
-- [ ] U172: Identify 20 ICP-fit companies for first cold sprint
-- [ ] Days 1-3: Buy alize.studio + set up hour tracking
-- [ ] Days 4-14: Track actual hours across all commitments
-- [ ] Week 2: Cold email 10-15 ICP prospects with €1,500 specific offer
-- [ ] Week 3: First €1,500 staged pilot signed
-- [ ] Week 4: Deliver + ask for referral at handoff
+### NEW (from 2026-03-30 Pulse 35 — Pricing, Capacity, Vertical Structural Flaws)
+- [x] **D179 — D177 staged pilot KILLED:** Replace with €2,000 flat pilot (€1,000 at signed contract + €1,000 at delivery), no credits, no accounting complexity. One close, not three. Each payment is a discrete standalone deliverable. €2,000 total within Louis's credibility ceiling.
+- [x] **D180 — Data sprint is theater:** U91 is a decision problem not a data problem. Two weeks of tracking produces no new information Louis doesn't already know. Binary choice (side-project vs. startup) returns regardless of sprint outcome. The sprint consumes time Louis doesn't have.
+- [x] **D181 — D126 expert-comptables vertical KILLED:** D135 ("go where Grinto relationships exist") points to web agencies/digital product companies, NOT accounting firms. D127 already undermined the governance-gap rationale. U52 (Louis's network map) unresolved after 35+ pulses. Louis's actual network is in digital/tech, not accounting.
+- [ ] **Kill D177:** Replace with €2,000 flat pilot per D179 — update commercial offer document
+- [ ] **Kill D126/D135 contradiction:** D135 correctly says follow Grinto relationships. Grinto = web agency context. Louis's warm network = web agencies + digital product companies. First vertical = web agencies, NOT expert-comptables.
+- [ ] **Kill U52 as "still being resolved":** Louis must actually map his network this week — not as a research task, as an execution task. Name by name. This gates all vertical and GTM decisions.
+- [ ] **Kill the data sprint as a prerequisite:** U91 is a binary decision Louis must make with current information. Track for 3 days if needed for你自己 convincing, not 14 days as a decision-deferral mechanism.
+- [ ] U170: Louis delivery solo self-assessment (still required — is Louis actually able to build/deploy an AI agent for a real client?)
+- [ ] U171: Define specific €2,000 flat offer — one workflow, one sentence ("The agent [verb] [object] for [company type]"), specific deliverables
+- [ ] U172: Identify 10-20 web agencies / digital product companies in Louis's warm network (NOT expert-comptables)
+- [ ] U173: Resolve web agency vs. Alizé conflict (U95) — can Louis sell AI agents to web agencies when he's co-founded one?
+- [ ] Month 1: Louis maps his actual warm network (not a research sprint — actual names, companies, relationship depth)
+- [ ] Month 1: Louis makes the binary choice (side-project OR startup) — this is not a data question
+- [ ] Month 1: Buy alize.studio domain (still not done)
+- [ ] Update commercial offer: €2,000 flat pilot (€1,000 sign + €1,000 delivery), no credits, no staging
