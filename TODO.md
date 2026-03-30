@@ -691,3 +691,15 @@
 - [ ] Kill U173 as "web agency conflict" — Kuroba-as-internal-deployment is the answer, not a question to resolve.
 - [ ] Kill D187 as applied to Kuroba — D187 correctly killed "web agencies as vertical to sell to"; it incorrectly killed "Kuroba as internal deployment." These are separate decisions.
 - [ ] External materials: Add Kuroba deployment as the first social proof reference — "we built it for ourselves first."
+
+### NEW (from 2026-03-30 Pulse 39 — Service Model, Vertical, Binary Choice)
+- [x] **D201 — Service model is viable:** Model works at 3/6/12 client scale. Year 1 €43-90K, Year 2 €86-180K, Year 3 €172-360K. Not venture-scale but real. Louis needs clients, not delivery partners.
+- [x] **D202 — Expert-comptable vertical needs reassessment:** Governance gap overstated (D127 already contradicted the premise). Louis has zero confirmed network contacts (U123 unresolved). Incumbents (Pennylane, Cegid) already own the integration surface.
+- [x] **D203 — Expert-comptable replacement:** Needs Louis decision. Grinto-connected verticals (digital agencies, e-commerce) or logistics/operations firms with warm network access.
+- [x] **D204 — Kill binary choice as prerequisite (U91):** U91 is an avoidance mechanism, not a blocker. Execute without deciding. The work tells the answer, not the other way around.
+- [x] **D205 — No delivery partners Year 1:** Add only when Louis is turning down work. Adding partners now destroys margin without solving the demand problem.
+- [ ] **U123 — Louis expert-comptable network:** Still unresolved. Gates entire D126 vertical rationale. If Louis has <5 warm contacts, reassess vertical.
+- [ ] **U91 execution-first:** Kill as execution prerequisite. Start outreach, build demo, get client conversations — the binary choice emerges from the work.
+- [ ] Expert-comptable vertical: Hard re-evaluation required. Governance gap (D126/D127 contradiction), no network (U123), incumbents with data (Pennylane raised €40M+, Cegid €2B+). Not dead but needs Louis decision.
+- [ ] Delivery partner timing: D205. Not before Louis is turning down work. First delivery partner engagement Month 4-6 at earliest.
+- [ ] Month 1: Map Louis's actual network against ICP. Answer U52 and U123 simultaneously. The network map IS the vertical strategy.
