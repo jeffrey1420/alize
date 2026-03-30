@@ -876,3 +876,11 @@
 - [ ] **U230 — Infrastructure budget revision:** Update BRIEF.md infrastructure costs from €25-40 to €80-120/month.
 - [ ] **U231 — Louis role declaration:** Louis explicitly decides: am I technical-only or attempting all three roles?
 - [ ] **U232 — Commercial partner identification:** Who owns commercial? Gabin? External? This is a Month 1 blocker per D232.
+
+### NEW (from 2026-03-30 Pulse 47 — MCP Moat, Demo Motion, Pricing Framing)
+- [ ] **Kill employee ROI framing:** Remove from all external materials and BRIEF.md — "vs. part-time employee" creates commodity trap at same price band (€1,200-2,500/mo Alizé vs €1,500-2,500/mo employee). Replace with velocity/compounding knowledge framing: "2 weeks of Alizé proves what 6 months of an employee would take to learn."
+- [ ] **Qualification before demo gate:** Add 15-minute discovery call before prototype demo — qualify on specific operational pain, current tools, tracked KPIs. Demo is earned after qualification, not the default first step.
+- [ ] **Replace D183 free pilots:** Kill "first 1-2 pilots are free" — replace with €500-1,000 proof-of-value (2-week scoped engagement, defined success metrics, follow-up meeting to review results and contract options). Creates accountability on both sides.
+- [ ] **Remove MCP from differentiator claims:** MCP is infrastructure detail (D8 confirmed). Do not claim MCP capability as competitive differentiator in any external document. The only defensible MCP element: multi-tenant security implementation + accumulated config templates.
+- [ ] **Invest in multi-tenant MCP security:** The only defensible MCP advantage is the multi-tenant security implementation — document it specifically for IT/procurement buyers as a trust signal, not a marketing claim.
+- [ ] **Refine Copilot buyer question:** D140 "buyer frustrated with Copilot" is correct signal but wrong question. Frustrated Copilot users ask "how do I get more out of Copilot?" — Alizé must answer that question before presenting itself as an alternative.

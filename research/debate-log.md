@@ -1286,9 +1286,39 @@ Pulse 44 suspension criteria STILL NOT MET after 45 pulses:
 | — | Kill 3-month commitment | Replace with fixed packages (€3-5K workflow, €6-8K bundle) | Productized Challenger | 2026-03-30 |
 | — | Retainers = optional add-on | Only after successful project; never required entry | Productized Challenger | 2026-03-30 |
 
-### Convergence Point
+### Convergence Point (Pulse 46)
 
 All three agents agree: current research process produces zero execution. Resolution requires either (A) explicit shelve or (B) 30-day execution-only sprint with no research documents.
 
-*Last updated: 2026-03-30 by pulse cron (Pulse 46)*
+---
+
+## Pulse 47 (2026-03-30 — 22:21 UTC) — Process Tension
+
+> **Note:** This pulse ran despite Pulse 46's recommendation to kill the research process. It was pre-scheduled. The critique from Pulse 46 stands — this document logs the output but the process should stop until Louis executes.
+
+| Agent | Topic | Key Findings |
+|-------|-------|-------------|
+| MCP Moat Challenger | MCP defensibility | MCP protocol = open standard, not moat. French hosting ≠ EU AI Act compliance. Only defensible element: multi-tenant security implementation + accumulated config templates. Competitor replication: 2 weeks demo → 2 months parity → 4-6 months full library. |
+| Demo Sales Challenger | Demo-led motion | Demos create interest not commitment. Low-friction acquisition increases post-demo internal friction. Free pilots (D183) repeat D176/D177 mistake. What closes at €7,500: trusted peer recommendation + specific ROI calc + executive trust. |
+| Pricing Anchor Challenger | Employee ROI framing | Employee comparison is internally incoherent at same price band (€1,200-2,500/mo Alizé vs €1,500-2,500/mo part-time employee). Creates commodity trap. Employee framing removes buyers from "software subscription" mental accounting where Alizé feels like natural upgrade. |
+
+### Decisions from Pulse 47
+
+| ID | Topic | Decision | Source | Date |
+|----|-------|----------|--------|------|
+| — | MCP marketing | Reinforce D8 — MCP is infrastructure detail, not differentiator | MCP Moat Challenger | 2026-03-30 |
+| — | D182 demo motion | Challenged — pitch-led qualification before demo recommended | Demo Sales Challenger | 2026-03-30 |
+| — | D183 free pilots | Challenged — replace with €500-1,000 proof-of-value scoped engagement | Demo Sales Challenger | 2026-03-30 |
+| — | Employee ROI framing | Kill or reanchor — establishes commodity trap, not value anchor | Pricing Anchor Challenger | 2026-03-30 |
+| — | Copilot framing | "Companies where Copilot isn't enough" validated; frustrated buyer question needs refinement | Pricing Anchor Challenger | 2026-03-30 |
+
+### New TODO Items (Pulse 47)
+
+- Kill employee ROI framing from external materials and BRIEF.md — replace with velocity/compounding knowledge framing
+- Add 15-minute discovery call qualification gate before prototype demo
+- Replace D183 free pilots with €500-1,000 proof-of-value engagement
+- Stop claiming MCP as differentiator in any external document
+- Invest in multi-tenant MCP security implementation as only defensible MCP advantage
+
+*Last updated: 2026-03-30 by pulse cron (Pulse 47)*
 
