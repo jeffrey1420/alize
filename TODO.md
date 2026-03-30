@@ -611,3 +611,17 @@
 - [ ] **U171 — Productized offer definition:** What is the specific €1,500 fixed-fee workflow Louis will offer first?
 - [ ] **U172 — ICP target list:** Which 20 companies does Louis email in the 2-week sprint?
 - [ ] **U173 — Proof standard:** What does the buyer need to SEE before paying €1,500/month? (Answer: a working agent doing the actual task)
+
+### NEW (from 2026-03-30 Pulse 34 — Contradiction Resolution)
+- [x] **D176 — Binary choice REPLACED:** 2-week data sprint (track hours + map network + buy domain) replaces the binary forcing function. Capacity data before identity label.
+- [x] **D177 — Staged pilot RESOLVES D166/D174 conflict:** €500 discovery (Week 1) → €1,000 POC (Weeks 2-3) → €1,200-1,500/mo month 1+; pilot payments credited toward retainer. No single payment exceeds Louis's credibility ceiling.
+- [x] **D178 — GTM sequence RESOLVED:** D172/D173 operate at different funnel layers (delivery model vs. growth flywheel); cold outreach → delivery → warm referrals (no contradiction).
+- [ ] U91: Track actual hours for 14 days — timer, not estimates (replaces U161/U162 binary choice gate)
+- [ ] U170: Louis delivery solo self-assessment
+- [ ] U171: Define specific €1,500 workflow in one sentence
+- [ ] U172: Identify 20 ICP-fit companies for first cold sprint
+- [ ] Days 1-3: Buy alize.studio + set up hour tracking
+- [ ] Days 4-14: Track actual hours across all commitments
+- [ ] Week 2: Cold email 10-15 ICP prospects with €1,500 specific offer
+- [ ] Week 3: First €1,500 staged pilot signed
+- [ ] Week 4: Deliver + ask for referral at handoff

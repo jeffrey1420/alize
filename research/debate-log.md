@@ -915,4 +915,32 @@ Central log of all debate outcomes across research pulses.
 | 2026-03-30 evening | Post-Pulse-31 State Assessment | BRIEF.md pricing structurally below cost-plus; 50+ U-items — 7 Louis personal actions, 4 genuine research, 39 downstream; pulse correctly suspended |
 | 2026-03-30 evening | Delivery, GTM, Pricing Architecture | D16 revised (delivery partner not pilot 1 blocker); D26 challenged (warm network = planning artifact); pilot+retainer model structurally broken; proof-first pricing recommended |
 
-*Last updated: 2026-03-30 by pulse cron (Pulse 33)*
+*Last updated: 2026-03-30 by pulse cron (Pulse 34)*
+
+---
+
+## Pulse 34 (2026-03-30 — 18:51 UTC)
+
+| Agent | Topic | Key Findings |
+|-------|-------|-------------|
+| Binary Choice Agent | Binary choice framing | False dilemma — capacity math can't be solved by a label; "startup" undefined; choice won't unblock execution |
+| Pricing Contradiction Agent | D166 vs D174 contradiction | D166 wins on math; D174's free pilot creates worse expectation problems; third path: staged pilot with proof gates |
+| GTM Contradiction Agent | D172 vs D173 contradiction | False contradiction — D172 is delivery model, D173 is growth flywheel; cold outreach → delivery → warm referrals |
+
+### Decisions from Pulse 34
+
+| ID | Topic | Decision | Source | Date |
+|----|-------|----------|--------|------|
+| D176 | Binary choice | Replace binary forcing function with 2-week data sprint (track hours + map network + buy domain) | Binary Choice Agent | 2026-03-30 |
+| D177 | Pricing structure | Staged pilot: €500 discovery → €1,000 POC → €1,200-1,500/mo month 1 | Pricing Contradiction Agent | 2026-03-30 |
+| D178 | GTM sequence | Cold outreach → delivery → warm referrals (D172/D173 compatible) | GTM Contradiction Agent | 2026-03-30 |
+
+### Unresolved from Pulse 34
+
+| ID | Topic | Blocker |
+|----|-------|---------|
+| U170 | Louis delivery solo | Self-assessment still required |
+| U171 | Productized offer definition | €1,500 offer needs specific workflow named |
+| U172 | ICP target list | 10-20 companies for first sprint |
+| U91 | Louis hours tracking | 2 weeks actual tracking — not estimates |
+| U52 | Network ICP mapping | Gates all GTM strategy |
