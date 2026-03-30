@@ -82,6 +82,16 @@ Central log of all debate outcomes across research pulses.
 
 ---
 
+## Pulse 7 (2026-03-30 — Late Day, 11:42 UTC)
+
+| Agent | Topic | Key Findings |
+|-------|-------|-------------|
+| Positioning Strategist | "AI employee" framing | REMOVE — French labor law + political narrative makes "employee" a liability; replace with "workflow automation" |
+| MVP Scope Strategist | Mastra runtime before pilot | WRONG — build runtime only when proven bottleneck; manual orchestration first |
+| Pricing Strategist | Diagnostic = qualification tool | WRONG — diagnostic = lead generation channel; should be free |
+
+---
+
 ## Still Unresolved (Needs Louis Decisions)
 
 | ID | Topic | Options | Blockers |

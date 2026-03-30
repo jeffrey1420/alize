@@ -18,6 +18,9 @@
 | D10 | Vertical focus | ONE vertical, professional services first | Vertical focus agent (Pulse 2) | 2026-03-30 |
 | D11 | "Managed service" framing | Move from hero/headline to "how we work" section | Managed service agent (Pulse 4) | 2026-03-30 |
 | D12 | Mistral threat | 2027-2028 risk, not 2026; execution + client relationships now | Mistral threat agent (Pulse 4) | 2026-03-30 |
+| D20 | "AI employee" framing | REMOVE — French labor law + political narrative makes "employee" a liability; replace with "workflow automation" / "AI agent" | Positioning agent (Pulse 7) | 2026-03-30 |
+| D21 | 90-day MVP scope | Kill runtime spike; manual orchestration first; Louis manually runs first pilot before building platform | MVP scope agent (Pulse 7) | 2026-03-30 |
+| D22 | Diagnostic pricing | FREE — lead generation channel; 30-min call + written ROI estimate; no charge | Pricing agent (Pulse 7) | 2026-03-30 |
 
 ## 🔄 Unresolved — Needs Louis Decision
 
@@ -64,10 +67,10 @@
 - [x] OVHcloud hosting: emphasize for IT/procurement, not for DG first-touch
 
 ### NEW (from 2026-03-30 Pulse 4)
-- [ ] Rewrite landing page hero — drop "managed service" from headline; lead with "AI employee that works in your business"
+- [ ] Rewrite landing page hero — drop "managed service" from headline; lead with workflow automation framing (NOT "AI employee")
 - [ ] Replace MCP marketing with plain language: "agents connect to your CRM, email, support queue"
 - [ ] Define first pilot client this week — without clients, nothing to defend against Mistral
-- [ ] Confirm ONE vertical for first 12 months (professional services recommended)
+- [ ] Confirm ONE vertical for first 12 months (digital agencies/e-commerce now confirmed over professional services)
 - [ ] Update BRIEF.md to reflect: MCP demoted, "managed service" framing adjusted, Mistral threat timeline revised
 
 ### NEW (from 2026-03-30 Pulse 2)
@@ -103,6 +106,14 @@
 - [ ] Financial model update: revise to 6-8 client Year 1 target, not 12-15
 - [ ] Pilot structure: at-cost with strict deliverables + written case study rights
 
+### NEW (from 2026-03-30 Pulse 7)
+- [x] "AI employee" framing → REMOVE from all materials (D20) — French labor law + political risk; replace with "workflow automation"
+- [x] Kill runtime spike → do NOT build Mastra infrastructure in Month 1 (D21) — manual orchestration first
+- [x] Diagnostic = FREE → lead generation channel (D22) — 30-min call + written ROI estimate, no charge
+- [ ] Update external materials: remove all "hire/employee/employment" language; use "workflow automation" / "agent"
+- [ ] Week 1 build: basic Nuxt+Hono app with one LLM call + one stored result; no Mastra, no MCP
+- [ ] Update BRIEF.md: remove "AI employee" references; add "workflow automation" framing
+
 ---
 
 ## Debate Log Summary
@@ -113,6 +124,7 @@
 | 2026-03-30 | Technical, Vertical, Revenue (full) | Architecture overengineered; horizontal stretched; MCP demoted; ETI aspirational |
 | 2026-03-30 midday | Landing page, GTM scalability, Differentiation | Hero wrong; network math unrealistic; vertical depth = moat |
 | 2026-03-30 late | Managed service, Tech stack, Mistral threat | "Managed service" = liability headline; MCP = infrastructure; Mistral is 2027-2028 |
+| 2026-03-30 midday | Positioning, MVP scope, Diagnostic pricing | "AI employee" framing = French labor/political liability; runtime spike = backwards; diagnostic = free lead gen |
 
-*Last updated: 2026-03-30 by pulse cron (Pulse 5)*
+*Last updated: 2026-03-30 by pulse cron (Pulse 7)*
 
