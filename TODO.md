@@ -1098,3 +1098,33 @@ This is the only actionable item that can stop the research loop. Research canno
 - Kuroba deployment (identified 18 pulses ago, still not executed)
 
 *Auto-added by Pulse 55 — 2026-03-31 00:45 UTC*
+
+### NEW (from 2026-03-31 Pulse 56 — Structural Assumption Challenges)
+**Three agents challenged: Kuroba-first sequencing, human-mediated sales, and U91 binary choice gate.**
+
+#### Kill List (from Pulse 56)
+- [ ] **Kill U91 as a gate permanently** (P56-D7): 46+ pulses of attempted resolution failed. Binary choice gate removed from all suspension criteria. Behavioral tracking replaces identity labeling.
+- [ ] **Kill "Kuroba internal deployment as Month 1 gate"** (P56-D1): Kuroba runs parallel to commercial motion, not before it. First external pilot IS the delivery education.
+- [ ] **Kill human-mediated warm outreach as primary sales channel** (P56-D4/P56-D5): Replaced with productized, self-serve, inbound-first as primary GTM. Warm network = social proof factory, not sales channel.
+
+#### New This Week (Pulse 56)
+- [ ] **Week 1:** Publish one working agent template publicly — no sales wall, no pitch. Louis builds it, publishes it, measures who responds.
+- [ ] **Week 1:** Build €1,500 self-serve purchase page for "workflow setup" — credit card, no sales call, discovery call scheduled post-purchase.
+- [ ] **Week 1:** Send warm contacts a link to the published working demo, not a pitch message. "Look what we built" not "would you be interested."
+- [ ] **Week 1:** Find one warm contact willing to commit to a paid diagnostic — not "interested," committed. Money changes the conversation.
+- [ ] **Week 1:** Buy alize.studio (U163 — still not done after 55+ pulses, €10, 5 minutes)
+
+#### Month 1 Pipeline Test
+- [ ] **Month 1:** Self-serve inbound is the primary pipeline test. Measure: demo views → waitlist signups → purchase conversions. If zero after 4 weeks, reassess human outreach.
+- [ ] **D219 structural revision:** Senior commercial co-founder OR self-serve-first Alizé — Louis must choose one. Commercial model structurally incompatible with current setup regardless of which path.
+
+#### What Does NOT Change
+- D226 positioning sentence remains the working hero copy
+- Project-first → proof period → earned retainer remains the commercial model direction
+- Kuroba as internal deployment target — still valid, runs parallel to commercial motion
+- D82 capacity window (3-6 months) remains the effective constraint
+
+#### Cross-Cutting Finding (Pulse 56)
+All three agents independently converged: the problem is not wrong strategy — it's zero execution across 55+ pulses. The Kuroba-first model, the human-mediated sales assumption, and the U91 binary gate all share the same flaw: they assume Louis will execute when 91+ days of evidence says he won't while these conditions exist. The research has been documenting avoidance behavior, not solving it.
+
+*Auto-added by Pulse 56 — 2026-03-31 01:00 UTC*
