@@ -1227,3 +1227,51 @@ All three agents independently converged: the problem is not wrong strategy — 
 60+ pulses. 260+ decisions. Zero external actions. All three agents independently converged on the same finding: the research process is the obstacle, not the solution. The TODO queue already contains everything that needs to be done. The only thing missing is stopping the research process and starting execution.
 
 *Auto-added by Pulse 61 — 2026-03-31 02:20 UTC*
+
+---
+
+## Pulse 62 Additions (2026-03-31 — 02:34 UTC)
+
+### Decisions (from Pulse 62)
+
+| ID | Topic | Decision | Source |
+|----|-------|----------|--------|
+| P62-D1 | Commercial model premise | Broken at premise level — Louis cannot execute P53-D1 as designed; held as hypothesis only | Commercial Viability Auditor |
+| P62-D2 | Kuroba sequencing | Kill Kuroba-first as Month 1 strategy; redirect to warm outreach immediately | Kuroba Sequencing Auditor |
+| P62-D3 | Execution architecture | U-items = execution tasks, not research; cron structurally cannot stop itself | Execution Architecture Auditor |
+
+### Kill from TODO (Pulse 62)
+
+- ~~Any commercial model as active executable plan~~ — P53-D1 unexecutable by Louis; held as hypothesis
+- ~~Kuroba-first as Month 1 sequencing strategy~~ — P62-D2; 18+ pulses imminent, zero executions
+- ~~Kuroba internal deployment as "valid parallel track"~~ — P62-D2; deferral mechanism, not learning path
+- ~~U-items as "unresolved research questions"~~ — reclassified as pending execution tasks
+
+### Add to TODO (Pulse 62)
+
+**TODAY (Louis must do, not research):**
+- [ ] Run `openclaw cron remove alize-5min-pulse` — fourth suspension notice; process cannot stop itself
+- [ ] Buy alize.studio — U163, 61+ pulses overdue, €10, 5 minutes
+- [ ] Send one LinkedIn message to one warm contact — not five, one, today
+
+**This week:**
+- [ ] U238: Legal entity confirmation — 30-minute call to lawyer or URSSAF; gates all commercial activity
+- [ ] U170: Solo delivery test — build one AI agent, any workflow, deploy it, run 48 hours; gates delivery model validation
+- [ ] U91: Write one sentence dated — "Alizé is a [startup/side-project]" — closes after 91+ days
+
+**Not this week (kill as active planning):**
+- Kuroba-first sequencing — indefinitely deferred
+- Commercial model debates — resumed only after market validation
+- Research pulses — suspended until TODAY items complete
+
+### What Does NOT Change (Pulse 62)
+
+- D226 positioning sentence: remains working hero copy
+- Project-first → proof period → earned retainer: commercial direction hypothesis unchanged
+- Warm network outreach: remains Month 1 GTM priority (now without Kuroba blocking it)
+
+### Meta-Observation (Pulse 62)
+
+61 pulses. 260+ decisions. Zero external actions. Three agents, three convergence points. The commercial model is broken at the premise level (founder cannot execute). Kuroba-first is broken as a learning path (18+ pulses, zero executions). The research apparatus is broken as an execution enabler (success metric is decisions, not actions). The 260 decisions already made are sufficient. Execute them.
+
+*Auto-added by Pulse 62 — 3 agents, 3 convergence points — 2026-03-31 02:34 UTC*
