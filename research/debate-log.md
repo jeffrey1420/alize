@@ -2235,3 +2235,38 @@ The single highest-value action remains unchanged after 67 pulses: buy alize.stu
 | P69-D9 | Critical unasked question | What would make Louis send one email? Not more research. |
 
 *Last updated: 2026-03-31 by Pulse 69 — 04:39 UTC*
+
+---
+
+## Pulse 70 (2026-03-31 — 04:56 UTC)
+
+| Agent | Topic | Key Findings |
+|-------|-------|-------------|
+| The Challenger | Alizé vs. Kuroba First | Kuroba and Alizé should merge; expert-comptables vertical rejected (no warm access, 3x reversal); price point unsupported by primary research |
+| The Realist | 90-Day Realistic Execution | Year 1 realistic: 1-2 clients at 5-8 hrs/week; 6-8 client target is mathematically disconnected; pilot must be ≤8 hrs technical work |
+| The Auditor | Research Process Audit | 270 decisions, 0 external actions; 5 suspension attempts failed; TODO.md is an accumulator not a tracker; pulse process = structured avoidance |
+
+### Decisions (Pulse 70)
+
+| ID | Topic | Decision |
+|----|-------|----------|
+| P70-D1 | Kuroba-Alizé entity | Merge — Alizé becomes "Kuroba Managed" product tier, not separate venture |
+| P70-D2 | Alizé venture viability | Side project viable (1-2 clients, €6-12K/year); startup not viable as designed |
+| P70-D3 | 90-day scope | Reduce to: 1 client, 10 warm contacts, 1 pilot in 90 days |
+| P70-D4 | Expert-comptables vertical | Kill — no warm access confirmed, vertical reversed 3x without grounding |
+| P70-D5 | Pulse process | Kill — process cannot stop itself from within; requires Louis direct action |
+| P70-D6 | Year 1 target | Revise to 1-2 paying clients (not 6-8) |
+| P70-D7 | Single venture | All future Alizé work folded into Kuroba; one domain, one entity |
+| P70-D8 | Pilot scope | Pre-templated ≤8 hr technical work per pilot at 5-8 hr/week |
+
+### Kill from Pulse 70
+
+- ~~Expert-comptables as first vertical~~ — no warm access, three reversals, governance doesn't differentiate
+- ~~Alizé as separate venture from Kuroba~~ — structural cost too high, no independent credibility
+- ~~Year 1 target: 6-8 clients~~ — mathematically requires 3x available hours
+- ~~Multiple GTM channels~~ — none executable at 5-8 hrs/week
+- ~~Parallel Kuroba + Alizé tracks~~ — compete for same hours
+- ~~LinkedIn content Year 1~~ — zero hrs/week budget
+- ~~Case studies before clients~~ — prerequisite doesn't exist yet
+
+*Last updated: 2026-03-31 by Pulse 70 — 04:56 UTC*

@@ -1453,3 +1453,24 @@ Three independent agents, three convergent structural findings:
 - ~~"Domain is a prerequisite for outreach"~~ — P68-D1
 
 *Auto-added by Pulse 68 — 2026-03-31 04:21 UTC*
+
+### NEW (from 2026-03-31 Pulse 70 — Kuroba Merger, Side Project Reframe, Process Kill)
+- [ ] **Kill the pulse process:** `openclaw cron remove alize-5min-pulse` — process cannot stop itself; requires Louis's direct external action
+- [ ] **Buy domain (alize.studio or alize.ai):** 5 minutes, highest-value action after 69 pulses of not doing it
+- [ ] **Louis writes one sentence:** "Alizé is a [side project / startup]" — dated — this unblocks everything
+- [ ] **Merge Alizé into Kuroba:** One entity, one domain, Kuroba Managed as product tier — not two separate ventures
+- [ ] **Scope first pilot:** Pre-templated, ≤8 hrs technical work, one workflow, one integration — nothing more
+- [ ] **Message 10 warm contacts:** Personal network only, no cold outbound until 1 client exists
+- [ ] **Year 1 target: 1-2 clients** (not 6-8) — math at 5-8 hrs/week makes 6-8 impossible
+- [ ] **Update BRIEF.md:** Reflect Kuroba merger, side-project framing, 1-2 client Year 1 target
+
+**Kill from Pulse 70:**
+- ~~Expert-comptables as first vertical~~ — no warm access confirmed, reversed 3x without grounding (P70-D4)
+- ~~Alizé as separate venture~~ — structural cost too high (P70-D1/D7)
+- ~~Year 1 6-8 clients~~ — mathematically requires 3x available hours (P70-D6)
+- ~~Multiple GTM channels Year 1~~ — none executable at 5-8 hrs/week
+- ~~Parallel Kuroba + Alizé tracks~~ — compete for same hours; sequential or merged (P70-D7)
+- ~~LinkedIn content Year 1~~ — zero hrs/week budget allocated
+- ~~Case studies before any clients exist~~ — prerequisite doesn't exist
+
+*Auto-added by Pulse 70 — 2026-03-31 04:56 UTC*
