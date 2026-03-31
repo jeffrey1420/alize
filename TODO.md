@@ -1056,3 +1056,17 @@ This is the only actionable item that can stop the research loop. Research canno
 - [ ] Revise pilot contract terms: reference call availability as primary evidence ask (P52-D3), not case study rights
 
 *Auto-added by Pulse 52 — 2026-03-31 00:04 UTC*
+
+### NEW (from 2026-03-31 Pulse 53 — Commercial Model, GTM, Positioning)
+- [x] **P53-D1 — Year 1 commercial model REVISED:** Project-first entry replaces recurring as primary Year 1 commercial model. Flow: €3,000-5,000 AI workflow setup → €1,200-1,500/month proof period (months 1-3) → €2,000-2,500/month earned managed service. Retainer is earned, not sold at first conversation.
+- [x] **P53-D2 — Primary GTM channel REVISED:** Cold outbound IS the primary Year 1 pipeline channel. Warm network is Month 1 credibility generator only (produces case studies that make cold outbound viable). D26 warm network-first framing KILLED.
+- [x] **P53-D3 — Competitive naming rule REVISED:** "Never name competitors" becomes contextual rule: never in cold outreach, always in first demo call, optional landing page A/B test. "Copilot answers questions. Alizé runs your workflows." (D139) is the approved framing. D96 "never name Microsoft externally" as absolute rule KILLED.
+- [ ] **U270 — Project-first pricing:** Confirm €3,000-5,000 AI workflow setup range; define specific deliverables per tier
+- [ ] **U271 — Cold outbound launch date:** Calculate when D47 blockers (website live, 1 case study, ICP locked, delivery confirmed) actually clear
+- [ ] **U272 — Commercial closer timeline:** When is U86 resolved? This gates cold outbound launch per P53-D2
+- [ ] Update commercial offer document: Project-first flow (setup → proof period → retainer), not recurring-first
+- [ ] Update GTM section: Cold outbound as primary, warm network as Month 1 credibility generator
+- [ ] Update sales playbook: Always raise Copilot in first demo (D140 question); Agentova handler stays internal
+- [ ] Kill recurring revenue as Year 1 primary from all planning documents — replace with project-first commercial motion
+
+*Auto-added by Pulse 53 — 2026-03-31 00:16 UTC*
