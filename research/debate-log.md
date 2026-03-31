@@ -2328,3 +2328,40 @@ All three P70 decisions share the same structural flaw: they assume a structural
 3. Make a specific, dated, outcome-verifiable commitment to another human being — with pre-committed consequences for non-delivery
 
 *Auto-added by Pulse 72 — 2026-03-31 05:21 UTC*
+
+---
+
+## Pulse 73 (2026-03-31 — 05:36 UTC)
+
+### Decisions Added
+
+| ID | Topic | Decision | Source |
+|----|-------|----------|--------|
+| P73-D1 | Commitment pattern | Decision-as-terminal-event confirmed | Commitment Auditor |
+| P73-D2 | Research apparatus failure | 72+ pulses: research cannot fix research-avoidance | Commitment Auditor |
+| P73-D3 | U163 domain gate | euro10 domain not bought after 73+ pulses = structural avoidance | Commitment Auditor |
+
+### Key Findings
+
+**Commitment Auditor:** Research apparatus cannot save this. 73 pulses, 270+ decisions, zero external actions. U163 unresolved after 73+ "buy today" findings. U91 unresolved after 91+ days. Pulse process converts obligations into artifacts. Required intervention: named accountability with pre-specified consequences, or process killed externally.
+
+**GTM Auditor:** Warm network GTM is broken. Three assumptions unvalidated: network ICP fit unproven, credibility unearned, pilot-to-cold-outbound chain circular. Without ICP-filtered network map, "send warm messages" is theater repeated 73 times.
+
+**Commercial Auditor:** Pricing model has zero market validation. All three tiers theoretical. U102 WTP vs Copilot is the single breaking assumption. If prospects say Copilot is good enough, pricing architecture collapses. No prospect has ever been quoted Alize's price and reacted.
+
+### Kill List
+
+- Any finding that domain should be bought today — made 73+ times
+- Any finding that more research helps U91 — 91 days produced zero commitment
+- Pulse process as execution enabler — 4 suspension attempts failed
+
+### What Louis Must Do
+
+1. Buy alize.studio — euro10, 5 minutes. 73+ pulses overdue.
+2. Send one LinkedIn message to one warm contact — not five, one.
+3. Resolve U91 — write startup or side-project and date it.
+4. Deploy one Kuroba workflow — 30 minutes, screen record.
+
+### Meta-Observation
+
+73 pulses. 270+ decisions. Zero external actions. Three convergent findings: commitment problem structural, warm network has no target list, pricing has no market validation. The 270 decisions are sufficient. Next pulse should produce one external action, not more decisions.
