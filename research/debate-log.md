@@ -1705,3 +1705,28 @@ All three agents converged: the TODO queue already contains the right items (buy
 - D219 structural revision: Senior commercial co-founder OR self-serve-first — must choose
 
 *Last updated: 2026-03-31 by pulse 56 — 3 agents, 9 new decisions*
+
+### NEW (from 2026-03-31 Pulse 57 — Commercial, GTM, Competitive Challenges)
+- [x] **P57-D1 — Commercial model premise:** P53-D1 is unexecutable as stated; 0/4 execution moments achieved; commercial model debates are premature until Louis demonstrates single-action execution. Any commercial model works if Louis executes it. None work if he doesn't.
+- [x] **P57-D2 — GTM motion sequencing:** Self-serve/inbound is Year 2 target state, not Month 1 primary; warm outreach (direct, personal, no product required) is the actual Month 1 GTM motion; P56-D5 "primary motion" framing is backwards — self-serve is what Alizé evolves into after 3+ paying clients and a working demo.
+- [x] **P57-D3 — Regulated SME positioning:** "Regulated SMEs" is a segment descriptor, not a moat; regulatory framing is positioning risk without specific compliance wedge evidence; moat requires named regulatory constraint + buyer willing to pay. Use regulatory framing only when: (1) specific regulatory requirement named, (2) specific implementation differentiator demonstrated, (3) buyer willing to pay for that compliance gap identified.
+
+**Kill:**
+- P56-D5 "self-serve as primary motion" label — replace with "Year 2 target state"
+- Any commercial model treated as active plan — all are hypotheses pending single-action execution validation
+- "Regulated SMEs" as standalone positioning strength — needs specific compliance wedge evidence
+
+**Add:**
+- Week 1: Buy alize.studio — single irreversible action, no research required
+- Week 1: Send one LinkedIn message to one warm contact — not five, one
+- Week 1: Book one discovery call this week — not to close, to test problem framing
+- Month 1: Self-serve purchase page is Week 3-4 (requires live product first), not Week 1
+- Month 1: Warm outreach is actual Month 1 GTM motion (P57-D2)
+- Month 1: Validate "regulated SMEs" wedge with primary research before using in external materials
+
+**No Change:**
+- D226 positioning sentence remains working hero copy
+- Project-first → proof period → earned retainer remains commercial model direction (as hypothesis, not plan)
+- Kuroba internal deployment remains valid parallel track
+
+*Last updated: 2026-03-31 by pulse 57 — 3 agents, 3 new decisions*

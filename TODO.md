@@ -1128,3 +1128,34 @@ This is the only actionable item that can stop the research loop. Research canno
 All three agents independently converged: the problem is not wrong strategy — it's zero execution across 55+ pulses. The Kuroba-first model, the human-mediated sales assumption, and the U91 binary gate all share the same flaw: they assume Louis will execute when 91+ days of evidence says he won't while these conditions exist. The research has been documenting avoidance behavior, not solving it.
 
 *Auto-added by Pulse 56 — 2026-03-31 01:00 UTC*
+
+### NEW (from 2026-03-31 Pulse 57 — Commercial, GTM, Competitive)
+- [x] **P57-D1 — Commercial model premise (TODO update):** P53-D1 is unexecutable as stated; 0/4 execution moments achieved across 56+ pulses. Treat all commercial models as hypotheses to test, not plans to execute. Single-action execution (domain, one message, one call) gates all commercial model validation.
+- [x] **P57-D2 — GTM motion sequencing (TODO update):** Self-serve/inbound-first is Year 2 target state, not Month 1 primary motion. Warm outreach (direct, personal, no product required) is the actual Month 1 GTM motion. P56-D5 "primary motion" label superseded. Self-serve purchase page is Week 3-4 (requires live product first).
+- [x] **P57-D3 — Regulated SME positioning (TODO update):** "Regulated SMEs" is a segment descriptor, not a moat. Regulatory framing is a positioning risk without specific compliance wedge evidence. Use regulatory framing only when: (1) specific regulatory requirement named, (2) specific implementation differentiator demonstrated, (3) buyer willing to pay for that compliance gap identified.
+
+**Kill from TODO (Pulse 57):**
+- ~~P56-D5 "self-serve as primary motion"~~ — replaced with "Year 2 target state" per P57-D2
+- ~~Any commercial model confidence as active plan~~ — all are hypotheses pending single-action execution per P57-D1
+- ~~"Regulated SMEs" as standalone positioning strength~~ — needs specific compliance wedge evidence per P57-D3
+
+**Add to TODO (Pulse 57):**
+- [ ] **Week 1:** Buy alize.studio — single irreversible action, no research required, still not done after 56+ pulses
+- [ ] **Week 1:** Send one LinkedIn message to one warm contact — not five, one. P57-D2 supersedes P56's "send demo link" with "direct personal message"
+- [ ] **Week 1:** Book one discovery call this week — not to close, to test problem framing. This IS the Month 1 GTM per P57-D2
+- [ ] **Week 3-4:** Self-serve purchase page — requires live product first. Not Week 1 per P57-D2
+- [ ] **Month 1:** Warm outreach is actual Month 1 GTM motion (P57-D2), not self-serve inbound
+- [ ] **Month 1:** Validate "regulated SMEs" wedge with primary research before using in external materials (P57-D3)
+
+**Still unresolved after 57 pulses (no change):**
+- U163: alize.studio domain (not bought after 57+ pulses)
+- Kuroba deployment (still not executed)
+- Louis warm network map (U52 — still unmapped)
+- Louis binary choice / entity status (U91/U238 — still unresolved)
+
+**No change:**
+- D226 positioning sentence remains working hero copy
+- Project-first → proof period → earned retainer remains commercial model direction (as hypothesis per P57-D1)
+- Kuroba internal deployment remains valid parallel track
+
+*Auto-added by Pulse 57 — 2026-03-31 01:19 UTC*
