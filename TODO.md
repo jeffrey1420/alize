@@ -1519,3 +1519,42 @@ Three independent agents, three convergent structural findings:
 The 270+ decisions already made are sufficient. The only thing that changes Alizé's execution rate is Louis deciding to execute it. No amount of research, restructuring, or process reform produces that decision.
 
 *Auto-added by Pulse 72 — 2026-03-31 05:21 UTC*
+
+### NEW (from 2026-03-31 Pulse 74 — Proof, Pricing, GTM Sequencing Audits)
+
+**Challenges issued against P67/P53/P57 decisions:**
+
+- [x] **P74-D1 — Kuroba as commercial proof KILLED:** Kuroba internal deployment ≠ external commercial evidence. Category error confirmed. Kuroba = Louis's personal capability claim only. Not proof that ICP prospects will buy.
+
+- [x] **P74-D2 — "Co-founded Kuroba" in cold outreach REVISED:** Wrong in first cold message. Belongs in third message after prospect has engaged. Status differential runs wrong direction (prospect's firm bigger than Kuroba).
+
+- [x] **P74-D3 — Pricing validation REVISED:** Go to market NOW with any pricing config. 73 pulses of pricing debate = zero market data. "No prospect has ever been quoted Alizé's price" (P55-D1) is a crisis, not a footnote.
+
+- [x] **P74-D4 — D155 "€490 credibility problem" KILLED:** Unvalidated speculation. No market data. B2B buyers often read low price as positive signal for SMB.
+
+- [x] **P74-D5 — U102 WTP vs Copilot REVISED:** Cannot be resolved in conference room. Must be asked to prospects. U102's unresolved status is the reason to go to market, not a reason to keep debating.
+
+- [x] **P74-D6 — Warm-first GTM sequencing KILLED:** Warm list doesn't exist after 73 pulses. Cold and warm run simultaneously starting Week 1.
+
+- [x] **P74-D7 — U52 warm network map:** Week 1 execution task (3-5 days), not research gate. 20-30 named contacts with ICP filter.
+
+- [x] **P74-D8 — Kuroba sequencing:** Parallel with outreach, not prerequisite. Kuroba = delivery education, not commercial proof.
+
+**Kill from Pulse 74:**
+- ~~P67-D3 "Kuroba internal deployment is sufficient"~~ — P74-D1
+- ~~D155 "€490 creates credibility problem"~~ — P74-D4 (speculative)
+- ~~Warm-first as Year 1 GTM sequencing~~ — P74-D6
+- ~~U102 as research task to resolve before outreach~~ — P74-D5
+- ~~"Pricing must be finalized before market contact"~~ — P74-D3 (planning fallacy)
+
+**What Louis must actually do (unchanged after 74 pulses):**
+- [ ] Buy alize.studio — €10, 5 minutes, no research required — U163, 74+ pulses overdue
+- [ ] Send one outreach message today — cold or warm, doesn't matter, send one
+- [ ] Map 20-30 warm contacts this week — 3-5 days focused LinkedIn work
+- [ ] Book 5 discovery calls with prices attached — any pricing config, just go
+- [ ] Run Kuroba in parallel with outreach — delivery education, not commercial proof
+
+**Pulse 74 meta-conclusion:**
+74 pulses. 290+ decisions. Zero external actions. Three convergent findings across Kuroba evidence, pricing validation, and GTM sequencing: the "prerequisites" are substitutes for market contact, not precursors to it. Completing Kuroba, finalizing pricing, and mapping the warm network all still don't produce what one discovery call produces. The only thing that changes Alizé's execution rate is Louis deciding to execute it.
+
+*Auto-added by Pulse 74 — 2026-03-31 05:52 UTC*
