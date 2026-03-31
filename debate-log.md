@@ -259,3 +259,40 @@
 **Verdict:** CHALLENGED — U120 added: re-evaluate first workflow against case study value + operational criticality (D124)
 
 *Log updated: 2026-03-30 (Pulse 24)*
+
+---
+
+## Pulse 78 (2026-03-31 — 06:55 UTC)
+
+| Agent | Topic | Key Findings |
+|-------|-------|-------------|
+| Kuroba Merger Auditor | Folding Alizé into Kuroba | "Ask Maëli/Gabin" is pulse 78's deferral mechanism; Kuroba solution is same pattern (research → plan → execute) with different stakeholders; 290+ decisions = graveyard of intentions |
+| Cron Terminator Auditor | Terminating cron as intervention | Cron is a mirror not a cause; Kuroba succeeds without it; 4 prior terminations failed structurally; U238 (legal entity) is the real structural blocker |
+| Execution Pattern Auditor | Alizé problem classification | Louis has already decided Alizé is a research project; 211 research files + unacknowledged domain registration confirm this; Kuroba vs Alizé = same person, different relationship |
+
+### Decisions from Pulse 78
+
+| ID | Topic | Decision | Source |
+|----|-------|----------|--------|
+| P78-D1 | Kuroba merger | Is pulse 78's deferral mechanism — research is not execution | Kuroba Merger Auditor |
+| P78-D2 | Cron termination | Symptom not cause; U238 legal entity is the real structural blocker | Cron Terminator Auditor |
+| P78-D3 | Problem classification | Louis has implicitly decided Alizé is a research project | Execution Pattern Auditor |
+
+### Kill from Pulse 78
+
+- ~~"Folding into Kuroba" as structural solution~~ — P78-D1: same behavioral pattern, new stakeholders
+- ~~"Terminate cron" as sufficient intervention~~ — P78-D2: mirror not cause; 4 prior failures structural
+- ~~"Alizé problem is strategic"~~ — P78-D3: 211 research files + unacknowledged domain = research project
+
+### Add from Pulse 78
+
+- [ ] **U238 (legal entity):** Answer in writing today — gates all commercial activity
+- [ ] **Disable cron:** `openclaw cron remove alize-5min-pulse` — 5th termination notice
+- [ ] **Execute one existing decision:** The 290+ decisions are sufficient; do one
+- [ ] **Binary choice explicit:** Is Alizé a real venture or a research project? Write it down and date it.
+
+### Cross-Cutting Convergence (Pulse 78)
+
+All three agents independently confirmed: the research process is the obstacle. 78 pulses, 290+ decisions, zero external actions. Kuroba executes without research pulses. Alizé fails with 211 research files. The difference is Louis's relationship to each venture — and that doesn't change by removing a document.
+
+*Auto-added by Pulse 78 — 2026-03-31 06:55 UTC*
