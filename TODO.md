@@ -39,6 +39,16 @@
 | D38 | Minimum price | €2,000-2,500/month/client (consulting economics); €1,200 too low | Model identity (Pulse 10) | 2026-03-30 |
 | D39 | Hiring priority | Delivery partners before platform engineers | Model identity (Pulse 10) | 2026-03-30 |
 | D40 | Network exhaust plan | Build cold-outbound-ready assets in Year 1 while warm network lasts | Model identity (Pulse 10) | 2026-03-30 |
+| D260 | Domain | Buy alize.studio today — no more research | Velocity agent (Pulse 77) | 2026-03-31 |
+| D261 | Network map | Louis maps contacts today — ICP filter applied | Velocity agent (Pulse 77) | 2026-03-31 |
+| D262 | Alizé independence | Binary question for Maëli/Gabin conversation | Kuroba agent (Pulse 77) | 2026-03-31 |
+| D263 | Kuroba integration | If team agrees: fold Alizé into Kuroba AI practice | Kuroba agent (Pulse 77) | 2026-03-31 |
+| D264 | Cron loop | Disable alize-5min-pulse after this run | Sprint agent (Pulse 77) | 2026-03-31 |
+| D265 | Sprint | Execute 7-day sprint: domain + landing page + one email | Sprint agent (Pulse 77) | 2026-03-31 |
+| D266 | Kuroba integration | Fold Alizé into Kuroba as named AI service offering — brand dies, IP survives, Louis stops being solo | Kuroba agent (Pulse 78) | 2026-03-31 |
+| D267 | 48hr sprint | Louis sends 1 LinkedIn DM today — no prerequisites required | 48hr agent (Pulse 78) | 2026-03-31 |
+| D268 | ICP redefinition | Alizé ICP must match actual warm network OR cold outbound to stated ICP | Grinto ICP agent (Pulse 78) | 2026-03-31 |
+| D269 | D187 resolution | Resolve Grinto conflict explicitly — get permission or abandon path | Grinto ICP agent (Pulse 78) | 2026-03-31 |
 
 ## 🔄 Unresolved — Needs Louis Decision
 
@@ -57,6 +67,9 @@
 | U16 | First pilot vertical | Digital agencies/e-commerce confirmed — but which specific type? | Follow Grinto connections |
 | U17 | Pilot fee final | **RESOLVED (D24)** — €4,500 fixed all-in; signed scope document; change triggers €750/day; exit criteria defined | Needs Louis sign-off |
 | U26 | GTM channel priority | **Network-first (warm outreach primary) + cold outbound supplement** vs. outbound-only | Month 1 resource allocation — does Louis lead warm outreach personally or delegate to SDR? |
+| U270 | Kuroba-Alizé merger | Maëli/Gabin conversation — do they agree to add AI services to Kuroba? | Must happen this week |
+| U271 | ICP lower bound | Should Alizé's ICP be lowered to 1-20 person micro-businesses to match Louis's network? | Decision changes pricing and delivery model |
+| U272 | Grinto conflict | Has Louis used Grinto relationships for Alizé commercial gain? | Requires explicit yes/no; D187 unresolved since Pulse 36 |
 
 ## 📋 TODO (from research + debates)
 
