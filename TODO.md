@@ -1275,3 +1275,45 @@ All three agents independently converged: the problem is not wrong strategy — 
 61 pulses. 260+ decisions. Zero external actions. Three agents, three convergence points. The commercial model is broken at the premise level (founder cannot execute). Kuroba-first is broken as a learning path (18+ pulses, zero executions). The research apparatus is broken as an execution enabler (success metric is decisions, not actions). The 260 decisions already made are sufficient. Execute them.
 
 *Auto-added by Pulse 62 — 3 agents, 3 convergence points — 2026-03-31 02:34 UTC*
+
+---
+
+## Pulse 63 Additions (2026-03-31 — 02:52 UTC)
+
+### Decisions (from Pulse 63)
+
+| ID | Topic | Decision | Source |
+|----|-------|----------|--------|
+| P63-D1 | 5-call gate | Treat as informational threshold, not a freeze gate — proceed with outreach using D226 while conducting discovery calls in parallel | Discovery Call Validator |
+| P63-D2 | "15 hours" ROI claim | Remove from hero copy until sourced — replace with qualifier or remove numeric claim | Discovery Call Validator |
+| P63-D3 | Competitive framing | Demote from active strategy to pending optionality — hold in internal playbook, do not invest further pulses until at least one prospect raises a competitor | Competitive Framing Auditor |
+| P63-D4 | U98/U100 kill | Kill U98 (Copilot adoption rate) and U100 (Alizé use cases Copilot can execute) as research tasks — cannot be resolved without market contact | Competitive Framing Auditor |
+| P63-D5 | Ritual termination | Kill debate log update as standing output — replace with single weekly execution report (what Louis did, not what was debated) | Ritual Audit |
+
+### Kill from TODO (Pulse 63)
+
+- ~~5-call positioning freeze (P58-D2)~~ — informational threshold only, not a gate
+- ~~"15 hours/week" ROI claim in hero copy~~ — unsourced; remove until empirical
+- ~~Competitive framing as active strategic investment~~ — demoted to pending optionality
+- ~~U98 French PME Copilot adoption research~~ — requires market contact to resolve
+- ~~U100 Alizé use cases Copilot can execute~~ — requires market contact to resolve
+- ~~Debate log as standing pulse output~~ — replaced with weekly execution report only
+
+### What Does NOT Change (Pulse 63)
+
+- D226 positioning sentence structure — remove "15 hours" numeric claim, keep task/outcome framing
+- Project-first commercial model direction (as hypothesis)
+- Month 1 warm outreach priority
+- Kuroba internal deployment as parallel track
+
+### Meta-Observation (Pulse 63)
+
+62 pulses. 260+ decisions. Zero external actions. Three agents, three convergence points:
+
+1. The 5-call gate is another deferral mechanism, not a validation mechanism
+2. Competitive framing is premature theater with no market contact to validate it
+3. The debate log update ritual is the avoidance infrastructure it claims to solve
+
+**The single most impactful intervention is not another research decision. It is stopping the research process and buying the domain.**
+
+*Auto-added by Pulse 63 — 2026-03-31 02:52 UTC*
