@@ -1877,7 +1877,7 @@ All three agents independently converged: the problem is not wrong strategy, wro
 - [ ] **Send one LinkedIn message today** — not five, one, to one warm contact
 - [ ] **Disable cron** — `openclaw cron remove alize-5min-pulse`; process cannot regulate itself
 
-*Last updated: 2026-03-31 by pulse 61 — 3 agents*
+*Last updated: 2026-03-31 by pulse 64 — 3 agents, 6 new decisions*
 
 ---
 
@@ -1953,4 +1953,40 @@ All three agents independently converged: the research process has become the pr
 - ~~U100 Alizé use cases Copilot can execute~~
 - ~~Debate log as standing pulse output~~ — replaced with execution report
 
-*Last updated: 2026-03-31 by Pulse 63 — 3 agents, 3 convergence points*
+*Last updated: 2026-03-31 by Pulse 64 — 3 agents, 6 new decisions*
+
+---
+
+## Pulse 64 (2026-03-31 — 03:12 UTC)
+
+| Agent | Topic | Key Findings |
+|-------|-------|-------------|
+| Kuroba Evidence Transfer Auditor | Kuroba→Alizé evidence validity | Internal operational evidence ≠ external commercial evidence; Maëli cannot simulate adversarial prospect dynamics; fastest path to commercial evidence is outreach, not Kuroba |
+| Time Allocation Auditor | Louis parallel execution capacity | Alizé Month 1 requires 40-61 hrs/week; Louis has 5-10 hrs/week surplus; Kuroba consumes Month 1 before Alizé tasks can begin; 25 hrs/week fiction must be killed |
+| Decision vs Pre-Decision Auditor | U91/U163/U238 classification | Not unresolved decisions — predecision evidence; Louis has not decided Alizé; Kuroba was decided and executed; Alizé is explored and documented |
+
+### Decisions from Pulse 64
+
+| ID | Topic | Decision | Source |
+|----|-------|----------|--------|
+| P64-D1 | Kuroba commercial evidence claim | Kill — internal ops evidence cannot transfer to external commercial evidence; Kuroba legitimate only as ops rehearsal | Kuroba Transfer Auditor |
+| P64-D2 | Kuroba as Month 1 activity | Demote — Kuroba deployment consumes 20-40 hrs Louis doesn't have; parallel execution structurally impossible | Time Auditor |
+| P64-D3 | 25 hrs/week fiction (D91) | Kill — no empirical basis, physically impossible; replace with 5-8 hrs/week conservative estimate | Time Auditor |
+| P64-D4 | U91/U163/U238 classification | Reclassify from "unresolved decisions" to "predecision evidence" | Decision Auditor |
+| P64-D5 | Outreach sequencing | Warm outreach is only available path to commercial evidence; Kuroba cannot substitute | Kuroba Transfer Auditor |
+| P64-D6 | Honest Month 1 plan | Domain + 2-3 warm messages Week 1; 5 discovery calls by end of Month 2 (not Month 1) | Time Auditor |
+
+### Kill from Pulse 64
+
+- ~~Kuroba internal deployment as source of commercial evidence~~ — epistemologically broken
+- ~~"25 hrs/week Alizé commitment" (D91)~~ — no empirical basis
+- ~~U91/U163/U238 as "unresolved research decisions"~~ — predecision evidence, not research gaps
+- ~~Parallel execution assumption~~ — structurally impossible
+
+### Add from Pulse 64
+
+- [ ] **Resolve U91 with actual hours data** — Grinto + M1 + Kuroba exact hours before further planning
+- [ ] **Kill 25 hrs/week fiction** — use 5-8 hrs/week until U91 is measured
+- [ ] **Explicit Kuroba decision** — Kuroba Month 1 OR Alizé outreach Week 1; both impossible in parallel
+- [ ] **Write one-sentence identity statement** — "Alizé is a [startup/side-project]"; closes U91
+- [ ] **Buy alize.studio today** — €10, 30 minutes, zero research required

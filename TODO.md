@@ -1147,6 +1147,25 @@ All three agents independently converged: the problem is not wrong strategy — 
 - [ ] **Month 1:** Warm outreach is actual Month 1 GTM motion (P57-D2), not self-serve inbound
 - [ ] **Month 1:** Validate "regulated SMEs" wedge with primary research before using in external materials (P57-D3)
 
+## NEW (from 2026-03-31 Pulse 64 — Time, Decision State, Kuroba Evidence)
+- [x] **P64-D1 — Kuroba commercial evidence claim:** Kill — internal ops evidence cannot transfer to external commercial evidence; Kuroba legitimate only as ops rehearsal
+- [x] **P64-D3 — 25 hrs/week fiction (D91):** Kill — no empirical basis; replace with 5-8 hrs/week conservative estimate until U91 is measured
+- [x] **P64-D4 — U91/U163/U238 classification:** Reclassify from "unresolved decisions" to "predecision evidence" — Louis has not transitioned from exploration to commitment on Alizé
+- [x] **P64-D5 — Outreach sequencing:** Warm outreach is the only available path to commercial evidence; Kuroba cannot substitute
+- [x] **P64-D6 — Honest Month 1 plan:** Domain + 2-3 warm messages Week 1; 5 discovery calls by end of Month 2 (not Month 1) given 5-8 hrs/week realistic capacity
+
+**Kill:**
+- Kuroba internal deployment as source of commercial evidence (epistemologically broken)
+- "25 hrs/week Alizé commitment" (D91) — no empirical basis, structurally impossible
+- U91/U163/U238 as "unresolved research decisions" — predecision evidence, not research gaps
+- Parallel execution assumption — structurally impossible
+
+**Add:**
+- [ ] Resolve U91 with actual hours data (Grinto + M1 + Kuroba exact hours)
+- [ ] Explicit Kuroba OR Alizé Month 1 choice (both cannot happen)
+- [ ] Write one-sentence identity statement: "Alizé is a [startup/side-project]"
+- [ ] Buy alize.studio today
+
 **Still unresolved after 57 pulses (no change):**
 - U163: alize.studio domain (not bought after 57+ pulses)
 - Kuroba deployment (still not executed)
