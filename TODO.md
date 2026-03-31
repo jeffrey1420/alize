@@ -1159,3 +1159,34 @@ All three agents independently converged: the problem is not wrong strategy — 
 - Kuroba internal deployment remains valid parallel track
 
 *Auto-added by Pulse 57 — 2026-03-31 01:19 UTC*
+
+---
+
+## Pulse 58 Additions (2026-03-31)
+
+### Decisions (from Pulse 58)
+
+| ID | Topic | Decision | Source |
+|----|-------|----------|--------|
+| P58-D1 | Kuroba sequencing | Deferral mechanism, not prerequisite; runs parallel, not before market outreach | Kuroba Auditor |
+| P58-D2 | D226 positioning | Freeze external use until 5 discovery calls validate problem framing | Positioning Auditor |
+| P58-D3 | Execution root cause | Behavioral pattern problem, not strategy deficit; pulse process = avoidance infrastructure | Execution Pattern Auditor |
+
+### Add to TODO (Pulse 58)
+
+- [ ] **Week 1: 5 discovery calls** — problem-validation only, no pitch, 3/5 confirmation threshold before D226 used externally
+- [ ] **Week 1: Explicit Kuroba cooperation ask** — Maëli and Gabin must formally agree to deployment scope in writing; not assumed
+- [ ] **Week 1: Define Kuroba evidence deliverables** — what exactly gets documented, in what format, for whom — before building
+- [ ] **Structural: Disable research pulse** — remove avoidance infrastructure; not suspend, terminate
+
+### Kill from TODO (Pulse 58)
+
+- ~~"Kuroba as prerequisite for outreach"~~ — P58-D1 confirms this is a deferral mechanism
+- ~~"D226 ready for external use"~~ — P58-D2 confirms it needs 5 discovery calls first
+- ~~Any commercial model as execution unlock~~ — P58-D3 confirms execution failure is behavioral, not strategic
+
+### Meta-Observation (Pulse 58)
+
+58 pulses. 150+ research files. Zero external actions. The pulse process has run every 5 minutes for 30+ hours producing one thing: more pulse inputs. At some point the process becomes the product — and the product is research, not revenue.
+
+*Last updated: 2026-03-31 by pulse 58*
