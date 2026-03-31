@@ -1190,3 +1190,40 @@ All three agents independently converged: the problem is not wrong strategy — 
 58 pulses. 150+ research files. Zero external actions. The pulse process has run every 5 minutes for 30+ hours producing one thing: more pulse inputs. At some point the process becomes the product — and the product is research, not revenue.
 
 *Last updated: 2026-03-31 by pulse 60*
+
+---
+
+## Pulse 61 Additions (2026-03-31 — 02:20 UTC)
+
+### Decisions (from Pulse 61)
+
+| ID | Topic | Decision | Source |
+|----|-------|----------|--------|
+| P61-D1 | Inbound-first GTM | Kill self-serve/inbound-first as Month 1-3 primary; requires product + proof that don't exist; outbound remains only viable path | Inbound GTM Auditor |
+| P61-D2 | Expert-comptables vertical | Kill expert-comptables as first vertical; Pennylane/Cegid own integration surface, zero warm contacts, domain expertise not acquirable in Month 1-3 | Vertical Wedge Auditor |
+| P61-D3 | Enforcement mechanisms | Kill more structured enforcement as execution solution; 4 suspensions failed, U91 survived 91 days; surgical removal of research apparatus is only viable path | Execution Pattern Auditor |
+
+### Kill from TODO (Pulse 61)
+
+- ~~Self-serve/inbound-first as Month 1-3 GTM~~ — P61-D1
+- ~~Expert-comptables as first vertical~~ — P61-D2
+- ~~Any enforcement mechanism as execution solution~~ — P61-D3
+
+### Add to TODO (Pulse 61)
+
+**TODAY (irrespective of all other planning):**
+- [ ] Buy alize.studio — U163, 60+ pulses overdue, €10, 5 minutes, no research required
+- [ ] Send one LinkedIn message to one warm contact — not five, one
+- [ ] Disable alize-5min-pulse cron — `openclaw cron remove alize-5min-pulse`; process cannot regulate itself
+
+### What Does NOT Change
+
+- D226 positioning sentence remains the working hero copy
+- Project-first → proof period → earned retainer remains commercial model direction (as hypothesis)
+- Kuroba internal deployment remains valid parallel track
+
+### Meta-Observation (Pulse 61)
+
+60+ pulses. 260+ decisions. Zero external actions. All three agents independently converged on the same finding: the research process is the obstacle, not the solution. The TODO queue already contains everything that needs to be done. The only thing missing is stopping the research process and starting execution.
+
+*Auto-added by Pulse 61 — 2026-03-31 02:20 UTC*
