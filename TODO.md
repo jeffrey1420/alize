@@ -1494,3 +1494,28 @@ Three independent agents, three convergent structural findings:
 71 pulses. 270+ decisions. Zero external actions. The merger, the target reduction, and the pulse kill all share the same flaw: they treat a behavioral problem with structural solutions. Louis executes Kuroba. He doesn't execute Alizé. The difference is not the entity structure, the target size, or the research process. The difference is what Louis has decided to do. Until that changes, nothing else does.
 
 *Auto-added by Pulse 71 — 2026-03-31 05:08 UTC*
+
+### NEW (from 2026-03-31 Pulse 72 — Behavioral, Merger, Process Kill Challenges)
+
+**Challenges issued against P70/P71 decisions:**
+
+- [x] **P72-D1 — Kuroba deployment as outreach prerequisite KILLED:** Kuroba-first is itself the deferral mechanism. 18 prior "imminent" Kuroba deployments never triggered Alizé action. The mechanism: Identity Protection Through Sequential Preconditioning — "build Kuroba first" explicitly avoids the identity commitment that starting Alizé requires.
+
+- [x] **P72-D2 — Merger (P70-D1) as execution fix KILLED:** All 3 merger assumptions overturned: (1) overhead is behavioral not structural — merging doesn't change Louis's decision-avoidance pattern; (2) Kuroba credibility doesn't transfer — earned trust doesn't relocate via corporate restructuring; (3) priority problem unchanged — merger doesn't create more hours, just reorganizes attention.
+
+- [x] **P72-D3 — Pulse kill as sufficient intervention REVISED:** Pulse removal is necessary but not sufficient. Louis treats decisions as terminal events (completed when made) not as obligations (enforced over time). D249 "suspend the pulse" was itself an execution that failed to stick. Requires hard commitment externalizer: specific outcome commitment + someone whose only job is to ask "did you do it?" + pre-committed consequences.
+
+**What Louis must actually do (unchanged after 72 pulses):**
+- [ ] Buy alize.studio — €10, 5 minutes, no research required — U163, 72+ pulses overdue
+- [ ] Send one outreach message to one warm contact — today, not after Kuroba is deployed
+- [ ] Make a specific, dated, outcome-verifiable commitment to another human being — not a process rule, not a meta-finding; a commitment with a follow-up appointment and pre-specified consequences for non-delivery
+
+**Pulse 72 meta-conclusion:**
+72 pulses. Three converging findings:
+1. Kuroba-first is identity protection, not a plan — the deployment is the deferral
+2. Merger is structural reorganization of behavioral debt — doesn't fix what Louis avoids
+3. Pulse kill is necessary but not sufficient — Louis's relationship to commitment is the actual blocker
+
+The 270+ decisions already made are sufficient. The only thing that changes Alizé's execution rate is Louis deciding to execute it. No amount of research, restructuring, or process reform produces that decision.
+
+*Auto-added by Pulse 72 — 2026-03-31 05:21 UTC*

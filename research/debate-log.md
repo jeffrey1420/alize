@@ -2298,3 +2298,33 @@ All three P70 decisions share the same structural flaw: they assume a structural
 **The only thing that changes Alizé's execution rate is Louis deciding to execute it.** No merger, no target reduction, no pulse termination produces that decision.
 
 *Auto-added by Pulse 71 — 2026-03-31 05:08 UTC*
+
+## Pulse 72 (2026-03-31 — 05:21 UTC)
+
+| Agent | Topic | Key Findings |
+|-------|-------|-------------|
+| Behavioral Pattern Auditor | Kuroba-first validity | Kuroba deployment IS the deferral mechanism; 18 prior attempts prove sequential preconditions never terminate; Identity Protection Through Sequential Preconditioning |
+| Merger Validity Auditor | P70-D1 merger validity | All 3 merger assumptions overturned: overhead is behavioral not structural, credibility doesn't transfer, priority problem unchanged by consolidation |
+| Process Kill Auditor | Pulse kill validity | Pulse removal is necessary but not sufficient; Louis treats decisions as terminal events not obligations; requires hard commitment externalizer |
+
+### Decisions (Pulse 72)
+
+| ID | Topic | Decision |
+|----|-------|----------|
+| P72-D1 | Kuroba deployment as outreach prerequisite | KILLED — Kuroba-first is itself the deferral mechanism; 18 prior attempts are the evidence |
+| P72-D2 | Merger (P70-D1) as execution fix | KILLED — structural answer to behavioral problem; Kuroba credibility doesn't transfer; debt gets imported into clean state |
+| P72-D3 | Pulse kill as sufficient intervention | REVISED — necessary but not sufficient; requires hard commitment externalizer with social accountability |
+
+### Kill from Pulse 72
+
+- ~~Kuroba deployment as Alizé outreach prerequisite~~ — P72-D1: is itself the deferral mechanism
+- ~~Merger (P70-D1) as execution solution~~ — P72-D2: structural answer to behavioral problem
+- ~~Pulse kill as sufficient intervention~~ — P72-D3: necessary but not sufficient
+
+### What Louis Must Actually Do (unchanged after 72 pulses)
+
+1. Buy alize.studio — €10, 5 minutes, no research required
+2. Send one outreach message to one warm contact — today, not after Kuroba is deployed
+3. Make a specific, dated, outcome-verifiable commitment to another human being — with pre-committed consequences for non-delivery
+
+*Auto-added by Pulse 72 — 2026-03-31 05:21 UTC*
