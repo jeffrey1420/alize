@@ -1433,3 +1433,23 @@ Three independent agents, three convergent structural findings:
 | P53-D3 | Competitive naming | Never in cold outreach, always in first demo call |
 
 *Auto-added by Pulse 67 — 2026-03-31 04:07 UTC*
+
+### NEW (from 2026-03-31 Pulse 68 — Execution Blockers, Proof Threshold, Kuroba Sequencing)
+- [x] **P68-D1 — Domain as gate KILLED:** Domain is not a prerequisite for outreach; buy as ritual commitment after sending, not before
+- [x] **P68-D2 — Kuroba proof threshold contradiction:** P67-D3 and P67-D7/D9 are internally inconsistent under current (undeployed) conditions; Louis must choose: send with honest "live demo coming" framing, OR spend 30 min deploying one Kuroba workflow first
+- [x] **P68-D3 — Kuroba simultaneity KILLED:** P67-D6 "simultaneous" is the same mechanism that failed 18+ times; outreach is primary track today; Kuroba gets hard-deadline conversation with Gabin
+- [x] **P68-D4 — 30-minute Kuroba proof action:** One Mastra agent, one task (Lou/Maëli does manually), 30 minutes, screen recording = minimum viable proof asset
+- [x] **P68-D5 — P67-D9 message send decision:** Send — with honest "live demo from Kuroba coming" caveat in message
+
+**Louis's actions for today:**
+- **TODAY:** Send P67-D9 outreach message to first warm contact (with honest Kuroba caveat if not yet deployed)
+- **TODAY:** Buy alize.studio as ritual commitment (after sending, not before)
+- **TODAY:** Message Gabin: "What's the hard deadline for Kuroba landing page? Give me a date."
+- **TODAY (30 min):** Build one Mastra agent for one Kuroba task → screen record 90 seconds → add link to outreach message
+
+**Kill from TODO (Pulse 68):**
+- ~~P67-D3 "Kuroba internal deployment is sufficient"~~ — P68-D2: not when undeployed. Sufficient only once deployed.
+- ~~P67-D6 "simultaneous Kuroba + outreach"~~ — P68-D3: same failure mode as 18 prior Kuroba pulses
+- ~~"Domain is a prerequisite for outreach"~~ — P68-D1
+
+*Auto-added by Pulse 68 — 2026-03-31 04:21 UTC*
