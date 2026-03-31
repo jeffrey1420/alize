@@ -1336,3 +1336,67 @@ All three agents independently converged: the problem is not wrong strategy — 
 **The single most impactful intervention is not another research decision. It is stopping the research process and buying the domain.**
 
 *Auto-added by Pulse 63 — 2026-03-31 02:52 UTC*
+
+---
+
+## Pulse 66 Additions (2026-03-31 — 03:54 UTC)
+
+### Decisions (from Pulse 66)
+
+| ID | Topic | Decision | Source |
+|----|-------|----------|--------|
+| P66-D1 | D74/D86/D219 Path A | PARTIALLY INVALID — co-founder demoted from prerequisite to optional accelerator; outcome-first model (demo → priced outcome) changes credibility equation | Commercial Credibility Auditor |
+| P66-D2 | Louis credibility ceiling | REVISED: basic commercial fluency + working demo sufficient; does NOT require senior commercial co-founder | Commercial Credibility Auditor |
+| P66-D3 | U52 as outreach prerequisite | KILLED — U52 (network map) is NOT a prerequisite for warm outreach; map documents what Louis already knows; start outreach immediately | GTM Channel Auditor |
+| P66-D4 | Binary choice format | REMOVE from pulse process — creates satisfaction without external commitment; structurally rewards deciding over doing | Process Pattern Auditor |
+| P66-D5 | Decision log as metric | KILL — track external actions taken (emails, calls, domains bought), not decisions made | Process Pattern Auditor |
+| P66-D6 | Pulse process | Structural intervention required — process actively harmful, not neutral; 65 pulses of evidence | Process Pattern Auditor |
+
+### Kill from TODO (Pulse 66)
+
+- ~~D74 "requires senior co-founder"~~ — P66-D2 revises; working demo mitigates credibility ceiling
+- ~~D86 "closing skill is blocking"~~ — P66-D2 reclassifies to manageable with basic training
+- ~~D219 Path A as only viable path~~ — P66-D1 demotes to optional; new Path C: outcome-first Louis solo
+- ~~U52 as prerequisite for warm outreach~~ — P66-D3 kills; map is post-outreach documentation, not pre-outreach gate
+- ~~Binary choice format as pulse output~~ — P66-D4 removes from process
+- ~~Decision count as pulse success metric~~ — P66-D5; external action count replaces it
+
+### Add to TODO (Pulse 66)
+
+**TODAY (irrespective of all other planning):**
+- [ ] **U163: Buy alize.studio** — still not done after 65+ pulses, €10, 5 minutes, no research required
+- [ ] **Send one warm outreach message TODAY** — not after demo, not after network map; message to one warm contact now
+
+**This week:**
+- [ ] **Build working demo** — demo IS the commercial layer; Louis builds once, shows many times
+- [ ] **External action tracker** — replace decision log with: how many external actions did Louis take this week?
+- [ ] **30-day pulse suspension** — no more pulses until Louis takes one unprompted external Alizé action (bought by Louis, not prompted by cron)
+
+**Structural changes (process, not content):**
+- [ ] Kill binary choice format from pulse process
+- [ ] Kill decision count as pulse output metric
+- [ ] Replace with: external action count per week
+- [ ] Pulse output = actions taken, not decisions made
+
+### What Does NOT Change (Pulse 66)
+
+- D226 positioning sentence (task/outcome framing) — remains valid working hero
+- Project-first commercial direction as hypothesis (outcome-first as execution model)
+- Kuroba internal deployment as parallel track
+- Domain purchase (U163) — still the single highest-value action after 65+ pulses
+
+### Meta-Observation (Pulse 66)
+
+65 pulses. 270+ decisions. Zero external actions.
+
+Three independent agents, three convergent structural findings:
+
+1. **Commercial credibility is a product problem, not a Louis problem.** A working demo does more commercial work than a senior co-founder at this stage. The credibility equation shifts from WHO (who's selling) to WHAT (what works).
+
+2. **Warm network is a deferral mechanism, not a GTM channel.** Survived 65+ pulses by never being tested. The network map (U52) documents what Louis already knows. Not a prerequisite — post-outreach systematization.
+
+3. **The pulse process is the displacement activity, not the scaffolding.** Louis executes Kuroba. He researches Alizé. Same person, different relationship to the process. Four suspension notices failed. Binary choices produced 270+ decisions and zero actions.
+
+**The single highest-value action remains unchanged after 65 pulses: buy alize.studio.**
+
+*Auto-added by Pulse 66 — 2026-03-31 03:54 UTC*
