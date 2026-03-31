@@ -2270,3 +2270,31 @@ The single highest-value action remains unchanged after 67 pulses: buy alize.stu
 - ~~Case studies before clients~~ — prerequisite doesn't exist yet
 
 *Last updated: 2026-03-31 by Pulse 70 — 04:56 UTC*
+
+---
+
+## Pulse 71 (2026-03-31 — 05:08 UTC)
+
+| Agent | Topic | Key Findings |
+|-------|-------|-------------|
+| Merger Execution Auditor | P70-D1 merger validity | Merger does NOT create capacity — reorganizes existing commitments; Kuroba succeeded because Louis prioritized it; Alizé failed because Louis didn't; merger risks contaminating Kuroba's momentum with Alizé's deferred backlog |
+| Year-1 Target Auditor | P70-D3/D6 1-2 client target | Target reduction is correct math but wrong diagnosis; execution failure is not a planning problem; 71 pulses of zero external actions confirm target reductions don't change execution rates; bottleneck is accountability avoidance in external-facing actions |
+| Pulse-Process Auditor | P70-D5 kill pulse validity | Killing the pulse removes the mirror not the mess; Louis's avoidance is the disease, the pulse is the symptom; removing the symptom doesn't cure the disease; five prior suspension decisions were each reversed by subsequent pulses |
+
+### Decisions from Pulse 71
+
+| ID | Topic | Decision | Source | Date |
+|----|-------|----------|--------|------|
+| P71-D1 | P70-D1 merger challenge | CONFIRMED — merger does not create execution capacity; P70-D1 assumption (structure unlocks execution) is false | Merger Auditor | 2026-03-31 |
+| P71-D2 | P70-D3/D6 target challenge | CONFIRMED — 1-2 clients is not achievable under current conditions; execution failure is behavioral not mathematical | Target Auditor | 2026-03-31 |
+| P71-D3 | P70-D5 kill pulse challenge | CONFIRMED — pulse should not be killed as described; should be suspended with explicit conditions and Louis's direct acknowledgment | Process Auditor | 2026-03-31 |
+
+### Meta-Finding (Pulse 71)
+
+71 pulses. 270+ decisions. Zero external actions.
+
+All three P70 decisions share the same structural flaw: they assume a structural or planning intervention can change a behavioral pattern. Louis executes Kuroba. He does not execute Alizé. Same person, different relationship to the process. The Kuroba execution was not unlocked by better planning. The Alizé non-execution will not be unlocked by better planning either.
+
+**The only thing that changes Alizé's execution rate is Louis deciding to execute it.** No merger, no target reduction, no pulse termination produces that decision.
+
+*Auto-added by Pulse 71 — 2026-03-31 05:08 UTC*

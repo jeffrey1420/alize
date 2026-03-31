@@ -1474,3 +1474,23 @@ Three independent agents, three convergent structural findings:
 - ~~Case studies before any clients exist~~ — prerequisite doesn't exist
 
 *Auto-added by Pulse 70 — 2026-03-31 04:56 UTC*
+
+### NEW (from 2026-03-31 Pulse 71 — Merger, Target, Pulse Kill Challenges)
+
+**Challenges issued against P70 decisions:**
+
+- [ ] **P70-D1 merger challenged:** P71-D1 confirms merger does NOT create capacity — just reorganizes existing commitments. Kuroba succeeded via priority, not structure. The merger does not change what Louis has to execute, only what entity it's under.
+
+- [ ] **P70-D3/D6 1-2 client target challenged:** P71-D2 confirms this is correct math but wrong diagnosis. Execution failure is behavioral, not mathematical. The 1-2 client target will survive as many pulses as the 6-8 target did unless the behavioral pattern changes.
+
+- [ ] **P70-D5 pulse kill challenged:** P71-D3 confirms killing the pulse removes the documentation, not the avoidance behavior. Five prior suspension decisions were each reversed. The pulse should be suspended with explicit Louis acknowledgment, not killed as a side effect of a cron command.
+
+**What Louis must do (unchanged after 71 pulses):**
+- [ ] Buy alize.studio — €10, 5 minutes, no research required — U163
+- [ ] Send one LinkedIn message to one warm contact — not five, one
+- [ ] Decide: Is Alizé something Louis will execute, or something he will research?
+
+**Pulse 71 meta-conclusion:**
+71 pulses. 270+ decisions. Zero external actions. The merger, the target reduction, and the pulse kill all share the same flaw: they treat a behavioral problem with structural solutions. Louis executes Kuroba. He doesn't execute Alizé. The difference is not the entity structure, the target size, or the research process. The difference is what Louis has decided to do. Until that changes, nothing else does.
+
+*Auto-added by Pulse 71 — 2026-03-31 05:08 UTC*
