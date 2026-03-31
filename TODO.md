@@ -123,7 +123,7 @@
 - [ ] Louis's network: follow Grinto connections to digital agencies/e-commerce, not professional services
 - [ ] Delivery contractor: needed by Month 1-2 (implementation specialist, not CS manager)
 - [ ] Financial model update: revise to 6-8 client Year 1 target, not 12-15
-- [ ] Pilot structure: at-cost with strict deliverables + written case study rights
+- [ ] Pilot structure: ~~at-cost + written case study rights~~ — REPLACED by P52-D3: pilot→reference call (not case study PDF); evidence package = Kuroba proof + diagnostic deliverables + warm network testimonials; case study rights as secondary, not primary evidence mechanism
 
 ### NEW (from 2026-03-30 Pulse 7)
 - [x] "AI employee" framing → REMOVE from all materials (D20) — French labor law + political risk; replace with "workflow automation"
@@ -135,12 +135,12 @@
 
 ### NEW (from 2026-03-30 Pulse 9)
 - [x] **GTM priority (D26):** Network-first (warm outreach via Grinto's network) as primary Year 1 channel; cold outbound secondary, Month 2+. Warm outreach = 5-10x more efficient than cold for unknown brand.
-- [x] **Platform strategy (D27):** Kill parallel platform build. Pure-service-first for Months 1-12. Use n8n/Make.com for client automations. Platform decision at Month 12+ based on real revenue data.
+- [x] **Platform strategy (D27):** Kill parallel platform build. Pure-service-first for Months 1-12. ~~Use n8n/Make.com for client automations~~ — REPLACED by P52-D1: lightweight TS/Node control plane (no Zapier/Make.com/n8n consumer tooling). Platform decision at Month 12+ based on real revenue data.
 - [x] **Conversion mechanism (D28):** Hybrid outcome guarantee: €4,500 pilot + month 1 €1,200 retainer with 50% refund if unsatisfied + month-to-month after. No lock-in.
 - [x] **Pilot ROI framing (D29):** Remove "hours saved" framing. Use "operational ownership transfer" — client delegates the task entirely, never touches it again.
 - [x] **Pilot qualification (D30):** Workflow must be operationally critical. Reject "nice to have" workflows. Only accept operations client would genuinely notice losing.
 - [ ] Month 1: Map 50-75 warm contacts in Louis's network. Execute warm-first outreach personally. No cold outbound SDR yet.
-- [ ] Month 1: Evaluate n8n vs Make.com for interim service delivery tooling.
+- [ ] Month 1: ~~Evaluate n8n vs Make.com~~ — REPLACED by P52-D1: evaluate lightweight TS/Node control plane (OpenAI API + Airtable/Supabase) as delivery runtime; no consumer automation tools (Zapier/Make.com/n8n) under Alizé managed positioning
 - [ ] Define platform decision criteria at Month 12: what signals trigger build vs compose vs stay service-only?
 
 ## NEW (from 2026-03-30 Pulse 8)
@@ -1047,3 +1047,12 @@ openclaw cron remove alize-5min-pulse
 This is the only actionable item that can stop the research loop. Research cannot substitute for execution.
 
 *Auto-added by Pulse 51 — 2026-03-30 23:51 UTC*
+
+### NEW (from 2026-03-31 Pulse 52)
+- [x] **Delivery stack (P52-D1):** KILL Zapier/Make.com as delivery vehicle — contradicts managed/governed/professional pillars; replace with lightweight TS/Node control plane (OpenAI API + Airtable/Supabase state, server-side)
+- [x] **Domain U163 (P52-D2):** FALSE SIGNAL — not a research task; identity commitment avoidance; cron should not loop; Louis must act directly
+- [x] **Evidence strategy (P52-D3):** pilot→case study replaced by parallel tracks: Kuroba + diagnostic deliverables + warm network testimonials; pilot→reference call (not PDF/case study)
+- [ ] Update delivery tool evaluation: lightweight TS/Node control plane (P52-D1), not Zapier/Make.com/n8n
+- [ ] Revise pilot contract terms: reference call availability as primary evidence ask (P52-D3), not case study rights
+
+*Auto-added by Pulse 52 — 2026-03-31 00:04 UTC*

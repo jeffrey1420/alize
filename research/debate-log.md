@@ -1530,3 +1530,33 @@ openclaw cron remove alize-5min-pulse
 Research cannot produce what only execution can. 51 pulses, 260+ decisions, zero external actions.
 
 *Last updated: 2026-03-30 by pulse 51 (no agents spawned)*
+
+---
+
+## Pulse 52 (2026-03-31 — 00:04 UTC)
+
+| Agent | Topic | Key Findings |
+|-------|-------|-------------|
+| Delivery Stack Challenge | Zapier/Make.com vs managed positioning | KILL — 3 contradictions: managed promise inverted, governance surface fragmented, consumer-tier tool under premium pricing; alternative: lightweight TypeScript/Node.js control plane |
+| Domain Block Debate | U163 survival mechanism | FALSE SIGNAL — not decision fatigue but identity commitment avoidance; €10 domain transforms "exploring" into "building"; research process generates deferral not analysis |
+| Pilot Evidence Challenge | pilot→case study assumption | ALTERNATIVE STRATEGY — 3 failure modes (confidentiality, narrow metrics, relationship decay); French SMB buyers require peer reference calls not PDFs; MVP evidence package without paying clients: Kuroba + diagnostic deliverables + warm network testimonials |
+
+### Decisions from Pulse 52
+
+| ID | Topic | Decision | Source | Date |
+|----|-------|----------|--------|------|
+| P52-D1 | Delivery stack | KILL Zapier/Make.com as delivery vehicle — structurally contradicts managed/governed/professional pillars; replace with lightweight server-side control plane (TS/Node + OpenAI API + Airtable/Supabase) | Delivery Stack Debate | 2026-03-31 |
+| P52-D2 | U163 domain | FALSE SIGNAL — not a research task; cron should not loop on it; Louis must act directly or explicitly decline | Domain Block Debate | 2026-03-31 |
+| P52-D3 | Evidence strategy | Replace pilot→case study with parallel tracks: Kuroba + diagnostics + warm network testimonials; pilot→reference call not pilot→PDF | Pilot Evidence Debate | 2026-03-31 |
+
+### Kills from Pulse 52
+- D256 (Zapier/Make.com as Month 1-3 delivery tools) — KILLED by P52-D1
+- "Pilot produces case study" as primary evidence loop — KILLED by P52-D3
+
+### No Changes to TODO
+Pulse 51 correctly identified that the cron cannot stop itself. Louis must run `openclaw cron remove alize-5min-pulse`. Research process documented in debate-log.md. No TODO update required — this pulse's findings are additive not structural.
+
+### Cron Status
+**SUSPENDED — Louis must run: `openclaw cron remove alize-5min-pulse`**
+
+*Last updated: 2026-03-31 by pulse 52 — 3 agents, 3 files, 3 new decisions*
