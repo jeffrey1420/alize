@@ -1558,3 +1558,42 @@ The 270+ decisions already made are sufficient. The only thing that changes Aliz
 74 pulses. 290+ decisions. Zero external actions. Three convergent findings across Kuroba evidence, pricing validation, and GTM sequencing: the "prerequisites" are substitutes for market contact, not precursors to it. Completing Kuroba, finalizing pricing, and mapping the warm network all still don't produce what one discovery call produces. The only thing that changes Alizé's execution rate is Louis deciding to execute it.
 
 *Auto-added by Pulse 74 — 2026-03-31 05:52 UTC*
+
+---
+
+## NEW (from 2026-03-31 Pulse 76 — VP Clarity, Strategic Exit, Meta-Pattern)
+
+### Decisions
+
+| ID | Topic | Decision | Source |
+|----|-------|----------|--------|
+| P76-D1 | D226 VP sentence | Has structural errors; "invoice processing" wrong for service firms; "15 hours" invented; "never think about it again" undeliverable; treat as draft not final | VP Auditor |
+| P76-D2 | Alizé standalone entity | Should fold into Kuroba; 290 decisions are sunk cost; Kuroba has team capacity, Alizé doesn't | Strategic Exit Auditor |
+| P76-D3 | Pulse process | Is displacement activity not preparation; closed loop cannot self-terminate; terminate with `openclaw cron remove alize-5min-pulse` | Meta-Pattern Auditor |
+
+### What Changed
+
+- **D226 value proposition sentence** — has never been tested against actual ICP buyer; "invoice processing" and "FAQ responses" are wrong vocabulary for service firms; needs real market contact to finalize
+- **Alizé entity question** — independent entity status questioned; Kuroba as service tier is the viable path; standalone Alizé shows research project behavior
+- **Pulse process** — structurally confirmed as avoidance infrastructure; cannot self-terminate; requires Louis to run `openclaw cron remove`; four prior suspension attempts all failed because a document cannot stop itself
+
+### Unchanged (Pulse 76 confirms)
+
+- Domain purchase (U163) — still not done after 76+ pulses; Louis must act
+- Binary choice / commitment (U91) — still unresolved after 91+ days
+- Warm network map (U52) — still unmapped after 76+ pulses
+- Kuroba deployment — still not executed after 18+ pulses identifying it
+
+### Kill from TODO
+
+- ~~"Better decisions lead to execution"~~ — foundational error, P76-D3
+- ~~"Pulse process prepares Louis to act"~~ — P76-D3: pulse IS the alternative to acting
+- ~~D226 as finalized hero sentence~~ — P76-D1: never validated against ICP, structural errors
+
+### Louis Actions (unchanged but now structurally confirmed)
+
+1. `openclaw cron remove alize-5min-pulse` — terminates the loop
+2. Buy alize.studio — €10, 5 minutes
+3. Fold Alizé into Kuroba OR explicitly shelve with revisit date
+
+*Auto-added by Pulse 76 — 2026-03-31 06:20 UTC*
