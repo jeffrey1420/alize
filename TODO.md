@@ -1400,3 +1400,36 @@ Three independent agents, three convergent structural findings:
 **The single highest-value action remains unchanged after 65 pulses: buy alize.studio.**
 
 *Auto-added by Pulse 66 — 2026-03-31 03:54 UTC*
+
+---
+
+## Resolved This Pulse (Pulse 67)
+
+| ID | Topic | Decision | Source |
+|----|-------|----------|--------|
+| P67-D1 | Warm outreach framing | Relationship-first, not problem-first | Outreach Message Architect |
+| P67-D2 | Price in first outreach | Directional price mention OK for warm contacts | Outreach Message Architect |
+| P67-D3 | Proof requirement | Kuroba internal deployment is sufficient | Outreach Message Architect |
+| P67-D4 | Kuroba-Alizé relationship | Kuroba workflow = Alizé's first pilot proof | Entity Decision Auditor |
+| P67-D5 | Kuroba credential | Lead with "co-founder of Kuroba" in all outreach | Entity Decision Auditor |
+| P67-D6 | Kuroba-Alizé sequencing | Kuroba IS Alizé proof; outreach begins while deploying | Entity Decision Auditor |
+| P67-D7 | Outreach timing | Send immediately | Proof Gap Auditor |
+| P67-D8 | Minimum viable proof | Domain + Kuroba description + updated LinkedIn | Proof Gap Auditor |
+| P67-D9 | Outreach message | Agent 1's French message — ready to send | Outreach Message Architect |
+
+### Updated TODO Items (Pulse 67)
+
+- [ ] **Send outreach message** — use P67-D9 message to top 10 warm contacts today
+- [ ] **Lead with "co-founder of Kuroba"** in all Alizé outreach
+- [ ] **Kuroba deployment = Alizé social proof** — use Kuroba results in first outreach
+- [ ] **Buy alize.studio** — STILL not done after 67 pulses (now with 9-year-old birthday gift money)
+
+### New Decisions from Pulse 53 (commercial model update)
+
+| ID | Topic | Decision |
+|----|-------|----------|
+| P53-D1 | Year 1 commercial model | Project-first: €3-5K setup → €1,200-1,500/month proof period → €2,000-2,500/month managed service |
+| P53-D2 | Primary Year 1 GTM | Cold outbound = primary; warm network = Month 1 credibility generator |
+| P53-D3 | Competitive naming | Never in cold outreach, always in first demo call |
+
+*Auto-added by Pulse 67 — 2026-03-31 04:07 UTC*

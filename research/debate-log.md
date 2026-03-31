@@ -2144,3 +2144,50 @@ The specific finding this pulse: the pulse process is not a neutral research too
 The single highest-value action remains unchanged after 65 pulses: buy alize.studio.
 
 *Last updated: 2026-03-31 by Pulse 66 — 03:54 UTC*
+
+---
+
+## Pulse 67 (2026-03-31 — 04:07 UTC)
+
+| Agent | Topic | Key Findings |
+|-------|-------|-------------|
+| Outreach Message Architect | First outreach message | Relationship-first framing replaces problem-first for warm contacts; price directional mention OK; Kuroba internal deployment is sufficient proof |
+| Entity Decision Auditor | Kuroba-Alizé relationship | Kuroba workflow deployment IS Alizé's first pilot proof; "co-founder of Kuroba" is strongest available credential |
+| Proof Gap Auditor | Minimum viable proof | Zero required for warm outreach; domain + Kuroba description + updated LinkedIn = minimum viable proof package |
+
+### Decisions from Pulse 67
+
+| ID | Topic | Decision | Source |
+|----|-------|----------|--------|
+| P67-D1 | Warm outreach framing | Relationship-first, not problem-first | Outreach Message Architect |
+| P67-D2 | Price in first outreach | Directional price mention OK for warm contacts | Outreach Message Architect |
+| P67-D3 | Proof requirement | Kuroba internal deployment is sufficient — send now | Outreach Message Architect |
+| P67-D4 | Kuroba-Alizé relationship | Kuroba workflow = Alizé's first pilot proof | Entity Decision Auditor |
+| P67-D5 | Kuroba credential | Lead with "co-founder of Kuroba" in all Alizé outreach | Entity Decision Auditor |
+| P67-D6 | Kuroba-Alizé sequencing | Kuroba IS Alizé proof; begin outreach while deploying | Entity Decision Auditor |
+| P67-D7 | Outreach timing | Send immediately, don't wait for any proof milestone | Proof Gap Auditor |
+| P67-D8 | Minimum viable proof package | Domain + Kuroba description + updated LinkedIn | Proof Gap Auditor |
+| P67-D9 | Outreach message text | Use Agent 1's French message — ready to send | Outreach Message Architect |
+
+### Kill from Pulse 67
+
+- ~~"Problem-first framing always correct"~~ — warm contacts respond to relationship, not templates
+- ~~"Never mention price in first outreach"~~ — directional price OK, filters time-wasters
+- ~~"Case studies required before outreach"~~ — perfectionist trap, Kuroba internal is sufficient
+- ~~"Kuroba before Alizé" sequential framing~~ — Kuroba IS the Alizé proof, not a prerequisite
+- ~~"Kuroba is a separate venture"~~ — Kuroba's IA workflow IS the Alizé pilot use case
+
+### Add from Pulse 67
+
+- [ ] **Send Agent 1's outreach message** — to top 10 warm contacts today
+- [ ] **Lead with "co-founder of Kuroba"** in all Alizé outreach
+- [ ] **Kuroba deployment = Alizé social proof** — use Kuroba results in first outreach
+- [ ] **Buy alize.studio** — still not done after 67 pulses
+
+### Cross-Cutting Finding (Pulse 67)
+
+Three independent agents reached the same conclusion: the outreach message is ready. The Kuroba-Alizé relationship is clarified. The proof gap is a deferral mechanism. Send the message.
+
+The single highest-value action remains unchanged after 67 pulses: buy alize.studio.
+
+*Last updated: 2026-03-31 by Pulse 67 — 04:07 UTC*
