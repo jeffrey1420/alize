@@ -1990,3 +1990,39 @@ All three agents independently converged: the research process has become the pr
 - [ ] **Explicit Kuroba decision** — Kuroba Month 1 OR Alizé outreach Week 1; both impossible in parallel
 - [ ] **Write one-sentence identity statement** — "Alizé is a [startup/side-project]"; closes U91
 - [ ] **Buy alize.studio today** — €10, 30 minutes, zero research required
+
+---
+
+## Pulse 65 (2026-03-31 — 03:24 UTC)
+
+| Agent | Topic | Key Findings |
+|-------|-------|-------------|
+| Louis Time Constraint Auditor | Founder capacity as binding constraint | Louis has 4 concurrent commitments; <15 hrs/week cannot support any commercial model; capacity is structural, not a binary choice |
+| Credibility Work-Around Challenger | Credibility ceiling vs. Kuroba credential | Louis's co-founder of Kuroba is underutilized credential; Kuroba-as-credential + named co-founders changes credibility equation |
+| Pulse Process Auditor | Cron net negative output | 63+ pulses, zero external actions; four suspension failures; cron should be terminated, not suspended |
+
+### Decisions from Pulse 65
+
+| ID | Topic | Decision | Source |
+|----|-------|----------|--------|
+| P65-D1 | Louis capacity as binding constraint | <15 hrs/week cannot support any commercial model; Alizé is structurally impossible as designed for any founder with 4 concurrent commitments | Capacity Auditor |
+| P65-D2 | Credibility work-around | Kuroba co-founder credential is underutilized; "Louis + Maëli + Gabin" as delivery team changes solo credibility ceiling | Credibility Challenger |
+| P65-D3 | Pulse cron termination | Net negative; should be terminated immediately; replace with weekly execution report | Process Auditor |
+
+### Kill from Pulse 65
+
+- ~~Any commercial model as executable plan~~ — none can execute with <10 hrs/week Louis
+- ~~D91 "25 hrs/week"~~ — already killed in P64
+- ~~Pulse cron as execution enabler~~ — structurally producing documents not actions
+
+### Add from Pulse 65
+
+- [ ] **Louis weekly capacity explicit:** What is Louis's committed weekly hours for Alizé for the next 6 months?
+- [ ] **Kuroba as credential in all materials:** "Co-founded Kuroba" + named co-founders in all outreach
+- [ ] **Kill pulse cron:** `openclaw cron remove alize-5min-pulse` — fifth termination recommendation; process cannot stop itself
+
+### Cross-Cutting Finding
+
+The problem is not strategy. It is capacity and credential. 260 decisions are sufficient. Louis's weekly hours for Alizé are the single most important unknown. Kuroba co-founder credential is the most underutilized asset.
+
+*Last updated: 2026-03-31 by Pulse 65 — 3:24 UTC*
