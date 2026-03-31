@@ -1070,3 +1070,14 @@ This is the only actionable item that can stop the research loop. Research canno
 - [ ] Kill recurring revenue as Year 1 primary from all planning documents — replace with project-first commercial motion
 
 *Auto-added by Pulse 53 — 2026-03-31 00:16 UTC*
+
+### NEW (from 2026-03-31 Pulse 54 — Cold Outbound, Commercial Model, Execution Risk)
+- [ ] **P54-D1 — Cold outbound NOT primary until D47 blockers clear:** Zero of four D47 prerequisites exist (website, pilot, ICP, delivery). P53-D2's cold-outbound-as-primary is premature. Warm network remains the bridge.
+- [ ] **P54-D2 — Self-serve entry as Year 1 pipeline bridge:** Templates, done-for-you playbooks sold at low price points. Generates pipeline without requiring cold outreach sales capacity. Human service as upsell only when inbound exists.
+- [ ] **P54-D3 — Research pulses suspended:** No more pulses until Louis completes ONE external action (domain purchase OR first discovery call). 53+ pulses have produced zero external actions. Process has become displacement activity.
+- [ ] **P54-D4 — Minimum viable week:** Mon: buy alize.studio + draft 3 outreach messages. Tue-Thu: send messages, follow up. Fri: 1 discovery call + document learnings.
+- [ ] **Kill P53-D2 as currently stated:** Cold outbound cannot be "primary" when 0/4 D47 blockers exist. Demote to "Month 4+ target" not "Year 1 primary."
+- [ ] **Kill P53-D1 commercial model confidence:** €3-5K before proof inverts trust logic. Self-serve bridge (P54-D2) is more realistic given Louis's documented execution capacity.
+- [ ] **CRITICAL: Disable alize-5min-pulse cron:** Louis runs `openclaw cron remove alize-5min-pulse`. 4th suspension notice. Process cannot stop itself (D249).
+
+*Auto-added by Pulse 54 — 2026-03-31 00:29 UTC*
